@@ -1,0 +1,26 @@
+<code_scheme name="Default (1)">
+  <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="scala" />
+        <option value="java" />
+        <option value="_______ blank line _______" />
+        <option value="org" />
+        <option value="com" />
+        <option value="net" />
+        <option value="fr" />
+        <option value="play" />
+        <option value="_______ blank line _______" />
+        <option value="all other imports" />
+        <option value="_______ blank line _______" />
+      </array>
+    </option>
+    <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+    <option name="MULTILINE_STRING_SUPORT" value="1" />
+    <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

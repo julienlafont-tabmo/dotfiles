@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <toolWindow group="Find in Path" />
+    <toolWindow group="notification.group.id.sbt" />
+  </component>
+</application>

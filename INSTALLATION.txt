@@ -1,0 +1,108 @@
+sudo nano /etc/hostname
+sudo hostname new-name
+
+# Unscrap
+sudo apt-get autoremove gnome-contacts gnome-mahjongg gnome-mines gnome-sudoku gnome-orca xterm aisleriot webbrowser-app brasero cheese rhythmbox totem unity-webapps-common unity-lens-photos unity-scope-gdrive empathy thunderbird landscape-client-ui-install
+
+# Génération clé ssh 4096 bits
+ssh-keygen -b 4096
+
+# Installation chromium
+# http://doc.ubuntu-fr.org/chromium-browser
+apt-get install chromium-browser
+
+# Installation flash
+sudo apt-get install pepperflashplugin-nonfree
+
+# Tools
+sudo apt-get install git curl httpie irssi vlc htop glances screen tmux multitail cloc iftop ack-grep vim pgadmin3 gimp terminator unrar
+
+# Polices supplémentaires
+sudo apt-get install ttf-mscorefonts-installer ttf-xfree86-nonfree fonts-inconsolata
+
+# JAVA 8 SDK
+# https://launchpad.net/~webupd8team/+archive/ubuntu/java
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+# Scala
+sudo apt-get remove scala-library scala
+wget http://www.scala-lang.org/files/archive/scala-2.11.5.deb 
+sudo dpkg -i scala-2.11.4.deb
+sudo apt-get update
+sudo apt-get install scala 
+
+# SBT
+echo "deb http://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+sudo apt-get update
+sudo apt-get install sbt
+
+# Oh my fish
+sudo apt-add-repository ppa:fish-shell/release-2
+sudo apt-get update
+sudo apt-get install fish
+curl -L https://github.com/bpinto/oh-my-fish/raw/master/tools/install.fish | fish
+
+# Sublime text 3
+wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3065_amd64.deb
+sudo dpkg -i sublime-text_build-3065_amd64.deb
+cd ~/bin
+ln -s /opt/sublime_text/sublime_text sublime
+ln -s sublime s
+
+# PG 9.4
+echo 'deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main' | sudo tee /etc/apt/sources.list.d/pgdg.list
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+sudo apt-get install postgresql-9.4 postgresql-contrib-9.4
+
+# Configuration local (https://help.ubuntu.com/community/PostgreSQL)
+sudo -u postgres createuser --superuser $USER
+sudo -u postgres psql
+postgres=# \password [NOM d'UTILISATEUR UNIX]
+sudo -u postgres createdb $USER
+
+# now: psql; createdb -O julien nouvelle-db; dropdb nouvelle-db;
+
+# Compass/sass via ruby
+sudo apt-get install ruby
+sudo apt-get install ruby-dev
+
+gem install compass
+gem install sass
+
+# Débrayage du nombre de fichier suivi (utile pour grunt)
+sudo echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.d/99-sysctl.conf && sudo sysctl --system
+
+# Installation imprimante
+sudo apt-get install lsb
+curl -O -J -L  'https://docs.google.com/a/tabmo.fr/uc?authuser=0&id=0B7QGu2yDmJ9SdlFoMVd5TThheW8&export=download'
+sudo dpkg -i epson-inkjet-printer-escpr_1.4.4-1lsb3.2_amd64.deb
+
+# Ajouter une nouvelle imprimante
+# Attendre quelque secondes, elle devrait s'afficher automatiquement dans la liste "Imprimante réseau"
+# - Epson WF-2650
+
+# Docker
+sudo apt-get install apt-transport-https
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9
+sudo sh -c "echo deb https://get.docker.com/ubuntu docker main > /etc/apt/sources.list.d/docker.list"
+sudo apt-get update
+sudo apt-get install lxc-docker
+
+# Configuration docker "non sudo"
+sudo gpasswd -a $USER docker
+su - $USER
+sudo su 
+service docker stop
+cd /var/lib/docker/
+umount ./*
+cd ..
+mv docker /home/docker
+# nécessaire? chown root:docker /home/docker
+ls -s /home/docker docker
+service docker start
+exit
+
+# Test
+docker run -i -t ubuntu /bin/bash

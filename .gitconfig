@@ -1,0 +1,27 @@
+[user]
+    name = Julien Lafont
+    email = julien.lafont@tabmo.fr
+[alias]
+    s = status
+    st = status
+    stp = status --porcelain
+    ci = commit
+    cim = commit -m
+    br = branch
+    co = checkout
+    rz = reset --hard HEAD
+    pullr = pull --rebase
+    unstage = reset HEAD
+    lol = log --graph --decorate --pretty=oneline --abbrev-commit
+    a = add
+    d = diff
+    dc = diff --cached
+[color]
+    branch = auto
+    diff = auto
+    status = auto
+    interactive = auto
+[push]
+    default = current
+[http]
+    sslVerify = false

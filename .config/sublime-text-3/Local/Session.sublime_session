@@ -1,0 +1,437 @@
+{
+	"folder_history":
+	[
+		"/home/julien/work/projects/db_manager",
+		"/home/julien/work/projects/silhouette-rest-seed",
+		"/home/julien/Documents/Templates/magic-v1.4.1/magic",
+		"/home/julien/work/projects/manager-client",
+		"/home/julien/work/perso/box-java8-oracle-sbt",
+		"/home/julien/Documents/Templates/mtek",
+		"/home/julien/work/perso/play-hikaricp.edulify.com",
+		"/home/julien/work/projects/play2-skeleton"
+	],
+	"last_version": 3065,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/julien/Documents/INSTALLATION-suite.txt",
+				"/home/julien/work/projects/silhouette-rest-seed/project/plugins.sbt",
+				"/home/julien/work/projects/silhouette-rest-seed/project/build.properties",
+				"/home/julien/work/projects/silhouette-rest-seed/build.sbt",
+				"/home/julien/Documents/Installation imprimante.txt",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/source/jade/templates/states/layout_dark_style.jade",
+				"/home/julien/work/projects/play2-skeleton/wercker.yml",
+				"/home/julien/work/projects/manager-client/server.js",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/source/jade/templates/states/charts_flot.jade",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/source/jade/index.jade",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/Gruntfile.js",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/bower.json",
+				"/home/julien/work/projects/db_manager/schema/manager.sql",
+				"/home/julien/work/perso/play-hikaricp.edulify.com/README.md",
+				"/home/julien/work/perso/play-hikaricp.edulify.com/module-code/app/com/edulify/play/hikaricp/HikariCPConfig.scala",
+				"/home/julien/.gitconfig",
+				"/home/julien/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/julien/.config/fish/config.fish",
+				"/home/julien/.config/.alias",
+				"/home/julien/.ssh/id_rsa.pub",
+				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/julien/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/julien/.ssh/id_rsa"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"creatives",
+					"created_date",
+					"\"",
+					"SLACK_NOTIFY_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/perso/play-hikaricp.edulify.com",
+				"/home/julien/work/perso/play-hikaricp.edulify.com/module-code",
+				"/home/julien/work/perso/play-hikaricp.edulify.com/module-code/app"
+			],
+			"file_history":
+			[
+				"/home/julien/Documents/INSTALLATION-suite.txt",
+				"/home/julien/work/projects/silhouette-rest-seed/project/plugins.sbt",
+				"/home/julien/work/projects/silhouette-rest-seed/project/build.properties",
+				"/home/julien/work/projects/silhouette-rest-seed/build.sbt",
+				"/home/julien/Documents/Installation imprimante.txt",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/source/jade/templates/states/layout_dark_style.jade",
+				"/home/julien/work/projects/play2-skeleton/wercker.yml",
+				"/home/julien/work/projects/manager-client/server.js",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/source/jade/templates/states/charts_flot.jade",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/source/jade/index.jade",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/Gruntfile.js",
+				"/home/julien/Documents/Templates/mtek/ANGULAR/bower.json",
+				"/home/julien/work/projects/db_manager/schema/manager.sql",
+				"/home/julien/work/perso/play-hikaricp.edulify.com/README.md",
+				"/home/julien/work/perso/play-hikaricp.edulify.com/module-code/app/com/edulify/play/hikaricp/HikariCPConfig.scala",
+				"/home/julien/.gitconfig",
+				"/home/julien/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/julien/.config/fish/config.fish",
+				"/home/julien/.config/.alias",
+				"/home/julien/.ssh/id_rsa.pub",
+				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/julien/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/julien/.ssh/id_rsa"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"creatives",
+					"created_date",
+					"\"",
+					"SLACK_NOTIFY_"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/julien/work/perso/play-hikaricp.edulify.com"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,657,24,1920,1052,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

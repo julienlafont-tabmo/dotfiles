@@ -1,0 +1,7 @@
+[
+  {
+    "keys": ["f1"],
+    "command": "dired",
+    "args": { "immediate": true, "other_group": "left" }
+  }
+]

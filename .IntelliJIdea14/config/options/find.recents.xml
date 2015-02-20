@@ -1,0 +1,15 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>java_opts</find>
+      <find>AuthenticatorDAO</find>
+      <find>IDGenerator</find>
+      <find>sessionKey</find>
+      <find>encryptAuthenticator</find>
+      <find>notAuthenticated</find>
+      <find>AuthInfoService</find>
+      <find>CredentialsProvider</find>
+      <find>^[ ]*-</find>
+    </findStrings>
+  </component>
+</application>

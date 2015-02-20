@@ -1,0 +1,44 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2656" y="408" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1080" x="3014" y="455" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2830" y="362" />
+    <location key="#Browse_JetBrains_Plugins_.1920.0.1920.1080" x="2490" y="244" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1920.0.1920.1080" x="2616" y="250" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="2627" y="445" />
+    <location key="OptionsEditor.1920.0.1920.1080" x="1985" y="0" />
+    <location key="NewModule_or_Project.wizard.1920.0.1920.1080" x="2624" y="378" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="775" y="456" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="754" y="314" />
+    <location key="OptionsEditor.0.0.1920.1080" x="387" y="80" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="992" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="704" y="381" />
+    <location key="#Project_Structure.0.0.3840.1080" x="2383" y="120" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.3840.1080" x="2616" y="250" />
+    <location key="ProcessPopupWindow.1920.0.1920.1080" x="3375" y="879" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="2645" y="332" />
+    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2697" y="286" />
+    <location key="#Project_Structure.1920.0.1920.1080" x="2383" y="176" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="725" y="318" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="825" y="175" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2607" y="357" />
+    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="520" height="466" />
+    <size key="#Browse_JetBrains_Plugins_.1920.0.1920.1080" width="824" height="666" />
+    <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1920.0.1920.1080" width="592" height="657" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" width="560" height="239" />
+    <size key="OptionsEditor.1920.0.1920.1080" width="1855" height="1080" />
+    <size key="NewModule_or_Project.wizard.1920.0.1920.1080" width="486" height="624" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="424" height="466" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="486" height="624" />
+    <size key="OptionsEditor.0.0.1920.1080" width="1200" height="855" />
+    <size key="#Project_Structure.0.0.3840.1080" width="1048" height="862" />
+    <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.3840.1080" width="582" height="629" />
+    <size key="ProcessPopupWindow.1920.0.1920.1080" width="187" height="117" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" width="524" height="494" />
+    <size key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" width="430" height="586" />
+    <size key="#Project_Structure.1920.0.1920.1080" width="1048" height="834" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" width="524" height="494" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" width="324" height="779" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" width="592" height="388" />
+  </component>
+</application>
