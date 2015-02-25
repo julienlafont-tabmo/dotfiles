@@ -26,3 +26,7 @@ find ~/bin -maxdepth 1 -name "*.sh" -exec cp {} bin \;
 
 mkdir -p etc/resolvconf/resolv.conf.d
 sudo cp /etc/resolvconf/resolv.conf.d/* ./etc/resolvconf/resolv.conf.d
+
+git add -A
+git commit -m "sync"
+git push
