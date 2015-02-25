@@ -2,11 +2,15 @@
   <component name="FileTypeManager" version="11">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="me" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="signout" type="PLAIN_TEXT" />
+      <mapping pattern="signUpJL" type="PLAIN_TEXT" />
+      <mapping pattern="login" type="PLAIN_TEXT" />
       <mapping ext="fr" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="5" />
+    <setting name="fileTypeChangedCounter" value="9" />
   </component>
 </application>

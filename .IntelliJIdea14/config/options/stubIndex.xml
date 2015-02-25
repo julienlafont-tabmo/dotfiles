@@ -30,6 +30,12 @@
         <option value="properties.index" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="bash.vardef" />
+        <option value="bash.includers" />
+        <option value="bash.included" />
+        <option value="bash.script.fullname" />
+        <option value="bash.script.name" />
+        <option value="bash.function.name" />
         <option value="sc.implicit.function.name" />
         <option value="sc.self.type.class.name.key" />
         <option value="sc.super.class.name" />

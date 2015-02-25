@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <toolWindow group="Find in Path" />
     <toolWindow group="notification.group.id.sbt" />
+    <toolWindow group="Debugger messages" />
   </component>
 </application>

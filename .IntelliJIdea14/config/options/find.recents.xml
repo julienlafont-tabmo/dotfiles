@@ -1,15 +1,41 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>java_opts</find>
-      <find>AuthenticatorDAO</find>
-      <find>IDGenerator</find>
       <find>sessionKey</find>
       <find>encryptAuthenticator</find>
       <find>notAuthenticated</find>
-      <find>AuthInfoService</find>
-      <find>CredentialsProvider</find>
       <find>^[ ]*-</find>
+      <find>mock</find>
+      <find>InitError</find>
+      <find>retr</find>
+      <find>isValid</find>
+      <find>touch</find>
+      <find>tole</find>
+      <find>Exec</find>
+      <find>arg</find>
+      <find>logDirectoryName</find>
+      <find>Logger</find>
+      <find>PlayAccessLoggerFilter</find>
+      <find>/* size */</find>
+      <find>Future[</find>
+      <find>UserLogin</find>
+      <find>identityService</find>
+      <find>Long</find>
+      <find>discard</find>
+      <find>ApiEnvironment</find>
+      <find>passwordHasher</find>
+      <find>Provider</find>
+      <find>CredentialsProvider</find>
+      <find>Content</find>
+      <find>User</find>
+      <find>AuthInfoService</find>
+      <find>WithF</find>
+      <find>WithFi</find>
     </findStrings>
+    <replaceStrings>
+      <replace>AccessLoggerFilter</replace>
+      <replace>Tx[</replace>
+      <replace>User</replace>
+    </replaceStrings>
   </component>
 </application>

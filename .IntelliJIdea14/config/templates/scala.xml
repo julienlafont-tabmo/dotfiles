@@ -10,7 +10,9 @@
     </context>
   </template>
   <template name="ec" value="import play.api.libs.concurrent.Execution.Implicits.defaultContext" description="Import defaut ExecutionContext" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
   </template>
   <template name="json" value="import play.api.libs.json._" description="Insert main JSON import" toReformat="false" toShortenFQNames="true">
     <context>

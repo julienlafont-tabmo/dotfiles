@@ -22,3 +22,6 @@ set PATH $PATH /home/julien/work/tools/nodejs/node-v0.12.0/bin
 
 # Load custom aliases
 source ~/.config/.alias
+
+# Configure touchpad
+synclient PalmDetect=1 TapButton1=0

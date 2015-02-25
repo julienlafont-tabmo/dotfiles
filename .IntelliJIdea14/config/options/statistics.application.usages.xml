@@ -1,30 +1,5 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="javaScript Scope Usages">
-      <project id="silhouette-rest-seed" values="Project,Project" />
-      <project id="play2-skeleton" values="Project,Project" />
-      <project id="manager-api" values="Project,Project" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="silhouette-rest-seed" values="DEFAULT" />
-      <project id="play2-skeleton" values="DEFAULT" />
-      <project id="manager-api" values="DEFAULT" />
-    </group>
-    <group name="module type">
-      <project id="silhouette-rest-seed" values="JAVA_MODULE,SBT_MODULE" />
-      <project id="play2-skeleton" values="SBT_MODULE,JAVA_MODULE" />
-      <project id="manager-api" values="JAVA_MODULE,SBT_MODULE" />
-    </group>
-    <group name="Scala">
-      <project id="silhouette-rest-seed" values="Library  Spray,Library  Akka for Scala,Library  JUnit for Scala,Library  Play2 for Scala|false,Library  Scalaz,Scala  2.11.5,Library  Specs2" />
-      <project id="play2-skeleton" values="Library  Akka for Scala,Library  Play2 for Scala|false,Library  Specs2,Library  Spray,Library  Scalaz,Library  Slick,Scala  2.11.5,Library  JUnit for Scala" />
-      <project id="manager-api" values="Library  Akka for Scala,Library  Slick,Library  Spray,Scala  2.11.5,Library  JUnit for Scala,Library  Scalaz,Library  Specs2,Library  Play2 for Scala|false" />
-    </group>
-    <group name="file-type">
-      <project id="silhouette-rest-seed" values="HOCON,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML,Scala,JAVA,ARCHIVE,Markdown,Properties,SBT,CLASS" />
-      <project id="play2-skeleton" values="ARCHIVE,Images,Play2,YAML,CSS,SBT,Properties,HOCON,SQL,XML,JAVA,UNKNOWN,IDEA_MODULE,Scala,JavaScript,PLAIN_TEXT" />
-      <project id="manager-api" values="SBT,XML,Markdown,Play2,Scala,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,Properties,JavaScript,CLASS,CSS,Images,Play 2 routing,HOCON,JAVA,ARCHIVE,YAML" />
-    </group>
     <group name="libraries">
       <project id="silhouette-rest-seed" values="Scala" />
       <project id="play2-skeleton" values="Scala" />
@@ -35,10 +10,41 @@
       <project id="play2-skeleton" values="JDK_1_8" />
       <project id="manager-api" values="JDK_1_8" />
     </group>
+    <group name="JavaScript versions">
+      <project id="silhouette-rest-seed" values="DEFAULT" />
+      <project id="play2-skeleton" values="DEFAULT" />
+      <project id="manager-api" values="DEFAULT" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="manager-api" values="Play2FrameworkRunConfigurations,Remote" />
+    </group>
+    <group name="Scala">
+      <project id="silhouette-rest-seed" values="Library  Scalaz,Library  Play2 for Scala|false,Library  Akka for Scala,Scala  2.11.5,Library  Spray,Library  JUnit for Scala,Library  Specs2" />
+      <project id="play2-skeleton" values="Library  Akka for Scala,Library  Spray,Library  Play2 for Scala|false,Scala  2.11.5,Library  Specs2,Library  Slick,Library  JUnit for Scala,Library  Scalaz" />
+      <project id="manager-api" values="Library  Specs2,Library  Slick,Library  Spray,Scala  2.11.5,Library  Akka for Scala,Library  JUnit for Scala,Library  Scalaz,Library  Play2 for Scala|false" />
+    </group>
+    <group name="file-type">
+      <project id="silhouette-rest-seed" values="SBT,CLASS,IDEA_MODULE,XML,PLAIN_TEXT,Properties,JAVA,HOCON,ARCHIVE,Markdown,Scala,UNKNOWN" />
+      <project id="play2-skeleton" values="PLAIN_TEXT,Scala,SQL,SBT,JavaScript,UNKNOWN,CSS,Play2,JAVA,IDEA_MODULE,HOCON,ARCHIVE,YAML,Images,Properties,XML" />
+      <project id="manager-api" values="JavaScript,XML,Markdown,SBT,Play2,Bash,SQL,Play 2 routing,CSS,Scala,Properties,Images,IDEA_MODULE,HOCON,JAVA,YAML,ARCHIVE,CLASS,UNKNOWN,PLAIN_TEXT" />
+    </group>
+    <group name="module type">
+      <project id="silhouette-rest-seed" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="play2-skeleton" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="manager-api" values="JAVA_MODULE,SBT_MODULE" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="silhouette-rest-seed" values="Project,Project" />
+      <project id="play2-skeleton" values="Project,Project" />
+      <project id="manager-api" values="Project,Project" />
+    </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="6" />
+      <entry feature="CreateFile.CreateFileAction" count="16" />
+      <entry feature="execute.Play2FrameworkRunConfigurations.Debug" count="1" />
+      <entry feature="execute.Remote.Debug" count="1" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
       <entry feature="ide.settings.CSS" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Groovy" count="1" />
@@ -46,20 +52,20 @@
       <entry feature="ide.settings.JAVA" count="1" />
       <entry feature="ide.settings.JavaScript" count="1" />
       <entry feature="ide.settings.LESS" count="1" />
-      <entry feature="ide.settings.Live_Templates" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="4" />
       <entry feature="ide.settings.Play2" count="4" />
       <entry feature="ide.settings.Properties" count="1" />
       <entry feature="ide.settings.SASS" count="1" />
-      <entry feature="ide.settings.SBT" count="6" />
+      <entry feature="ide.settings.SBT" count="12" />
       <entry feature="ide.settings.SCSS" count="1" />
       <entry feature="ide.settings.SPI" count="1" />
       <entry feature="ide.settings.Scala" count="5" />
       <entry feature="ide.settings.XML" count="1" />
       <entry feature="idea.caches.invalidated" count="1" />
-      <entry feature="ideaapp.started" count="12" />
-      <entry feature="scala.file.with.type.aware.annotated" count="2347" />
-      <entry feature="scala.move.class" count="6" />
-      <entry feature="scala.rename.member" count="1" />
+      <entry feature="ideaapp.started" count="20" />
+      <entry feature="scala.file.with.type.aware.annotated" count="6535" />
+      <entry feature="scala.move.class" count="37" />
+      <entry feature="scala.rename.member" count="10" />
       <entry feature="tips.of.the.day.next" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />

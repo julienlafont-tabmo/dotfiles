@@ -1,2 +1,5 @@
 nameserver 80.245.57.1
 nameserver 80.245.57.2
+
+nameserver 8.8.8.8
+nameserver 8.8.4.4

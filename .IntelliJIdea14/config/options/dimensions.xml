@@ -8,27 +8,47 @@
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="2627" y="445" />
     <location key="OptionsEditor.1920.0.1920.1080" x="1985" y="0" />
     <location key="NewModule_or_Project.wizard.1920.0.1920.1080" x="2624" y="378" />
-    <location key="FileChooserDialogImpl.0.0.1920.1080" x="775" y="456" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="775" y="484" />
     <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="754" y="314" />
-    <location key="OptionsEditor.0.0.1920.1080" x="387" y="80" />
+    <location key="OptionsEditor.0.0.1920.1080" x="387" y="136" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="992" y="230" />
-    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="704" y="381" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="704" y="437" />
     <location key="#Project_Structure.0.0.3840.1080" x="2383" y="120" />
     <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.3840.1080" x="2616" y="250" />
     <location key="ProcessPopupWindow.1920.0.1920.1080" x="3375" y="879" />
-    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="2645" y="332" />
-    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2697" y="286" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="2645" y="500" />
+    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2697" y="314" />
     <location key="#Project_Structure.1920.0.1920.1080" x="2383" y="176" />
-    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="725" y="318" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="725" y="374" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="825" y="175" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2607" y="357" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080" x="654" y="429" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="654" y="412" />
+    <location key="#Auto_Import.0.0.1920.1080" x="765" y="259" />
+    <location key="#Project_Structure.0.0.1920.1080" x="463" y="120" />
+    <location key="#Notifications.0.0.1920.1080" x="749" y="282" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" x="696" y="306" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="450" y="218" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1453" y="887" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" x="165" y="124" />
+    <location key="#Web_Browsers.0.0.1920.1080" x="750" y="379" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.3840.1080" x="2645" y="318" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.3840.1080" x="2697" y="334" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.3840.1080" x="2745" y="147" />
+    <location key="OptionsEditor.0.0.3840.1080" x="2307" y="109" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.1080" x="2603" y="357" />
+    <location key="replaceTextDialog.1920.0.1920.1080" x="2694" y="237" />
+    <location key="ReplaceDuplicatesPrompt.1920.0.1920.1080" x="2349" y="497" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.0.1920.1080" x="2745" y="147" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.0.1920.1080" x="2669" y="234" />
+    <location key="findTextDialog.1920.0.1920.1080" x="2698" y="293" />
     <size key="FileChooserDialogImpl.1920.0.1920.1080" width="520" height="466" />
     <size key="#Browse_JetBrains_Plugins_.1920.0.1920.1080" width="824" height="666" />
     <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1920.0.1920.1080" width="592" height="657" />
     <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" width="560" height="239" />
     <size key="OptionsEditor.1920.0.1920.1080" width="1855" height="1080" />
     <size key="NewModule_or_Project.wizard.1920.0.1920.1080" width="486" height="624" />
-    <size key="FileChooserDialogImpl.0.0.1920.1080" width="424" height="466" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="630" height="466" />
     <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="486" height="624" />
     <size key="OptionsEditor.0.0.1920.1080" width="1200" height="855" />
     <size key="#Project_Structure.0.0.3840.1080" width="1048" height="862" />
@@ -39,6 +59,36 @@
     <size key="#Project_Structure.1920.0.1920.1080" width="1048" height="834" />
     <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" width="524" height="494" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" width="324" height="779" />
-    <size key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" width="592" height="388" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" width="598" height="388" />
+    <size key="#Auto_Import.0.0.1920.1080" width="444" height="612" />
+    <size key="#Project_Structure.0.0.1920.1080" width="1288" height="862" />
+    <size key="#Notifications.0.0.1920.1080" width="476" height="538" />
+    <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" width="592" height="629" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="201" height="121" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1809" height="358" />
+    <size key="javadoc.popup.0.0.1920.1080" width="557" height="188" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" width="1655" height="884" />
+    <size key="#Web_Browsers.0.0.1920.1080" width="484" height="343" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.3840.1080" width="524" height="494" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.3840.1080" width="430" height="573" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.3840.1080" width="324" height="779" />
+    <size key="OptionsEditor.0.0.3840.1080" width="1200" height="855" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.1080" width="609" height="388" />
+    <size key="javadoc.popup.1920.0.1920.1080" width="557" height="188" />
+    <size key="replaceTextDialog.1920.0.1920.1080" width="427" height="600" />
+    <size key="ReplaceDuplicatesPrompt.1920.0.1920.1080" width="1117" height="108" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.0.1920.1080" width="324" height="779" />
+    <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.0.1920.1080" width="476" height="605" />
+    <size key="findTextDialog.1920.0.1920.1080" width="418" height="516" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
   </component>
 </application>

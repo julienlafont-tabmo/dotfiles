@@ -106,3 +106,6 @@ exit
 
 # Test
 docker run -i -t ubuntu /bin/bash
+
+# Modifier fichiers resolv.conf, puis
+sudu resolvconf -u

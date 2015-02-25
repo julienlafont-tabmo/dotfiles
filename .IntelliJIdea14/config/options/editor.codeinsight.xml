@@ -10,6 +10,7 @@
     <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn" />
     <EXCLUDED_PACKAGE NAME="org.h2" />
+    <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="play.Application" />
     <EXCLUDED_PACKAGE NAME="play.Configuration" />
     <EXCLUDED_PACKAGE NAME="play.GlobalSettings" />
@@ -26,6 +27,7 @@
     <EXCLUDED_PACKAGE NAME="play.libs" />
     <EXCLUDED_PACKAGE NAME="play.mvc" />
     <EXCLUDED_PACKAGE NAME="play.server" />
+    <EXCLUDED_PACKAGE NAME="play.test" />
     <EXCLUDED_PACKAGE NAME="scala.parallel.Future" />
     <EXCLUDED_PACKAGE NAME="scala.slick.util.Logging" />
     <EXCLUDED_PACKAGE NAME="scalaz.concurrent.Future" />

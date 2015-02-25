@@ -2,8 +2,10 @@
   title_hide_sizetext = True
   enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, Logger, LaunchpadBugURLHandler
 [keybindings]
-  split_horiz = <Primary><Shift>h
+  reset = <Primary><Shift>k
   split_vert = <Primary><Shift>d
+  reset_clear = <Primary><Shift>r
+  split_horiz = <Primary><Shift>h
 [profiles]
   [[default]]
     scrollback_lines = 50000
@@ -12,11 +14,15 @@
     show_titlebar = False
 [layouts]
   [[default]]
-    [[[child1]]]
+    [[[child0]]]
+      position = 65:24
+      type = Window
+      order = 0
+      parent = ""
+      size = 1855, 1056
+    [[[terminal1]]]
       profile = default
       type = Terminal
-      parent = window0
-    [[[window0]]]
-      type = Window
-      parent = ""
+      order = 0
+      parent = child0
 [plugins]

@@ -19,6 +19,9 @@
     <option name="MULTILINE_STRING_SUPORT" value="1" />
     <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
   </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
