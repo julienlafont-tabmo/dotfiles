@@ -5,6 +5,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="java.time" />
+    <EXCLUDED_PACKAGE NAME="java.util.UUID" />
     <EXCLUDED_PACKAGE NAME="java.util.concurrent" />
     <EXCLUDED_PACKAGE NAME="javafx.application" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
@@ -33,5 +34,6 @@
     <EXCLUDED_PACKAGE NAME="scalaz.concurrent.Future" />
     <EXCLUDED_PACKAGE NAME="sun.net.www.http.HttpClient" />
     <EXCLUDED_PACKAGE NAME="sun.security.krb5" />
+    <EXCLUDED_PACKAGE NAME="tyrex.services.UUID" />
   </component>
 </application>

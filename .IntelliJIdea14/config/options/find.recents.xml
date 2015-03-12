@@ -1,41 +1,54 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sessionKey</find>
-      <find>encryptAuthenticator</find>
-      <find>notAuthenticated</find>
-      <find>^[ ]*-</find>
-      <find>mock</find>
-      <find>InitError</find>
-      <find>retr</find>
-      <find>isValid</find>
-      <find>touch</find>
-      <find>tole</find>
-      <find>Exec</find>
-      <find>arg</find>
-      <find>logDirectoryName</find>
-      <find>Logger</find>
-      <find>PlayAccessLoggerFilter</find>
-      <find>/* size */</find>
-      <find>Future[</find>
-      <find>UserLogin</find>
-      <find>identityService</find>
-      <find>Long</find>
-      <find>discard</find>
-      <find>ApiEnvironment</find>
-      <find>passwordHasher</find>
-      <find>Provider</find>
-      <find>CredentialsProvider</find>
-      <find>Content</find>
-      <find>User</find>
-      <find>AuthInfoService</find>
-      <find>WithF</find>
-      <find>WithFi</find>
+      <find>don't ro</find>
+      <find>logger</find>
+      <find>forj</find>
+      <find>evolutionScript</find>
+      <find>noDbApplication</find>
+      <find>applicationEvolutions</find>
+      <find>.execute</find>
+      <find>password_infos</find>
+      <find>dbA</find>
+      <find>repor</find>
+      <find>keys</find>
+      <find>slickExecutionContext</find>
+      <find>hikari</find>
+      <find>.inMemoryDatabase</find>
+      <find>subcate</find>
+      <find>must equalTo(UNPROCESSABLE_ENTITY)</find>
+      <find>must equalTo(UNAUTHORIZED)</find>
+      <find>must equalTo(OK)</find>
+      <find>new WithNoDBApplication(new FakeGlobal)</find>
+      <find>in WithCustomNoDbApplication</find>
+      <find>subCategory</find>
+      <find>odId</find>
+      <find>od_Id</find>
+      <find>lookupUserId</find>
+      <find>provideJWTAuthenticatorService</find>
+      <find>provideAvatarService</find>
+      <find>AvatarService</find>
+      <find>SecuredRequestHandlerBuilder</find>
+      <find>SecuredRequest</find>
+      <find>UserAware</find>
     </findStrings>
     <replaceStrings>
       <replace>AccessLoggerFilter</replace>
       <replace>Tx[</replace>
       <replace>User</replace>
+      <replace>core.tests</replace>
+      <replace>import entities.models._</replace>
+      <replace>bigint</replace>
+      <replace>.toJson</replace>
+      <replace>=== UNPROCESSABLE_ENTITY</replace>
+      <replace>=== UNAUTHORIZED</replace>
+      <replace>=== OK</replace>
+      <replace>WithCustomNoDbApplication</replace>
+      <replace>in new WithCustomNoDbApplication</replace>
+      <replace>subcategory</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>
+    </dirStrings>
   </component>
 </application>

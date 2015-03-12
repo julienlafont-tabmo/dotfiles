@@ -2,7 +2,9 @@
   <component name="UpdatesConfigurable">
     <option name="myPluginHosts">
       <value>
-        <list size="0" />
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="http://www.jetbrains.com/idea/plugins/scala-eap-cassiopeia.xml" />
+        </list>
       </value>
     </option>
     <option name="myKnownUpdateChannels">

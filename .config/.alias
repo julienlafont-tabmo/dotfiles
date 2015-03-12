@@ -7,6 +7,8 @@ alias gs='git status'
 
 # SSH
 alias sshperso='ssh julien@pc.studio-dev.fr'
+alias sshdev-manager-api='ssh vm@dev-manager-api'
+alias sshdev-manager-db='ssh postgresql@dev-manager-db'
 
 # Util
 alias reload-alias='source ~/.config/.alias'
@@ -18,3 +20,4 @@ alias dcker-clean='docker rm (docker ps -a -q)'
 # Touchpad
 alias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
 alias off='notify-send "Touchpad Désactivé"; synclient TouchpadOff=1'
+alias keyboardfix='ibus-daemon -rd'

@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
 		"BracketHighlighter",
 		"FileBrowser",
 		"Markdown Preview",
