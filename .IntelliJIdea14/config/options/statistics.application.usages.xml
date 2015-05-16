@@ -1,50 +1,66 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="libraries">
-      <project id="silhouette-rest-seed" values="Scala" />
-      <project id="play2-skeleton" values="Scala" />
-      <project id="manager-api" values="Scala" />
-    </group>
-    <group name="language-level">
-      <project id="silhouette-rest-seed" values="JDK_1_8" />
-      <project id="play2-skeleton" values="JDK_1_8" />
-      <project id="manager-api" values="JDK_1_8" />
-    </group>
     <group name="JavaScript versions">
-      <project id="silhouette-rest-seed" values="DEFAULT" />
-      <project id="play2-skeleton" values="DEFAULT" />
-      <project id="manager-api" values="DEFAULT" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="manager-api" values="Remote" />
-    </group>
-    <group name="Scala">
-      <project id="silhouette-rest-seed" values="Library  Specs2,Library  JUnit for Scala,Library  Play2 for Scala|false,Library  Scalaz,Library  Spray,Library  Akka for Scala,Scala  2.11.5" />
-      <project id="play2-skeleton" values="Library  Spray,Library  Slick,Scala  2.11.5,Library  JUnit for Scala,Library  Scalaz,Library  Specs2,Library  Play2 for Scala|false,Library  Akka for Scala" />
-      <project id="manager-api" values="Library  Specs2,Library  JUnit for Scala,Library  Akka for Scala,Library  Scalaz,Library  Spray,Library  Play2 for Scala|false,Library  Slick,Scala  2.11.5" />
-    </group>
-    <group name="file-type">
-      <project id="silhouette-rest-seed" values="XML,Markdown,Scala,JAVA,ARCHIVE,HOCON,UNKNOWN,Properties,SBT,CLASS,IDEA_MODULE,PLAIN_TEXT" />
-      <project id="play2-skeleton" values="ARCHIVE,IDEA_MODULE,XML,HOCON,PLAIN_TEXT,YAML,CSS,Images,JavaScript,UNKNOWN,SQL,JAVA,Scala,Play2,Properties,SBT" />
-      <project id="manager-api" values="JAVA,HTML,SBT,Scala,SQL,Markdown,JSON,Properties,Play 2 routing,IDEA_MODULE,Bash,YAML,UNKNOWN,ARCHIVE,PLAIN_TEXT,HOCON,XML,JavaScript,Images,CSS,CLASS" />
+      <project id="scaerospike" values="DEFAULT" collectionTime="0" />
+      <project id="middleware-api" values="DEFAULT" collectionTime="1431528728876" />
+      <project id="manager-api" values="DEFAULT" collectionTime="1431675403220" />
+      <project id="silhouette-rest-seed" values="DEFAULT" collectionTime="0" />
+      <project id="play2-skeleton" values="DEFAULT" collectionTime="1431612808250" />
+      <project id="dataprovider-connector-api" values="DEFAULT" collectionTime="0" />
     </group>
     <group name="module type">
-      <project id="silhouette-rest-seed" values="SBT_MODULE,JAVA_MODULE" />
-      <project id="play2-skeleton" values="SBT_MODULE,JAVA_MODULE" />
-      <project id="manager-api" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="middleware-api" values="JAVA_MODULE,SBT_MODULE" collectionTime="1431528728742" />
+      <project id="silhouette-rest-seed" values="SBT_MODULE,JAVA_MODULE" collectionTime="0" />
+      <project id="scaerospike" values="SBT_MODULE,JAVA_MODULE" collectionTime="0" />
+      <project id="play2-skeleton" values="JAVA_MODULE,SBT_MODULE" collectionTime="1431612808119" />
+      <project id="manager-api" values="SBT_MODULE,JAVA_MODULE" collectionTime="1431675402939" />
+    </group>
+    <group name="Scala">
+      <project id="middleware-api" values="Library  JUnit for Scala,Library  Spray,Library  Play2 for Scala|false,Library  Specs2,Library  Scalaz,Library  Akka for Scala,Scala  2.11.6" collectionTime="1431528728882" />
+      <project id="silhouette-rest-seed" values="Scala  2.11.5,Library  Scalaz,Library  Play2 for Scala|false,Library  JUnit for Scala,Library  Spray,Library  Specs2,Library  Akka for Scala" collectionTime="0" />
+      <project id="scaerospike" values="Library  ScalaTest,Scala  2.11.6" collectionTime="0" />
+      <project id="play2-skeleton" values="Library  Scalaz,Scala  2.11.6,Library  Akka for Scala,Library  Play2 for Scala|false,Library  Spray,Library  Specs2,Library  JUnit for Scala" collectionTime="1431612808255" />
+      <project id="manager-api" values="Library  Specs2,Library  Spray,Library  Akka for Scala,Library  Play2 for Scala|false,Library  Slick,Library  Shapeless,Scala  2.11.6,Library  Scalaz,Library  JUnit for Scala" collectionTime="1431675403242" />
+    </group>
+    <group name="file-type">
+      <project id="scaerospike" values="PLAIN_TEXT,YAML,Scala,Properties,Markdown,UNKNOWN,SBT,IDEA_MODULE,XML" collectionTime="0" />
+      <project id="middleware-api" values="SBT,CLASS,Markdown,Properties,ARCHIVE,Bash,Scala,XML,JAVA,JSON,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,HOCON" collectionTime="1431528728874" />
+      <project id="manager-api" values="JSON,XML,Images,PLAIN_TEXT,Play 2 routing,Scala,CSS,CLASS,Properties,HTML,HOCON,UNKNOWN,Markdown,SBT,JAVA,Bash,IDEA_MODULE,SQL,JavaScript,ARCHIVE" collectionTime="1431675403201" />
+      <project id="silhouette-rest-seed" values="SBT,Scala,CLASS,IDEA_MODULE,HOCON,Properties,PLAIN_TEXT,UNKNOWN,JAVA,Markdown,ARCHIVE,XML" collectionTime="0" />
+      <project id="play2-skeleton" values="CLASS,PLAIN_TEXT,Markdown,Scala,Properties,XML,SBT,HOCON,JAVA,ARCHIVE,UNKNOWN,IDEA_MODULE" collectionTime="1431612808248" />
+      <project id="dataprovider-connector-api" values="UNKNOWN" collectionTime="0" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="silhouette-rest-seed" values="Project,Project" />
-      <project id="play2-skeleton" values="Project,Project" />
-      <project id="manager-api" values="Project,Project" />
+      <project id="scaerospike" values="Project,Project" collectionTime="0" />
+      <project id="middleware-api" values="Project,Project" collectionTime="1431528728876" />
+      <project id="manager-api" values="Project,Project" collectionTime="1431675403220" />
+      <project id="silhouette-rest-seed" values="Project,Project" collectionTime="0" />
+      <project id="play2-skeleton" values="Project,Project" collectionTime="1431612808250" />
+      <project id="dataprovider-connector-api" values="Project,Project" collectionTime="0" />
+    </group>
+    <group name="libraries">
+      <project id="middleware-api" values="Scala" collectionTime="1431528728875" />
+      <project id="silhouette-rest-seed" values="Scala" collectionTime="0" />
+      <project id="scaerospike" values="Scala" collectionTime="0" />
+      <project id="play2-skeleton" values="Scala" collectionTime="1431612808249" />
+      <project id="manager-api" values="Scala" collectionTime="1431675403213" />
+    </group>
+    <group name="language-level">
+      <project id="scaerospike" values="JDK_1_8" collectionTime="0" />
+      <project id="middleware-api" values="JDK_1_8" collectionTime="1431528728876" />
+      <project id="manager-api" values="JDK_1_8" collectionTime="1431675403220" />
+      <project id="silhouette-rest-seed" values="JDK_1_8" collectionTime="0" />
+      <project id="play2-skeleton" values="JDK_1_8" collectionTime="1431612808250" />
+      <project id="dataprovider-connector-api" values="JDK_1_6" collectionTime="0" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="27" />
+      <entry feature="CreateFile.CreateFileAction" count="75" />
       <entry feature="execute.Play2FrameworkRunConfigurations.Debug" count="1" />
       <entry feature="execute.Remote.Debug" count="12" />
-      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Auto_Import" count="4" />
       <entry feature="ide.settings.CSS" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Groovy" count="1" />
@@ -59,17 +75,19 @@
       <entry feature="ide.settings.SBT" count="12" />
       <entry feature="ide.settings.SCSS" count="1" />
       <entry feature="ide.settings.SPI" count="1" />
-      <entry feature="ide.settings.Scala" count="6" />
+      <entry feature="ide.settings.Scala" count="7" />
       <entry feature="ide.settings.XML" count="1" />
-      <entry feature="idea.caches.invalidated" count="1" />
-      <entry feature="ideaapp.started" count="35" />
-      <entry feature="scala.file.with.type.aware.annotated" count="14428" />
-      <entry feature="scala.move.class" count="44" />
-      <entry feature="scala.rename.local" count="2" />
-      <entry feature="scala.rename.member" count="13" />
-      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="idea.caches.invalidated" count="2" />
+      <entry feature="ideaapp.started" count="74" />
+      <entry feature="scala.file.with.type.aware.annotated" count="40240" />
+      <entry feature="scala.inline" count="9" />
+      <entry feature="scala.move.class" count="95" />
+      <entry feature="scala.rearrange" count="194" />
+      <entry feature="scala.rename.local" count="5" />
+      <entry feature="scala.rename.member" count="47" />
+      <entry feature="tips.of.the.day.next" count="5" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="9" />
       <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
     </counts>
   </component>

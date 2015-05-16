@@ -1,9 +1,12 @@
 {
+	"color_scheme": "Packages/Theme - Piatto/Piatto Light.tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 2,
+	"theme": "Piatto Light 3.sublime-theme",
+	"trailing_spaces_trim_on_save": true,
 	"translate_tabs_to_spaces": true
 }

@@ -28,10 +28,10 @@ sudo apt-get install oracle-java8-installer
 
 # Scala
 sudo apt-get remove scala-library scala
-wget http://www.scala-lang.org/files/archive/scala-2.11.5.deb 
+wget http://www.scala-lang.org/files/archive/scala-2.11.5.deb
 sudo dpkg -i scala-2.11.4.deb
 sudo apt-get update
-sudo apt-get install scala 
+sudo apt-get install scala
 
 # SBT
 echo "deb http://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
@@ -93,7 +93,7 @@ sudo apt-get install lxc-docker
 # Configuration docker "non sudo"
 sudo gpasswd -a $USER docker
 su - $USER
-sudo su 
+sudo su
 service docker stop
 cd /var/lib/docker/
 umount ./*
@@ -108,4 +108,30 @@ exit
 docker run -i -t ubuntu /bin/bash
 
 # Modifier fichiers resolv.conf, puis
-sudu resolvconf -u
+sudo resolvconf -u
+
+# Shutter (screen capture)
+sudo add-apt-repository ppa:shutter/ppa
+sudo apt-get update
+sudo apt-get install shutter
+
+# Virer les effets graphiques
+sudo apt-get install compizconfig-settings-manager
+# Lancer compizconfig truc
+# https://ksearch.wordpress.com/2014/05/15/disable-unity-animations/
+
+# video capture
+sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+sudo apt-get update
+sudo apt-get install simplescreenrecorder
+
+# S3 tools
+apt-get install python-pip
+pip install https://github.com/s3tools/s3cmd/archive/v1.5.2.zip
+s3cmd --version # > 1.5.x
+s3cmd --configure
+
+# AWS-cli
+sudo pip install awscli
+awscli
+awscli --configure

@@ -1,51 +1,68 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>don't ro</find>
-      <find>logger</find>
-      <find>forj</find>
-      <find>evolutionScript</find>
-      <find>noDbApplication</find>
-      <find>applicationEvolutions</find>
-      <find>.execute</find>
-      <find>password_infos</find>
-      <find>dbA</find>
-      <find>repor</find>
-      <find>keys</find>
-      <find>slickExecutionContext</find>
-      <find>hikari</find>
-      <find>.inMemoryDatabase</find>
-      <find>subcate</find>
-      <find>must equalTo(UNPROCESSABLE_ENTITY)</find>
-      <find>must equalTo(UNAUTHORIZED)</find>
-      <find>must equalTo(OK)</find>
-      <find>new WithNoDBApplication(new FakeGlobal)</find>
-      <find>in WithCustomNoDbApplication</find>
-      <find>subCategory</find>
-      <find>odId</find>
-      <find>od_Id</find>
-      <find>lookupUserId</find>
-      <find>provideJWTAuthenticatorService</find>
-      <find>provideAvatarService</find>
-      <find>AvatarService</find>
-      <find>SecuredRequestHandlerBuilder</find>
-      <find>SecuredRequest</find>
-      <find>UserAware</find>
+      <find>println</find>
+      <find>o.</find>
+      <find>validate</find>
+      <find>error.buyingstrategy.bacecpm.expected</find>
+      <find>scheduleDAO</find>
+      <find>schedule</find>
+      <find>plannings_schedules</find>
+      <find>o.entity.</find>
+      <find>o =&gt;</find>
+      <find>buying_strategy_id UUID NOT NULL</find>
+      <find>LocalDateTime.now()</find>
+      <find>LocalDateTime.now</find>
+      <find>.Line.buyingStrategy</find>
+      <find>Line.buyingStrategy</find>
+      <find>DefaultRulesWrites</find>
+      <find>InternalCoreRulesWrites</find>
+      <find>Line</find>
+      <find>ID</find>
+      <find>true</find>
+      <find>:</find>
+      <find>:+</find>
+      <find>.get</find>
+      <find>resolvers</find>
+      <find>WsRequestHol</find>
+      <find>WSRequestHolder</find>
+      <find>WsRequestHol*</find>
+      <find>withRe</find>
+      <find>region</find>
+      <find>jdbc</find>
+      <find>api</find>
     </findStrings>
     <replaceStrings>
-      <replace>AccessLoggerFilter</replace>
-      <replace>Tx[</replace>
-      <replace>User</replace>
-      <replace>core.tests</replace>
-      <replace>import entities.models._</replace>
-      <replace>bigint</replace>
-      <replace>.toJson</replace>
-      <replace>=== UNPROCESSABLE_ENTITY</replace>
-      <replace>=== UNAUTHORIZED</replace>
-      <replace>=== OK</replace>
-      <replace>WithCustomNoDbApplication</replace>
-      <replace>in new WithCustomNoDbApplication</replace>
-      <replace>subcategory</replace>
+      <replace>BIGINT</replace>
+      <replace>TIMESTAMPTZ</replace>
+      <replace>import core.validation.ApiDetailError</replace>
+      <replace>===</replace>
+      <replace>&quot;</replace>
+      <replace />
+      <replace>validate(crea)</replace>
+      <replace>core.rules</replace>
+      <replace>obj.entity.</replace>
+      <replace>Int</replace>
+      <replace>\&quot;</replace>
+      <replace>order.models.FullLine</replace>
+      <replace>/api/v1/</replace>
+      <replace>2.11.6</replace>
+      <replace>2.11.4</replace>
+      <replace>x51486qs</replace>
+      <replace>eulerian</replace>
+      <replace>(</replace>
+      <replace>):</replace>
+      <replace>NonFatal(e)</replace>
+      <replace>middleware-api</replace>
+      <replace>apiError.errors.list.</replace>
+      <replace>-</replace>
+      <replace>fo.order.</replace>
+      <replace>buyingStrategy =&gt;</replace>
+      <replace>.BuyingStrategy.</replace>
+      <replace>BuyingStrategy.</replace>
+      <replace>CoreRulesWrites</replace>
+      <replace>:</replace>
+      <replace>WsRequest</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>

@@ -30,6 +30,15 @@
         <option value="properties.index" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="JS.subclass.stub.index" />
+        <option value="js.namespace.index" />
+        <option value="js.class.index2" />
+        <option value="JS.base.types.index" />
+        <option value="js.generics.index" />
+        <option value="js.typedef.index2" />
+        <option value="js.symbol.index2" />
+        <option value="Css.id" />
+        <option value="Css.class" />
         <option value="bash.vardef" />
         <option value="bash.includers" />
         <option value="bash.included" />

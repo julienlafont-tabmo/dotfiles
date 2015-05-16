@@ -1,43 +1,46 @@
 <versions>
-  <component name="ChangeListManager" version="1426156743232" />
-  <component name="ChangesViewManager" version="1424974167934" />
+  <component name="BookmarkManager" version="1427991446254" />
+  <component name="ChangeListManager" version="1428910919980" />
+  <component name="ChangesViewManager" version="1428782756271" />
   <component name="Commander" version="1424361587692" />
-  <component name="CompilerConfiguration" version="1424974172708" />
-  <component name="CreatePatchCommitExecutor" version="1424974167936" />
-  <component name="DaemonCodeAnalyzer" version="1424974167936" />
-  <component name="Encoding" version="1424974167937" />
-  <component name="EntryPointsManager" version="1424984003973" />
-  <component name="ExecutionTargetManager" version="1424974196302" />
-  <component name="FavoritesManager" version="1424974172714" />
-  <component name="FileEditorManager" version="1426157294605" />
-  <component name="IdProvider" version="1424974167953" />
-  <component name="IdeDocumentHistory" version="1426157276482" />
-  <component name="JavacSettings" version="1424974172726" />
-  <component name="JsGulpfileManager" version="1424974172734" />
+  <component name="CompilerConfiguration" version="1428787982877" />
+  <component name="CreatePatchCommitExecutor" version="1428782756273" />
+  <component name="DaemonCodeAnalyzer" version="1431345646995" />
+  <component name="Encoding" version="1428782756274" />
+  <component name="EntryPointsManager" version="1429272027099" />
+  <component name="ExecutionTargetManager" version="1428910582082" />
+  <component name="FavoritesManager" version="1428787982878" />
+  <component name="FileEditorManager" version="1431345647013" />
+  <component name="IdProvider" version="1428782756295" />
+  <component name="IdeDocumentHistory" version="1431013310297" />
+  <component name="JavacSettings" version="1428787982892" />
+  <component name="JsGulpfileManager" version="1428787982909" />
+  <component name="NamedScopeManager" version="1431345647048" />
   <component name="Play2CompilerConfiguration" version="1424361805112" />
-  <component name="Play2ExcludedModulesSettings" version="1426156743235" />
-  <component name="ProjectFrameBounds" version="1426147680905" />
+  <component name="Play2ExcludedModulesSettings" version="1431260244743" />
+  <component name="ProjectCodeStyleSettingsManager" version="1426597607444" />
+  <component name="ProjectFrameBounds" version="1431260244764" />
   <component name="ProjectInspectionProfilesVisibleTreeState" version="1424686470010" />
-  <component name="ProjectLevelVcsManager" version="1424974172747" />
-  <component name="ProjectModuleManager" version="1426156743236" />
+  <component name="ProjectLevelVcsManager" version="1428787982935" />
+  <component name="ProjectModuleManager" version="1428787982936" />
   <component name="ProjectPlainTextFileTypeManager" version="1424529142945" />
-  <component name="ProjectRootManager" version="1424974172757" />
-  <component name="ProjectView" version="1426157251891" />
-  <component name="PropertiesComponent" version="1425720989427" />
-  <component name="RecentsManager" version="1424984004005" />
-  <component name="RunManager" version="1426147680918" />
-  <component name="SbtLocalSettings" version="1426156743244" />
-  <component name="ScalaCompilerConfiguration" version="1426156743244" />
+  <component name="ProjectRootManager" version="1428787982941" />
+  <component name="ProjectView" version="1431345657440" />
+  <component name="PropertiesComponent" version="1429862579908" />
+  <component name="RecentsManager" version="1428583884896" />
+  <component name="RunManager" version="1431345647146" />
+  <component name="SbtLocalSettings" version="1429088340530" />
+  <component name="ScalaCompilerConfiguration" version="1428910582099" />
   <component name="ScalaProjectSettings" version="1425720983536" />
-  <component name="ScalaSbtSettings" version="1426156743244" />
-  <component name="ShelveChangesManager" version="1424974167980" />
+  <component name="ScalaSbtSettings" version="1430915647289" />
+  <component name="ShelveChangesManager" version="1428782756342" />
   <component name="TodoView" version="1425031754128" />
-  <component name="ToolWindowManager" version="1426157101387" />
-  <component name="Vcs.Log.UiProperties" version="1424974172794" />
-  <component name="VcsContentAnnotationSettings" version="1424974167980" />
-  <component name="VcsDirectoryMappings" version="1424974167980" />
-  <component name="VcsManagerConfiguration" version="1424974167989" />
-  <component name="XDebuggerManager" version="1425464070874" />
-  <component name="editorHistoryManager" version="1426157294619" />
-  <component name="masterDetails" version="1425465209269" />
+  <component name="ToolWindowManager" version="1431350402926" />
+  <component name="Vcs.Log.UiProperties" version="1428787983031" />
+  <component name="VcsContentAnnotationSettings" version="1428782756343" />
+  <component name="VcsDirectoryMappings" version="1428782756343" />
+  <component name="VcsManagerConfiguration" version="1431345647166" />
+  <component name="XDebuggerManager" version="1431013300066" />
+  <component name="editorHistoryManager" version="1431345647209" />
+  <component name="masterDetails" version="1429862579917" />
 </versions>

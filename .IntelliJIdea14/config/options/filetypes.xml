@@ -1,20 +1,25 @@
 <application>
-  <component name="FileTypeManager" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="13">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="signup" type="Bash" />
       <mapping ext="new" type="Bash" />
+      <mapping ext="myself" type="Bash" />
       <mapping ext="get" type="Bash" />
       <mapping ext="list" type="Bash" />
-      <mapping pattern="me" type="PLAIN_TEXT" />
+      <mapping ext="self" type="Bash" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="me" type="PLAIN_TEXT" />
+      <mapping pattern="00_authentification.md" type="PLAIN_TEXT" />
+      <mapping pattern="etc-default" type="PLAIN_TEXT" />
       <mapping pattern="orders" type="PLAIN_TEXT" />
       <mapping pattern="signout" type="PLAIN_TEXT" />
       <mapping pattern="signUpJL" type="PLAIN_TEXT" />
       <mapping pattern="login" type="PLAIN_TEXT" />
       <mapping ext="fr" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="13" />
   </component>
 </application>

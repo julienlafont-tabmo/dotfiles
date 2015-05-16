@@ -105,3 +105,4 @@ Geronimo
 SourceSafe
 Jetty
 com.intellij.aop
+com.intellij.spring.boot

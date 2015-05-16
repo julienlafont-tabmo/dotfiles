@@ -1,19 +1,37 @@
 {
 	"folder_history":
 	[
+		"/home/julien/work/projects/test-play24",
+		"/home/julien/work/projects/play2-skeleton",
+		"/home/julien/work/projects/mailer-api",
 		"/home/julien/work/projects/manager-front",
+		"/home/julien/Téléchargements/init-1.4.0",
+		"/home/julien/work/projects/bidder",
+		"/home/julien/work/projects/aws-deploy",
+		"/home/julien/work/projects/dashboard/tabmo_dev_dashboard",
+		"/home/julien/work/projects/site-tabmo",
+		"/home/julien/work/perso/rsu-nanterre",
+		"/home/julien/work/projects/manager-api",
+		"/home/julien/bin/aws",
+		"/home/julien/work/projects/dataprovider-connector-api",
+		"/home/julien/work/projects/middleware-api",
+		"/home/julien/work/projects/angular-hy-res",
+		"/home/julien/work/projects/scaerospike",
+		"/home/julien/Téléchargements/activator-1.3.2-minimal/helloword",
+		"/home/julien/work/projects/manager-doc",
+		"/home/julien/exercism/scala/word-count",
+		"/home/julien/exercism/scala/word-count/src/main/scala",
+		"/home/julien/exercism/scala/hamming",
+		"/home/julien/exercism/scala/bob",
+		"/home/julien/work/projects/manager-doc/source",
 		"/home/julien/work/projects/manager-api/target/manager-api-1.0-SNAPSHOT",
 		"/home/julien/work/projects/manager-api/target",
 		"/home/julien/work/projects/manager-api/target/out/DEBIAN",
-		"/home/julien/work/projects/manager-api",
 		"/home/julien/work/projects/manager-api/target/docker/docker/stage",
 		"/home/julien/work/projects/db_manager",
 		"/home/julien/work/projects/manager-mock",
-		"/home/julien/work/perso/rsu-nanterre",
 		"/home/julien/work/perso/zen",
 		"/home/julien/work/perso",
-		"/home/julien/work/projects/angular-hy-res",
-		"/home/julien/work/projects/play2-skeleton",
 		"/home/julien/work/projects/angular-auth",
 		"/home/julien/work/perso/docker/chrome-beta",
 		"/home/julien/work/perso/docker",
@@ -25,26 +43,62 @@
 		"/home/julien/Documents/Templates/mtek",
 		"/home/julien/work/perso/play-hikaricp.edulify.com"
 	],
-	"last_version": 3065,
-	"last_window_id": 52,
+	"last_version": 3083,
+	"last_window_id": 112,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"adverti",
+						"advertiserOfDeal"
+					],
+					[
+						"advert",
+						"advertiserIds"
+					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 194.0,
+				"last_filter": "markdow",
 				"selected_items":
 				[
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
 					[
 						"angularjs",
 						"AngularJS: Rebuild Search Index"
@@ -60,10 +114,6 @@
 					[
 						"package con",
 						"Package Control: List Packages"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
 					],
 					[
 						"markdo",
@@ -94,7 +144,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 530.0
+				"width": 516.0
 			},
 			"console":
 			{
@@ -115,669 +165,150 @@
 			},
 			"file_history":
 			[
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/fonts/glyphicons-halflings-regular.svg",
+				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
+				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
+				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
+				"/home/julien/Téléchargements/out.csv",
 				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/tables-editable.html",
-				"/home/julien/work/projects/manager-front/bower_components/jquery.ui/build/themes",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
 				"/home/julien/work/projects/manager-front/app/index.html",
 				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/manager-front/app/scripts/app.js",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/form-validation.html",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/ui-alerts.html",
-				"/home/julien/work/projects/manager-front/bower_components/ng-grid/build/ng-grid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/assets/less/bootstrap/alerts.less",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/extras-chatroom.html",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/julien/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/julien/work/projects/manager-front/app/scripts/api/apiRouter.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orderService.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourFormDirective.js",
-				"/home/julien/work/projects/manager-front/app/views/order.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/newOrderController.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/bower_components/jquery.inputmask/README.md",
-				"/home/julien/work/projects/manager-front/bower_components/modernizr/feature-detects/json.js",
-				"/home/julien/work/projects/manager-front/bower_components/jScrollPane/override_animate.html",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-less/node_modules/less/lib/less/join-selector-visitor.js",
-				"/home/julien/work/projects/manager-front/bower_components/flot/jquery.js",
-				"/home/julien/work/projects/manager-front/app/api/orders/251eb1b8-602c-4cfd-92dd-0acca8a42285.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/6a9558e1-1de2-4d17-9ce4-ce9a43f929ef.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/e7873fab-ccbe-48a5-be94-a13b883c1d3a.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/9d39d4f4-7d01-4b98-9cd3-873644a6d3f8.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/ec3489f1-c777-452b-918a-06910eb5587d.hal",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/iabCategoriesService.js",
-				"/home/julien/work/projects/manager-front/bower_components/angular-hy-res/dist/angular-hy-res.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.module.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/list.js",
-				"/home/julien/work/projects/manager-front/app/api/orders.hal",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/angular-hy-res-hal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/angular-hy-res-json.js",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/angular-hy-res.js",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/untitled",
-				"/home/julien/work/projects/manager-front/app/api/auth/orders.json",
-				"/home/julien/work/projects/manager-front/app/api/orders/list.json",
-				"/home/julien/work/projects/manager-front/app/scripts/api/apiHttp.js",
-				"/home/julien/work/projects/manager-front/bower_components/angular-hy-res/src/angular-hy-res.js",
-				"/home/julien/work/projects/db_manager/schema/manager.sql",
-				"/home/julien/work/projects/manager-api/IABParser.scala",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/loginService.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.module.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/loginBarDirective.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/userService.js",
-				"/home/julien/work/projects/manager-front/app/views/templates/login/loginBar.html",
-				"/home/julien/work/projects/manager-front/app/views/login.html",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/loginController.js",
-				"/home/julien/work/projects/manager-front/app/views/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/prototypes.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/api/auth/secured",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.module.js",
-				"/home/julien/work/projects/manager-front/bower_components/angular-ui-select2/CONTRIBUTING.md",
-				"/home/julien/work/projects/manager-front/bower_components/modernizr/feature-detects/css-objectfit.js",
-				"/home/julien/work/projects/manager-front/changelog.txt",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/extras-signupform.html",
-				"/home/julien/work/projects/manager-front/bower_components/twbs-bootstrap-sass/vendor/assets/stylesheets/bootstrap/_input-groups.scss",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-svgmin/node_modules/svgo/plugins/cleanupEnableBackground.js",
-				"/home/julien/work/projects/manager-front/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/input-groups.less",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/number/sign.js",
-				"/home/julien/work/projects/manager-front/app/assets/demo/variations/sidebar-gray.css",
-				"/home/julien/work/projects/manager-front/app/assets/demo/variations/sidebar-indigo.css",
-				"/home/julien/work/projects/manager-front/bower_components/jScrollPane/settings.html",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/secured",
-				"/home/julien/work/projects/manager-front/app/scripts/authentication/userService.js",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/login:ok",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/login:nok",
-				"/home/julien/work/projects/manager-front/app/scripts/authentication/loginService.js",
-				"/home/julien/work/projects/manager-front/app/scripts/authentication/loginController.js",
-				"/home/julien/work/projects/manager-front/app/scripts/app.modules.js",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/login-ok.json",
-				"/home/julien/work/projects/manager-front/bower_components/jquery.ui/tests/unit/button/button_options.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/get-urls/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-build/node_modules/tempfile/node_modules/uuid/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/change-case/node_modules/is-upper-case/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-google-cdn/node_modules/bower/node_modules/update-notifier/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/change-case/node_modules/upper-case-first/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/change-case/node_modules/upper-case/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/node_modules/strip-ansi/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/node_modules/has-color/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/node_modules/ansi-styles/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/tempfile/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/rimraf/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/mout/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/find-file/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/executable/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/bin-check/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/optipng-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/jpegtran-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-google-cdn/node_modules/bower/node_modules/update-notifier/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/log-symbols/node_modules/chalk/node_modules/supports-color/package.json",
-				"/home/julien/work/projects/manager-front/bower_components/font-awesome/src/_includes/community/getting-support.html",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/log-symbols/node_modules/chalk/node_modules/.bin/supports-color",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/cookie-signature/package.json",
-				"/home/julien/work/projects/logstash/logstash.conf",
-				"/home/julien/.config/terminator/config",
-				"/home/julien/work/perso/docker/README.md",
-				"/home/julien/work/docker/chrome-unstable/Dockerfile",
-				"/home/julien/work/docker/chrome-unstable/Dockerfile.new",
-				"/home/julien/work/projects/manager-api/build.sbt",
-				"/home/julien/work/perso/dotfiles/sync.sh"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location.",
-					"hasGlobalErrors",
-					"ngModel",
-					".directive",
-					"hideAlert1",
-					"controller",
-					"AlertsController",
-					"alert",
-					"displayGlobalError",
-					".alert-success",
-					"AngularFormValidationController",
-					"ng-invalid",
-					"format_err",
-					"format_errs",
-					"contains",
-					"$q",
-					"inputma",
-					"inputmask",
-					"mask",
-					"requi",
-					"\"\n",
-					"hrRoot",
-					"order",
-					"fullscr",
-					"progressL",
-					"login-bar",
-					"$location",
-					"logOut",
-					"login-bar",
-					"loginBarDirective",
-					"LoginControllerd",
-					"Matt Smith",
-					"console.log(\"call",
-					"call",
-					"apiHttp",
-					"js",
-					".factory(",
-					"factory",
-					"tryLogin",
-					"SignupPageController",
-					"try",
-					"$location",
-					"$router",
-					"$route",
-					"ui-r",
-					"Serv",
-					"pinesNotifications",
-					".when",
-					".service",
-					"login = function",
-					"function login",
-					"login()",
-					"login",
-					"\\\"",
-					"x4",
-					"x3",
-					"x2",
-					"REFERENCES",
-					"sudo",
-					"apt",
-					"sudo",
-					"creatives",
-					"created_date",
-					"\"",
-					"SLACK_NOTIFY_"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-				],
-				"width": 467.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 330.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/julien/work/projects/manager-front/app/index.html",
-					"settings":
-					{
-						"buffer_size": 20782,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
-					"settings":
-					{
-						"buffer_size": 6551,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-					"settings":
-					{
-						"buffer_size": 375,
-						"line_ending": "Unix",
-						"name": "formError.directive.js"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-					"settings":
-					{
-						"buffer_size": 76,
-						"line_ending": "Unix",
-						"name": "shared.js"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-					"settings":
-					{
-						"buffer_size": 1469,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/bower.json",
-					"settings":
-					{
-						"buffer_size": 3490,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/app.js",
-					"settings":
-					{
-						"buffer_size": 9287,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-					"settings":
-					{
-						"buffer_size": 5381,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/shared/prototypes.js",
-					"settings":
-					{
-						"buffer_size": 250,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-					"settings":
-					{
-						"buffer_size": 642,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "atabase [default] connected at jdbc:postgresql://localhost/manager\n{Key[type=com.google.inject.Stage, annotation=[none]]=InstanceBinding{key=Key[type=com.google.inject.Stage, annotation=[none]], source=[unknown source], instance=DEVELOPMENT}, Key[type=com.google.inject.Injector, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.google.inject.Injector, annotation=[none]], source=[unknown source], scope=Scopes.NO_SCOPE, provider=Provider<Injector>}, Key[type=java.util.logging.Logger, annotation=[none]]=ProviderInstanceBinding{key=Key[type=java.util.logging.Logger, annotation=[none]], source=[unknown source], scope=Scopes.NO_SCOPE, provider=Provider<Logger>}, Key[type=core.utils.ws.HttpClient, annotation=[none]]=LinkedKeyBinding{key=Key[type=core.utils.ws.HttpClient, annotation=[none]], source=di.PlayInjector$$anon$1.bind(PlayInjector.scala:17), scope=Scopes.NO_SCOPE, target=Key[type=core.utils.ws.HttpClientProxyPlayWS, annotation=[none]]}, Key[type=play.api.Application, annotation=[none]]=ProviderInstanceBinding{key=Key[type=play.api.Application, annotation=[none]], source=public play.api.Application di.PlayInjector$$anon$1.providesApplication(), scope=Scopes.NO_SCOPE, provider=@Provides di.PlayInjector$$anon$1.providesApplication(PlayInjector.scala:24)}, Key[type=scala.concurrent.ExecutionContext, annotation=[none]]=ProviderInstanceBinding{key=Key[type=scala.concurrent.ExecutionContext, annotation=[none]], source=public scala.concurrent.ExecutionContext di.PlayInjector$$anon$1.providesExecutionContext(), scope=Scopes.NO_SCOPE, provider=@Provides di.PlayInjector$$anon$1.providesExecutionContext(PlayInjector.scala:27)}, Key[type=play.api.db.slick.Database, annotation=[none]]=ProviderInstanceBinding{key=Key[type=play.api.db.slick.Database, annotation=[none]], source=public play.api.db.slick.Database di.PlayInjector$$anon$1.providesDefaultDatabase(play.api.Application), scope=Scopes.NO_SCOPE, provider=@Provides di.PlayInjector$$anon$1.providesDefaultDatabase(PlayInjector.scala:30)}, Key[type=com.typesafe.config.Config, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.typesafe.config.Config, annotation=[none]], source=public com.typesafe.config.Config di.PlayInjector$$anon$1.providesAppConfiguration(play.api.Application), scope=Scopes.NO_SCOPE, provider=@Provides di.PlayInjector$$anon$1.providesAppConfiguration(PlayInjector.scala:37)}, Key[type=services.Bootstrap, annotation=[none]]=ProviderInstanceBinding{key=Key[type=services.Bootstrap, annotation=[none]], source=public services.Bootstrap di.AppInjector$$anon$1.providesBootstrap(play.api.Application,order.daos.OrganizationDAO,order.daos.OrderDAO,auth.services.AuthService,com.mohiva.play.silhouette.api.services.AuthInfoService,com.mohiva.play.silhouette.api.util.PasswordHasher), scope=Scopes.NO_SCOPE, provider=@Provides di.AppInjector$$anon$1.providesBootstrap(AppInjector.scala:33)}, Key[type=auth.services.AuthService, annotation=[none]]=LinkedKeyBinding{key=Key[type=auth.services.AuthService, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), scope=Scopes.NO_SCOPE, target=Key[type=auth.services.AuthServiceImpl, annotation=[none]]}, Key[type=com.mohiva.play.silhouette.api.services.IdentityService<entities.models.User>, annotation=[none]]=LinkedKeyBinding{key=Key[type=com.mohiva.play.silhouette.api.services.IdentityService<entities.models.User>, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), scope=Scopes.NO_SCOPE, target=Key[type=auth.services.AuthServiceImpl, annotation=[none]]}, Key[type=auth.daos.UserSignupDAO, annotation=[none]]=LinkedKeyBinding{key=Key[type=auth.daos.UserSignupDAO, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), scope=Scopes.NO_SCOPE, target=Key[type=auth.daos.slick.UserSignupDAOSlick, annotation=[none]]}, Key[type=com.mohiva.play.silhouette.impl.daos.DelegableAuthInfoDAO<com.mohiva.play.silhouette.api.util.PasswordInfo>, annotation=[none]]=LinkedKeyBinding{key=Key[type=com.mohiva.play.silhouette.impl.daos.DelegableAuthInfoDAO<com.mohiva.play.silhouette.api.util.PasswordInfo>, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), scope=Scopes.NO_SCOPE, target=Key[type=daos.slick.PasswordInfoDAOSlick, annotation=[none]]}, Key[type=com.mohiva.play.silhouette.api.util.CacheLayer, annotation=[none]]=LinkedKeyBinding{key=Key[type=com.mohiva.play.silhouette.api.util.CacheLayer, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), scope=Scopes.NO_SCOPE, target=Key[type=com.mohiva.play.silhouette.impl.util.PlayCacheLayer, annotation=[none]]}, Key[type=com.mohiva.play.silhouette.api.util.HTTPLayer, annotation=[none]]=LinkedKeyBinding{key=Key[type=com.mohiva.play.silhouette.api.util.HTTPLayer, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), scope=Scopes.NO_SCOPE, target=Key[type=com.mohiva.play.silhouette.api.util.PlayHTTPLayer, annotation=[none]]}, Key[type=com.mohiva.play.silhouette.api.util.IDGenerator, annotation=[none]]=InstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.util.IDGenerator, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), instance=com.mohiva.play.silhouette.impl.util.SecureRandomIDGenerator@1c5a1c2a}, Key[type=com.mohiva.play.silhouette.api.util.PasswordHasher, annotation=[none]]=InstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.util.PasswordHasher, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), instance=com.mohiva.play.silhouette.impl.util.BCryptPasswordHasher@69ddc8f0}, Key[type=com.mohiva.play.silhouette.api.util.FingerprintGenerator, annotation=[none]]=InstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.util.FingerprintGenerator, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), instance=com.mohiva.play.silhouette.impl.util.DefaultFingerprintGenerator@9b5b6b1}, Key[type=com.mohiva.play.silhouette.api.EventBus, annotation=[none]]=InstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.EventBus, annotation=[none]], source=auth.di.AuthModule.bind(AuthModule.scala:24), instance=com.mohiva.play.silhouette.api.EventBus@72abe17b}, Key[type=com.mohiva.play.silhouette.api.Environment<entities.models.User, com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticator>, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.Environment<entities.models.User, com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticator>, annotation=[none]], source=public com.mohiva.play.silhouette.api.Environment auth.di.AuthModule.provideTokenBearerEnvironment(auth.services.AuthService,com.mohiva.play.silhouette.api.services.AuthenticatorService,com.mohiva.play.silhouette.api.EventBus,com.mohiva.play.silhouette.impl.providers.CredentialsProvider), scope=Scopes.NO_SCOPE, provider=@Provides auth.di.AuthModule.provideTokenBearerEnvironment(AuthModule.scala:55)}, Key[type=com.mohiva.play.silhouette.api.services.AuthenticatorService<com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticator>, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.services.AuthenticatorService<com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticator>, annotation=[none]], source=public com.mohiva.play.silhouette.api.services.AuthenticatorService auth.di.AuthModule.provideJWTAuthenticatorService(com.mohiva.play.silhouette.api.util.IDGenerator,com.typesafe.config.Config), scope=Scopes.NO_SCOPE, provider=@Provides auth.di.AuthModule.provideJWTAuthenticatorService(AuthModule.scala:74)}, Key[type=com.mohiva.play.silhouette.api.services.AuthInfoService, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.services.AuthInfoService, annotation=[none]], source=public com.mohiva.play.silhouette.api.services.AuthInfoService auth.di.AuthModule.provideAuthInfoService(com.mohiva.play.silhouette.impl.daos.DelegableAuthInfoDAO), scope=Scopes.NO_SCOPE, provider=@Provides auth.di.AuthModule.provideAuthInfoService(AuthModule.scala:97)}, Key[type=com.mohiva.play.silhouette.api.services.AvatarService, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.mohiva.play.silhouette.api.services.AvatarService, annotation=[none]], source=public com.mohiva.play.silhouette.api.services.AvatarService auth.di.AuthModule.provideAvatarService(com.mohiva.play.silhouette.api.util.HTTPLayer), scope=Scopes.NO_SCOPE, provider=@Provides auth.di.AuthModule.provideAvatarService(AuthModule.scala:107)}, Key[type=com.mohiva.play.silhouette.impl.providers.CredentialsProvider, annotation=[none]]=ProviderInstanceBinding{key=Key[type=com.mohiva.play.silhouette.impl.providers.CredentialsProvider, annotation=[none]], source=public com.mohiva.play.silhouette.impl.providers.CredentialsProvider auth.di.AuthModule.provideCredentialsProvider(com.mohiva.play.silhouette.api.services.AuthInfoService,com.mohiva.play.silhouette.api.util.PasswordHasher), scope=Scopes.NO_SCOPE, provider=@Provides auth.di.AuthModule.provideCredentialsProvider(AuthModule.scala:120)}, Key[type=order.daos.OrderDAO, annotation=[none]]=LinkedKeyBinding{key=Key[type=order.daos.OrderDAO, annotation=[none]], source=order.di.OrderModule.bind(OrderModule.scala:11), scope=Scopes.NO_SCOPE, target=Key[type=order.daos.slick.OrderDAOSlick, annotation=[none]]}, Key[type=order.daos.OrganizationDAO, annotation=[none]]=LinkedKeyBinding{key=Key[type=order.daos.OrganizationDAO, annotation=[none]], source=order.di.OrderModule.bind(OrderModule.scala:11), scope=Scopes.NO_SCOPE, target=Key[type=order.daos.slick.OrganizationDAOSlick, annotation=[none]]}, Key[type=services.OrderService, annotation=[none]]=LinkedKeyBinding{key=Key[type=services.OrderService, annotation=[none]], source=order.di.OrderModule.bind(OrderModule.scala:11), scope=Scopes.NO_SCOPE, target=Key[type=services.impl.OrderServiceImpl, annotation=[none]]}, Key[type=services.IABCategoryService, annotation=[none]]=LinkedKeyBinding{key=Key[type=services.IABCategoryService, annotation=[none]], source=order.di.OrderModule.bind(OrderModule.scala:11), scope=Scopes.NO_SCOPE, target=Key[type=services.impl.IABCategoryServiceImpl, annotation=[none]]}, Key[type=auth.services.AuthServiceImpl, annotation=[none]]=ConstructorBinding{key=Key[type=auth.services.AuthServiceImpl, annotation=[none]], source=class auth.services.AuthServiceImpl, scope=Scopes.NO_SCOPE}, Key[type=com.mohiva.play.silhouette.api.util.PlayHTTPLayer, annotation=[none]]=ConstructorBinding{key=Key[type=com.mohiva.play.silhouette.api.util.PlayHTTPLayer, annotation=[none]], source=class com.mohiva.play.silhouette.api.util.PlayHTTPLayer, scope=Scopes.NO_SCOPE}, Key[type=daos.slick.PasswordInfoDAOSlick, annotation=[none]]=ConstructorBinding{key=Key[type=daos.slick.PasswordInfoDAOSlick, annotation=[none]], source=class daos.slick.PasswordInfoDAOSlick, scope=Scopes.NO_SCOPE}, Key[type=auth.daos.slick.UserSignupDAOSlick, annotation=[none]]=ConstructorBinding{key=Key[type=auth.daos.slick.UserSignupDAOSlick, annotation=[none]], source=class auth.daos.slick.UserSignupDAOSlick, scope=Scopes.SINGLETON}, Key[type=order.daos.slick.OrderDAOSlick, annotation=[none]]=ConstructorBinding{key=Key[type=order.daos.slick.OrderDAOSlick, annotation=[none]], source=class order.daos.slick.OrderDAOSlick, scope=Scopes.NO_SCOPE}, Key[type=com.mohiva.play.silhouette.impl.util.PlayCacheLayer, annotation=[none]]=ConstructorBinding{key=Key[type=com.mohiva.play.silhouette.impl.util.PlayCacheLayer, annotation=[none]], source=class com.mohiva.play.silhouette.impl.util.PlayCacheLayer, scope=Scopes.NO_SCOPE}, Key[type=services.impl.OrderServiceImpl, annotation=[none]]=ConstructorBinding{key=Key[type=services.impl.OrderServiceImpl, annotation=[none]], source=class services.impl.OrderServiceImpl, scope=Scopes.NO_SCOPE}, Key[type=core.utils.ws.HttpClientProxyPlayWS, annotation=[none]]=ConstructorBinding{key=Key[type=core.utils.ws.HttpClientProxyPlayWS, annotation=[none]], source=class core.utils.ws.HttpClientProxyPlayWS, scope=Scopes.NO_SCOPE}, Key[type=order.daos.slick.OrganizationDAOSlick, annotation=[none]]=ConstructorBinding{key=Key[type=order.daos.slick.OrganizationDAOSlick, annotation=[none]], source=class order.daos.slick.OrganizationDAOSlick, scope=Scopes.NO_SCOPE}, Key[type=services.impl.IABCategoryServiceImpl, annotation=[none]]=ConstructorBinding{key=Key[type=services.impl.IABCategoryServiceImpl, annotation=[none]], source=class services.impl.IABCategoryServiceImpl, scope=Scopes.SINGLETON}}\n[debug] scala.slick.jdbc.JdbcBackend.statement - Preparing statement: select x2.x3 from (select count(1) as x3 from (select x4.\"updated_at\" as x5, x4.\"status\" as x6, x4.\"state\" as x7, x4.\"city\" as x8, x4.\"country\" as x9, x4.\"address\" as x10, x4.\"created_at\" as x11, x4.\"phone\" as x12, x4.\"id\" as x13, x4.\"zipcode\" as x14, x4.\"name\" as x15, x4.\"logo_url\" as x16 from \"organizations\" x4) x17) x2\n",
-					"settings":
-					{
-						"buffer_size": 12910,
-						"line_ending": "Unix",
-						"name": "atabase [default] connected at jdbc:postgresql://l"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/translations/fr.json",
-					"settings":
-					{
-						"buffer_size": 896,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/manager-front/app/translations/en.json",
-					"settings":
-					{
-						"buffer_size": 84,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 530.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/manager-front",
-				"/home/julien/work/projects/manager-front/app",
-				"/home/julien/work/projects/manager-front/app/scripts",
-				"/home/julien/work/projects/manager-front/app/scripts/api",
-				"/home/julien/work/projects/manager-front/app/scripts/auth",
-				"/home/julien/work/projects/manager-front/app/scripts/shared",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res",
-				"/home/julien/work/projects/manager-front/app/views",
-				"/home/julien/work/projects/manager-front/app/views/orders"
-			],
-			"file_history":
-			[
-				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
 				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/translations/en.json",
-				"/home/julien/work/projects/manager-front/app/translations/fr.json",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/i18n",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
+				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
 				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/fonts/glyphicons-halflings-regular.svg",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/tables-editable.html",
-				"/home/julien/work/projects/manager-front/bower_components/jquery.ui/build/themes",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/bower.json",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
+				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
 				"/home/julien/work/projects/manager-front/app/scripts/app.js",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/form-validation.html",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/ui-alerts.html",
-				"/home/julien/work/projects/manager-front/bower_components/ng-grid/build/ng-grid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/assets/less/bootstrap/alerts.less",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/extras-chatroom.html",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
+				"/home/julien/work/projects/angular-hy-res/package.json",
+				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
+				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
 				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/julien/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/julien/work/projects/manager-front/app/scripts/api/apiRouter.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orderService.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourFormDirective.js",
-				"/home/julien/work/projects/manager-front/app/views/order.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/newOrderController.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/bower_components/jquery.inputmask/README.md",
-				"/home/julien/work/projects/manager-front/bower_components/modernizr/feature-detects/json.js",
-				"/home/julien/work/projects/manager-front/bower_components/jScrollPane/override_animate.html",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-less/node_modules/less/lib/less/join-selector-visitor.js",
-				"/home/julien/work/projects/manager-front/bower_components/flot/jquery.js",
-				"/home/julien/work/projects/manager-front/app/api/orders/251eb1b8-602c-4cfd-92dd-0acca8a42285.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/6a9558e1-1de2-4d17-9ce4-ce9a43f929ef.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/e7873fab-ccbe-48a5-be94-a13b883c1d3a.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/9d39d4f4-7d01-4b98-9cd3-873644a6d3f8.hal",
-				"/home/julien/work/projects/manager-front/app/api/orders/ec3489f1-c777-452b-918a-06910eb5587d.hal",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/iabCategoriesService.js",
-				"/home/julien/work/projects/manager-front/bower_components/angular-hy-res/dist/angular-hy-res.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.module.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/list.js",
-				"/home/julien/work/projects/manager-front/app/api/orders.hal",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/angular-hy-res-hal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/angular-hy-res-json.js",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/angular-hy-res.js",
-				"/home/julien/work/projects/manager-front/app/scripts/vendors/angular-hy-res/untitled",
-				"/home/julien/work/projects/manager-front/app/api/auth/orders.json",
-				"/home/julien/work/projects/manager-front/app/api/orders/list.json",
-				"/home/julien/work/projects/manager-front/app/scripts/api/apiHttp.js",
-				"/home/julien/work/projects/manager-front/bower_components/angular-hy-res/src/angular-hy-res.js",
-				"/home/julien/work/projects/db_manager/schema/manager.sql",
-				"/home/julien/work/projects/manager-api/IABParser.scala",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/loginService.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.module.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/loginBarDirective.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/userService.js",
-				"/home/julien/work/projects/manager-front/app/views/templates/login/loginBar.html",
-				"/home/julien/work/projects/manager-front/app/views/login.html",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/loginController.js",
-				"/home/julien/work/projects/manager-front/app/views/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/prototypes.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/api/auth/secured",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.module.js",
-				"/home/julien/work/projects/manager-front/bower_components/angular-ui-select2/CONTRIBUTING.md",
-				"/home/julien/work/projects/manager-front/bower_components/modernizr/feature-detects/css-objectfit.js",
-				"/home/julien/work/projects/manager-front/changelog.txt",
-				"/home/julien/work/projects/manager-front/app/views/demo-files/extras-signupform.html",
-				"/home/julien/work/projects/manager-front/bower_components/twbs-bootstrap-sass/vendor/assets/stylesheets/bootstrap/_input-groups.scss",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-svgmin/node_modules/svgo/plugins/cleanupEnableBackground.js",
-				"/home/julien/work/projects/manager-front/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/input-groups.less",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/number/sign.js",
-				"/home/julien/work/projects/manager-front/app/assets/demo/variations/sidebar-gray.css",
-				"/home/julien/work/projects/manager-front/app/assets/demo/variations/sidebar-indigo.css",
-				"/home/julien/work/projects/manager-front/bower_components/jScrollPane/settings.html",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/secured",
-				"/home/julien/work/projects/manager-front/app/scripts/authentication/userService.js",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/login:ok",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/login:nok",
-				"/home/julien/work/projects/manager-front/app/scripts/authentication/loginService.js",
-				"/home/julien/work/projects/manager-front/app/scripts/authentication/loginController.js",
-				"/home/julien/work/projects/manager-front/app/scripts/app.modules.js",
-				"/home/julien/work/projects/manager-front/app/api/v1/auth/login-ok.json",
-				"/home/julien/work/projects/manager-front/bower_components/jquery.ui/tests/unit/button/button_options.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/get-urls/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-build/node_modules/tempfile/node_modules/uuid/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/change-case/node_modules/is-upper-case/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-google-cdn/node_modules/bower/node_modules/update-notifier/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/change-case/node_modules/upper-case-first/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/change-case/node_modules/upper-case/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/node_modules/strip-ansi/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/node_modules/has-color/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/node_modules/ansi-styles/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/tempfile/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/rimraf/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/mout/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/find-file/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/executable/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/bin-check/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/tough-cookie/node_modules/punycode/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/chalk/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/optipng-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/jpegtran-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/pngquant-bin/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-google-cdn/node_modules/bower/node_modules/update-notifier/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/log-symbols/node_modules/chalk/node_modules/supports-color/package.json",
-				"/home/julien/work/projects/manager-front/bower_components/font-awesome/src/_includes/community/getting-support.html",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/log-symbols/node_modules/chalk/node_modules/.bin/supports-color",
-				"/home/julien/work/projects/manager-front/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/cookie-signature/package.json",
-				"/home/julien/work/projects/logstash/logstash.conf"
+				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
+				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
+				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
+				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
+				"/home/julien/Documents/INSTALLATION.txt",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_requetesreponses.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_authentification.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_campagnes.md",
+				"/home/julien/work/projects/manager-doc/config.rb",
+				"/home/julien/work/projects/manager-doc/source/includes/_creatives.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_annonceurs.md",
+				"/home/julien/work/projects/manager-doc/source/index.md",
+				"/home/julien/work/projects/manager-doc/build/javascripts/all_nosearch.js",
+				"/home/julien/work/projects/manager-doc/build/javascripts/app/search.js",
+				"/home/julien/work/projects/manager-doc/build/javascripts/lib/jquery.highlight.js",
+				"/home/julien/work/projects/manager-doc/source/stylesheets/syntax.css.scss.erb",
+				"/home/julien/work/projects/manager-doc/source/layouts/layout.erb",
+				"/home/julien/work/projects/manager-doc/Gemfile"
 			],
 			"find":
 			{
-				"height": 52.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"/home/julien/work/projects/manager-front/app/",
+					"/home/julien/work/projects/manager-front/app/views",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-doc",
 					"/home/julien/work/projects/manager-front/",
 					"/home/julien/work/projects/manager-front/app",
 					"/home/julien/work/projects/manager-front/app/scripts",
@@ -790,6 +321,108 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"aws",
+					"zip",
+					"node",
+					"karma",
+					"-o",
+					"Chart.js",
+					"char",
+					"Chart.js",
+					"Chart",
+					"env",
+					"ugl",
+					"ugly",
+					"fontawesome-webfont.woff2",
+					"font",
+					"ugly",
+					"$scope.layoutHorizontal = newVal;",
+					"uglify",
+					"scripts",
+					"vendor",
+					"concat",
+					"map",
+					"$scope.layoutHorizontal = newVal",
+					"$scope.layoutHorizontal=newVal",
+					"dash",
+					"tabmo",
+					"concurrent",
+					"less",
+					"copy",
+					"console.log",
+					"creatives.updated",
+					"OrderViewController",
+					"default-initials-img",
+					"defaultInitialsImg",
+					"test",
+					">\n",
+					"timezone",
+					"daterangepicker",
+					"$",
+					"€",
+					"regex",
+					"$q",
+					"schedule",
+					"currentDeal",
+					"advertiser",
+					"listAdvertiser",
+					"webpackPipe",
+					"/v1/",
+					"manager-api",
+					"//v1/",
+					"api/v1/public/",
+					"v1advertiser",
+					"/api/v1/public/",
+					"txt",
+					"localhost",
+					"dev-manager-api",
+					"9100",
+					"9000",
+					"manager-api",
+					"dev-manager-api:9000",
+					"pending",
+					"cré",
+					"-d",
+					"timezones",
+					"OrderSpec",
+					"Congtent-",
+					"^## ",
+					"^# ",
+					"icon-exclamation-sign",
+					"warning",
+					"aside",
+					"$MANAGER_API",
+					"$examples-width",
+					"0",
+					"Monokai",
+					"pre",
+					"live",
+					"isNotBanner",
+					"isBanner",
+					"ng-disa",
+					"ng-if",
+					"codemi",
+					"switchStatus",
+					"editorOptions",
+					"icheck",
+					"select2RemoteOptions",
+					"select2TaggingOptions",
+					"ui-select2",
+					"ui-select2 ",
+					", ",
+					"'",
+					"'creativesize.",
+					", 'tablet'),",
+					", 'smartphone'),",
+					", 'mobile'),",
+					"    (uuid_generate_v1mc(), ",
+					"(uuid_generate_v1mc(), ",
+					"scriptS",
+					"UUID",
+					"creatives",
+					"lines",
+					"data",
+					";\n",
 					"<!",
 					"api",
 					"OrderViewController",
@@ -815,51 +448,7 @@
 					"inputmask",
 					"mask",
 					"requi",
-					"\"\n",
-					"hrRoot",
-					"order",
-					"fullscr",
-					"progressL",
-					"login-bar",
-					"$location",
-					"logOut",
-					"login-bar",
-					"loginBarDirective",
-					"LoginControllerd",
-					"Matt Smith",
-					"console.log(\"call",
-					"call",
-					"apiHttp",
-					"js",
-					".factory(",
-					"factory",
-					"tryLogin",
-					"SignupPageController",
-					"try",
-					"$location",
-					"$router",
-					"$route",
-					"ui-r",
-					"Serv",
-					"pinesNotifications",
-					".when",
-					".service",
-					"login = function",
-					"function login",
-					"login()",
-					"login",
-					"\\\"",
-					"x4",
-					"x3",
-					"x2",
-					"REFERENCES",
-					"sudo",
-					"apt",
-					"sudo",
-					"creatives",
-					"created_date",
-					"\"",
-					"SLACK_NOTIFY_"
+					"\"\n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -867,6 +456,18 @@
 				"regex": false,
 				"replace_history":
 				[
+					"-O",
+					"deal",
+					"/",
+					"dataprovider-api",
+					"/v1/",
+					"v1/advertiser",
+					"/internal/v1",
+					"manager-api.dev.tabmo.net",
+					"",
+					"$URL",
+					" -> ",
+					"",
 					"q",
 					"\"",
 					"uhli",
@@ -878,38 +479,655 @@
 				],
 				"reverse": false,
 				"show_context": true,
-				"use_buffer2": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 396.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"directive",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"direct",
+						"app/scripts/form/Directives.js"
+					],
+					[
+						"creative.view.",
+						"app/views/creatives/creatives.view.html"
+					],
+					[
+						"creative.v",
+						"app/scripts/creatives/creatives.view.js"
+					],
+					[
+						"direc",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"ourf",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"date",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"dat",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"daterangepicker",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"our",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"deal.ser",
+						"app/scripts/deals/deals.service.js"
+					],
+					[
+						"newor",
+						"modules/order/app/models/api/NewOrder.scala"
+					],
+					[
+						"orderser",
+						"modules/order/app/services/impl/OrderServiceImpl.scala"
+					],
+					[
+						"businessva",
+						"modules/core/src/main/scala/validation/BusinessValidation.scala"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"templa",
+						"app/scripts/templates/templates.js"
+					],
+					[
+						"controller",
+						"app/scripts/pages/Controllers.js"
+					],
+					[
+						"bower",
+						"bower.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 741.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 345.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"adverti",
+						"advertiserOfDeal"
+					],
+					[
+						"advert",
+						"advertiserIds"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/bidder/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 4052,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/init.sh",
+					"settings":
+					{
+						"buffer_size": 847,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/Documents/Doc installation EC2 manager.txt",
+					"settings":
+					{
+						"buffer_size": 892,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/Documents/INSTALLATION.txt",
+					"settings":
+					{
+						"buffer_size": 4262,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 194.0,
+				"last_filter": "markdow",
+				"selected_items":
+				[
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"angularjs",
+						"AngularJS: Rebuild Search Index"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package con",
+						"Package Control: List Packages"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 516.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/projects/aws-deploy",
+				"/home/julien/work/projects/aws-deploy/applications",
+				"/home/julien/work/projects/aws-deploy/applications/bidder",
+				"/home/julien/work/projects/aws-deploy/applications/manager",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api",
+				"/home/julien/work/projects/aws-deploy/applications/tracker"
+			],
+			"file_history":
+			[
+				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
+				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
+				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
+				"/home/julien/Téléchargements/out.csv",
+				"/home/julien/work/projects/manager-front/Gruntfile.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
+				"/home/julien/work/projects/manager-front/app/index.html",
+				"/home/julien/work/projects/manager-front/bower.json",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
+				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
+				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/app.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
+				"/home/julien/work/projects/angular-hy-res/package.json",
+				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
+				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
+				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
+				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
+				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
+				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
+				"/home/julien/Documents/INSTALLATION.txt",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_requetesreponses.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_authentification.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_campagnes.md",
+				"/home/julien/work/projects/manager-doc/config.rb",
+				"/home/julien/work/projects/manager-doc/source/includes/_creatives.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_annonceurs.md",
+				"/home/julien/work/projects/manager-doc/source/index.md",
+				"/home/julien/work/projects/manager-doc/build/javascripts/all_nosearch.js",
+				"/home/julien/work/projects/manager-doc/build/javascripts/app/search.js",
+				"/home/julien/work/projects/manager-doc/build/javascripts/lib/jquery.highlight.js",
+				"/home/julien/work/projects/manager-doc/source/stylesheets/syntax.css.scss.erb",
+				"/home/julien/work/projects/manager-doc/source/layouts/layout.erb",
+				"/home/julien/work/projects/manager-doc/Gemfile"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/julien/work/projects/manager-front/app/",
+					"/home/julien/work/projects/manager-front/app/views",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-doc",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/app/scripts/pages",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"aws",
+					"zip",
+					"node",
+					"karma",
+					"-o",
+					"Chart.js",
+					"char",
+					"Chart.js",
+					"Chart",
+					"env",
+					"ugl",
+					"ugly",
+					"fontawesome-webfont.woff2",
+					"font",
+					"ugly",
+					"$scope.layoutHorizontal = newVal;",
+					"uglify",
+					"scripts",
+					"vendor",
+					"concat",
+					"map",
+					"$scope.layoutHorizontal = newVal",
+					"$scope.layoutHorizontal=newVal",
+					"dash",
+					"tabmo",
+					"concurrent",
+					"less",
+					"copy",
+					"console.log",
+					"creatives.updated",
+					"OrderViewController",
+					"default-initials-img",
+					"defaultInitialsImg",
+					"test",
+					">\n",
+					"timezone",
+					"daterangepicker",
+					"$",
+					"€",
+					"regex",
+					"$q",
+					"schedule",
+					"currentDeal",
+					"advertiser",
+					"listAdvertiser",
+					"webpackPipe",
+					"/v1/",
+					"manager-api",
+					"//v1/",
+					"api/v1/public/",
+					"v1advertiser",
+					"/api/v1/public/",
+					"txt",
+					"localhost",
+					"dev-manager-api",
+					"9100",
+					"9000",
+					"manager-api",
+					"dev-manager-api:9000",
+					"pending",
+					"cré",
+					"-d",
+					"timezones",
+					"OrderSpec",
+					"Congtent-",
+					"^## ",
+					"^# ",
+					"icon-exclamation-sign",
+					"warning",
+					"aside",
+					"$MANAGER_API",
+					"$examples-width",
+					"0",
+					"Monokai",
+					"pre",
+					"live",
+					"isNotBanner",
+					"isBanner",
+					"ng-disa",
+					"ng-if",
+					"codemi",
+					"switchStatus",
+					"editorOptions",
+					"icheck",
+					"select2RemoteOptions",
+					"select2TaggingOptions",
+					"ui-select2",
+					"ui-select2 ",
+					", ",
+					"'",
+					"'creativesize.",
+					", 'tablet'),",
+					", 'smartphone'),",
+					", 'mobile'),",
+					"    (uuid_generate_v1mc(), ",
+					"(uuid_generate_v1mc(), ",
+					"scriptS",
+					"UUID",
+					"creatives",
+					"lines",
+					"data",
+					";\n",
+					"<!",
+					"api",
+					"OrderViewController",
+					"progress",
+					"$state",
+					"$location.",
+					"hasGlobalErrors",
+					"ngModel",
+					".directive",
+					"hideAlert1",
+					"controller",
+					"AlertsController",
+					"alert",
+					"displayGlobalError",
+					".alert-success",
+					"AngularFormValidationController",
+					"ng-invalid",
+					"format_err",
+					"format_errs",
+					"contains",
+					"$q",
+					"inputma",
+					"inputmask",
+					"mask",
+					"requi",
+					"\"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"-O",
+					"deal",
+					"/",
+					"dataprovider-api",
+					"/v1/",
+					"v1/advertiser",
+					"/internal/v1",
+					"manager-api.dev.tabmo.net",
+					"",
+					"$URL",
+					" -> ",
+					"",
+					"q",
+					"\"",
+					"uhli",
+					"login_infos",
+					"u",
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
 				"whole_word": false,
 				"wrap": true
 			},
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
-					"path": "/home/julien/work/projects/manager-front"
+					"path": "/home/julien/work/projects/aws-deploy"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 11,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/julien/work/projects/manager-front/app/index.html",
+							"file": "/home/julien/work/projects/aws-deploy/applications/bidder/init_app.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 20782,
+								"buffer_size": 4052,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1921,
-										1921
+										186,
+										186
 									]
 								],
 								"settings":
@@ -917,88 +1135,86 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content"
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
 									],
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 255.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
+							"file": "/home/julien/work/projects/aws-deploy/init.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6551,
+								"buffer_size": 847,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5815,
-										5815
+										131,
+										131
 									]
 								],
 								"settings":
@@ -1006,625 +1222,64 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1884.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 375,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										363,
-										363
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "formError.directive.js",
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"default_dir": "/home/julien/work/projects/manager-front/app/scripts/shared",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 76,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										63,
-										63
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "shared.js",
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1469,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										65,
-										65
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/julien/work/projects/manager-front/bower.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3490,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1712,
-										1712
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_default_content"
 									],
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 216.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 13,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/app.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 9287,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8746,
-										8746
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4495.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5381,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										81,
-										81
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -1635,20 +1290,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 9,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/shared/prototypes.js",
-							"semi_transient": true,
+							"buffer": 2,
+							"file": "/home/julien/Documents/Doc installation EC2 manager.txt",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 250,
+								"buffer_size": 892,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										892,
+										892
 									]
 								],
 								"settings":
@@ -1656,6 +1311,21 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -1676,242 +1346,51 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"file": "/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 642,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										105,
-										105
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 12910,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7087,
-										7087
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "atabase [default] connected at jdbc:postgresql://l",
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content"
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 345.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 12,
-							"file": "/home/julien/work/projects/manager-front/app/translations/fr.json",
+							"buffer": 3,
+							"file": "/home/julien/Documents/INSTALLATION.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 896,
+								"buffer_size": 4262,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										894,
-										894
+										4262,
+										4262
 									]
 								],
 								"settings":
@@ -1919,156 +1398,69 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 13,
-							"file": "/home/julien/work/projects/manager-front/app/translations/en.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 84,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										78,
-										78
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content"
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
 									],
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2106.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 10,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2107,9 +1499,10 @@
 			"menu_visible": true,
 			"output.find_results":
 			{
-				"height": 0.0
+				"height": 396.0
 			},
-			"position": "0,0,0,0,0,1985,24,2625,504,3840,1080",
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
 			"project": "",
 			"replace":
 			{
@@ -2119,8 +1512,73 @@
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"directive",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"direct",
+						"app/scripts/form/Directives.js"
+					],
+					[
+						"creative.view.",
+						"app/views/creatives/creatives.view.html"
+					],
+					[
+						"creative.v",
+						"app/scripts/creatives/creatives.view.js"
+					],
+					[
+						"direc",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"ourf",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"date",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"dat",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"daterangepicker",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"our",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"deal.ser",
+						"app/scripts/deals/deals.service.js"
+					],
+					[
+						"newor",
+						"modules/order/app/models/api/NewOrder.scala"
+					],
+					[
+						"orderser",
+						"modules/order/app/services/impl/OrderServiceImpl.scala"
+					],
+					[
+						"businessva",
+						"modules/core/src/main/scala/validation/BusinessValidation.scala"
+					],
 					[
 						"gruntf",
 						"Gruntfile.js"
@@ -2143,6 +1601,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -2150,11 +1609,12 @@
 			},
 			"select_symbol":
 			{
-				"height": 392.0,
+				"height": 375.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 467.0
+				"width": 741.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -2164,12 +1624,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 330.0,
+			"side_bar_width": 345.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 52,
+			"window_id": 105,
 			"workspace_name": ""
 		}
 	],

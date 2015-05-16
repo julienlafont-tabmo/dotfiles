@@ -10,7 +10,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="installation.uid" value="2ef875b4-916e-411d-aaab-dabe72630619" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/work/tools/sbt/bin/sbt-launch.jar&#10;/home/julien/work/projects/manager-api&#10;/home/julien/work/tools/sbt/bin&#10;/home/julien/work/projects/manager-api/modules/db/src/test/scala&#10;/home/julien/work/projects/play2-skeleton&#10;/home/julien/work/projects/silhouette-rest-seed&#10;/home/julien/Téléchargements/settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/work/projects/mailer-api&#10;/home/julien/work/projects/manager-api&#10;/home/julien/work/projects/scaerospike&#10;/home/julien/work/projects/middleware-api&#10;/home/julien/work/projects/play2-skeleton&#10;/home/julien/work/tools/sbt/bin/sbt-launch.jar&#10;/home/julien/work/projects/dataprovider-connector-api&#10;/home/julien/work/tools/sbt/bin&#10;/home/julien/work/projects/manager-api/modules/db/src/test/scala&#10;/home/julien/work/projects/silhouette-rest-seed&#10;/home/julien/Téléchargements/settings.jar" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
@@ -20,7 +20,7 @@
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="ProjectStructure.TopLevelElements" value="0.15" />
-    <property name="ProjectStructure.SecondLevelElements" value="0.38919926" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
@@ -33,6 +33,12 @@
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="default.storage.format" value=".idea (directory based)" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="PLUGIN_FILTER" value="sc" />
+    <property name="PLUGIN_FILTER" value="sc&#10;play" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+    <property name="lastTip" value="13" />
+    <property name="MoveClassWithTarget.OpenInEditor" value="false" />
   </component>
 </application>

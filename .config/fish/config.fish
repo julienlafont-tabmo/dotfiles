@@ -17,7 +17,8 @@ set fish_plugins pbcopy
 set -x JAVA_OPTS "-Xms1024m -Xmx2048m  -Dfile.encoding=UTF-8" # -Djavax.net.debug=ssl
 set -x SBT_OPTS "-Xms1024m -Xmx3072m "
 
-set PATH $PATH ~/bin
+set PATH $PATH /home/julien/bin
+set PATH $PATH /home/julien/bin/aws
 set PATH $PATH /home/julien/work/tools/nodejs/node-v0.12.0/bin
 
 # Load custom aliases
@@ -25,3 +26,7 @@ source ~/.config/.alias
 
 # Configure touchpad
 synclient PalmDetect=1 TapButton1=0
+
+# GO
+set GOROOT /home/julien/work/tools/golang/current
+set PATH $PATH $GOROOT/bin

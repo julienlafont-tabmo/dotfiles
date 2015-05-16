@@ -4,14 +4,11 @@
 [alias]
     s = status
     st = status
-    stp = status --porcelain
     ci = commit
     cim = commit -m
     br = branch
     co = checkout
     rz = reset --hard HEAD
-    pullr = pull --rebase
-    unstage = reset HEAD
     lol = log --graph --decorate --pretty=oneline --abbrev-commit
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
     ll = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --decorate --numstat
@@ -20,6 +17,10 @@
     a = add
     d = diff
     dc = diff --cached
+    up = !git pull --rebase --prune
+    undo = reset HEAD~1 --mixed
+    amend = commit -a --amend
+    wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
 [color]
     branch = auto
     diff = auto
