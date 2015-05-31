@@ -1,19 +1,25 @@
 <application>
-  <component name="FileTypeManager" version="13">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="signup" type="Bash" />
       <mapping ext="new" type="Bash" />
       <mapping ext="myself" type="Bash" />
       <mapping ext="get" type="Bash" />
+      <mapping ext="delete" type="Bash" />
+      <mapping ext="users" type="Bash" />
+      <mapping ext="reload" type="Bash" />
       <mapping ext="list" type="Bash" />
+      <mapping ext="send" type="Bash" />
+      <mapping ext="allusers" type="Bash" />
+      <mapping ext="update" type="Bash" />
       <mapping ext="self" type="Bash" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="signout" type="PLAIN_TEXT" />
       <mapping pattern="me" type="PLAIN_TEXT" />
       <mapping pattern="00_authentification.md" type="PLAIN_TEXT" />
       <mapping pattern="etc-default" type="PLAIN_TEXT" />
       <mapping pattern="orders" type="PLAIN_TEXT" />
-      <mapping pattern="signout" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="signUpJL" type="PLAIN_TEXT" />
       <mapping pattern="login" type="PLAIN_TEXT" />
       <mapping ext="fr" type="PLAIN_TEXT" />

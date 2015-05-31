@@ -64,17 +64,8 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
-  </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-    <debuggers>
-      <debugger id="scala_debugger">
-        <configuration>
-          <option name="DO_NOT_DISPLAY_STREAMS" value="false" />
-        </configuration>
-      </debugger>
-    </debuggers>
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>

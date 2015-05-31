@@ -1,18 +1,21 @@
 # Path to your oh-my-fish.
 set fish_path $HOME/.oh-my-fish
 
-# Theme
-set fish_theme robbyrussell
-
-# Which plugins would you like to load? (plugins can be found in ~/.oh-my-fish/plugins/*)
-# Custom plugins may be added to ~/.oh-my-fish/custom/plugins/
-set fish_plugins pbcopy
-
 # Path to your custom folder (default path is ~/.oh-my-fish/custom)
 #set fish_custom $HOME/dotfiles/oh-my-fish
 
 # Load oh-my-fish configuration.
 . $fish_path/oh-my-fish.fish
+
+# Theme
+Theme "robbyrussell"
+
+# Which plugins would you like to load? (plugins can be found in ~/.oh-my-fish/plugins/*)
+# Custom plugins may be added to ~/.oh-my-fish/custom/plugins/
+Plugin "pbcopy"
+Plugin "theme"
+Plugin "balias"
+Plugin "jump"
 
 set -x JAVA_OPTS "-Xms1024m -Xmx2048m  -Dfile.encoding=UTF-8" # -Djavax.net.debug=ssl
 set -x SBT_OPTS "-Xms1024m -Xmx3072m "
@@ -28,5 +31,5 @@ source ~/.config/.alias
 synclient PalmDetect=1 TapButton1=0
 
 # GO
-set GOROOT /home/julien/work/tools/golang/current
-set PATH $PATH $GOROOT/bin
+#set GOROOT /home/julien/work/tools/golang/current
+#set PATH $PATH $GOROOT/bin

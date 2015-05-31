@@ -1,31 +1,27 @@
 # GIT
-alias ga='git add'
-alias gd='git diff'
-alias gdc='git diff'
-alias gs='git status'
-alias gst='git status'
-alias got='git '
+balias ga='git add'
+balias gd='git diff'
+balias gdc='git diff'
+balias gs='git status'
+balias gst='git status'
+balias got='git '
 
 # SSH
-alias sshperso='ssh julien@pc.studio-dev.fr'
-alias sshdev-manager-api='ssh vm@dev-manager-api'
-alias sshdev-manager-db='ssh postgresql@dev-manager-db'
+balias sshperso='ssh julien@pc.studio-dev.fr'
+balias sshdev-manager-api='ssh vm@dev-manager-api'
+balias sshdev-manager-db='ssh postgresql@dev-manager-db'
 
 # Util
-alias reload-alias='source ~/.config/.alias'
+balias reload-alias='source ~/.config/.alias'
 
 # Docker
-alias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'
-alias dcker-clean='docker rm (docker ps -a -q)'
+balias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'
+balias dcker-clean='docker rm (docker ps -a -q)'
 
 # Touchpad
-alias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
-alias off='notify-send "Touchpad Désactivé"; synclient TouchpadOff=1'
-alias keyboardfix='ibus-daemon -rd'
-
-# AWS
-alias aws-manager='/bin/bash -c \'ssh -i ~/.ssh/manager-key.pem ubuntu@$(aws ec2 describe-instances --filters "Name=key-name, Values=manager-key" "Name=instance-state-name, Values=running" --output text | grep INSTANCES | cut  -f 15)\''
-alias aws-api='/bin/bash -c \'ssh -i ~/.ssh/manager-api.pem ubuntu@$(aws ec2 describe-instances --filters "Name=key-name, Values=manager-api" "Name=instance-state-name, Values=running" --output text | grep INSTANCES | cut  -f 15)\''
+balias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
+balias off='notify-send "Touchpad Désactivé"; synclient TouchpadOff=1'
+balias keyboardfix='ibus-daemon -rd'
 
 
 # Blink
@@ -33,6 +29,5 @@ alias police="/bin/bash -c 'while [ 1 ]; do blink1-tool --red --blink 1 --delay 
 alias alerte="blink1-tool --delay 100 --millis 50 --rgb FF0000 --blink 5"
 alias dualfade="/bin/bash -c 'while [ 1 ]; do blink1-tool -l 1 -m 1000 -t 1000 --cyan; blink1-tool -l 2 -m 1000 -t 1000 --blue; sleep 1; blink1-tool -l 1 -m 1000 -t 1000 --blue; blink1-tool -l 2 -m 1000 -t 1000 --cyan; sleep 1; done;'"
 alias arcenciel="blink1-tool --play 1"
-
 alias police2="/bin/bash -c 'while [ 1 ]; do blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --red --blink 1 -m 100 -t 100; blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --off; sleep 0.7; done;'"
 

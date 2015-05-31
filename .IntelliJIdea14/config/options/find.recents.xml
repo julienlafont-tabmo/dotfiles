@@ -1,26 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>println</find>
-      <find>o.</find>
-      <find>validate</find>
-      <find>error.buyingstrategy.bacecpm.expected</find>
-      <find>scheduleDAO</find>
-      <find>schedule</find>
-      <find>plannings_schedules</find>
-      <find>o.entity.</find>
-      <find>o =&gt;</find>
-      <find>buying_strategy_id UUID NOT NULL</find>
-      <find>LocalDateTime.now()</find>
-      <find>LocalDateTime.now</find>
-      <find>.Line.buyingStrategy</find>
-      <find>Line.buyingStrategy</find>
-      <find>DefaultRulesWrites</find>
-      <find>InternalCoreRulesWrites</find>
-      <find>Line</find>
-      <find>ID</find>
-      <find>true</find>
-      <find>:</find>
       <find>:+</find>
       <find>.get</find>
       <find>resolvers</find>
@@ -31,11 +11,28 @@
       <find>region</find>
       <find>jdbc</find>
       <find>api</find>
+      <find>fromConfig</find>
+      <find>FromConfig</find>
+      <find>binda</find>
+      <find>sender</find>
+      <find>environment</find>
+      <find>models.json.TimezoneJson</find>
+      <find>UNIQUE</find>
+      <find>PATCH</find>
+      <find>play.filters.headers.frameOptions</find>
+      <find>users_organizations_rights</find>
+      <find>tokenHeaderName</find>
+      <find>request.identity.organizationId</find>
+      <find>creator</find>
+      <find>organization_id</find>
+      <find>organizationDAO</find>
+      <find>collect</find>
+      <find>import core.controllers._</find>
+      <find>distin</find>
+      <find>listOrganizationMembers</find>
+      <find>localhost:9100</find>
     </findStrings>
     <replaceStrings>
-      <replace>BIGINT</replace>
-      <replace>TIMESTAMPTZ</replace>
-      <replace>import core.validation.ApiDetailError</replace>
       <replace>===</replace>
       <replace>&quot;</replace>
       <replace />
@@ -63,9 +60,14 @@
       <replace>CoreRulesWrites</replace>
       <replace>:</replace>
       <replace>WsRequest</replace>
+      <replace>shared.models.json.TimezoneJson</replace>
+      <replace>request.organizationId</replace>
+      <replace>import controllers.core._</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/order</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/doc/source/includes</dir>
     </dirStrings>
   </component>
 </application>

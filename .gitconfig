@@ -1,6 +1,7 @@
 [user]
     name = Julien Lafont
-    email = julien.lafont@tabmo.fr
+#    email = julien.lafont@tabmo.fr
+    email = yotsumi.fx@gmail.com
 [alias]
     s = status
     st = status

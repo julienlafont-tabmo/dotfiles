@@ -22,9 +22,9 @@ sudo apt-get install ttf-mscorefonts-installer ttf-xfree86-nonfree fonts-inconso
 
 # JAVA 8 SDK
 # https://launchpad.net/~webupd8team/+archive/ubuntu/java
-sudo add-apt-repository ppa:webupd8team/java
+sudo add-apt-repository ppa:webupd8team/java -y
 sudo apt-get update
-sudo apt-get install oracle-java8-installer
+sudo apt-get install oracle-java8-installer -y
 
 # Scala
 sudo apt-get remove scala-library scala
