@@ -1,8 +1,4 @@
 <templateSet group="scala">
-  <template name="controller" value="import play.api._&#10;import play.api.mvc._&#10;&#10;object $NAME$ extends Controller {&#10;&#10;  def action = Action {&#10;    Ok&#10;  }&#10;}" description="New PlayFramework Controller" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="ec" value="import play.api.libs.concurrent.Execution.Implicits.defaultContext" description="Import defaut ExecutionContext" toReformat="false" toShortenFQNames="true">
     <context />
   </template>

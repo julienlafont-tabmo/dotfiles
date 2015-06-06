@@ -2,6 +2,8 @@
 	"folder_history":
 	[
 		"/home/julien/work/projects/aws-deploy",
+		"/home/julien/work/projects/bidrequest-tester",
+		"/home/julien/work/projects/mailer-api",
 		"/home/julien/work/projects/middleware-api",
 		"/home/julien/work/perso/playframework",
 		"/home/julien/work/perso/rsu-nanterre",
@@ -10,7 +12,6 @@
 		"/home/julien/work/perso/scala-best-practices",
 		"/home/julien/work/projects/test-play24",
 		"/home/julien/work/projects/play2-skeleton",
-		"/home/julien/work/projects/mailer-api",
 		"/home/julien/work/projects/manager-front",
 		"/home/julien/Téléchargements/init-1.4.0",
 		"/home/julien/work/projects/bidder",
@@ -47,11 +48,11 @@
 		"/home/julien/work/perso/play-hikaricp.edulify.com"
 	],
 	"last_version": 3083,
-	"last_window_id": 127,
+	"last_window_id": 131,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -168,6 +169,11 @@
 			},
 			"file_history":
 			[
+				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
+				"/home/julien/work/projects/middleware-api/build.sbt",
+				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
+				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
+				"/home/julien/Documents/scénario.txt",
 				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
 				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
 				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
@@ -290,12 +296,7 @@
 				"/home/julien/work/projects/manager-doc/source/includes/_creatives.md",
 				"/home/julien/work/projects/manager-doc/source/includes/_annonceurs.md",
 				"/home/julien/work/projects/manager-doc/source/index.md",
-				"/home/julien/work/projects/manager-doc/build/javascripts/all_nosearch.js",
-				"/home/julien/work/projects/manager-doc/build/javascripts/app/search.js",
-				"/home/julien/work/projects/manager-doc/build/javascripts/lib/jquery.highlight.js",
-				"/home/julien/work/projects/manager-doc/source/stylesheets/syntax.css.scss.erb",
-				"/home/julien/work/projects/manager-doc/source/layouts/layout.erb",
-				"/home/julien/work/projects/manager-doc/Gemfile"
+				"/home/julien/work/projects/manager-doc/build/javascripts/all_nosearch.js"
 			],
 			"find":
 			{
@@ -625,7 +626,7 @@
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -647,35 +648,73 @@
 			"buffers":
 			[
 				{
-					"contents": "",
+					"contents": "Package Control Messages\n========================\n\nFileBrowser:\n-----------\n\n  0.7.0\n  \n  • Cut, copy and paste files&folders\n  \n    Shortcuts are standard: x, c, v with ⌘ or ctrl.\n  \n    You can copy and/or cut as many items and from many locations as you like —\n    status-bar will show amounts of copied and cut items.\n  \n    Paths will be stored in settings file, so you can edit it by hand if need.\n    Or to clear both lists press ⌘+z or ctrl+z.\n  \n    As soon as you paste, each item will be either copied or moved into folder\n    under cursor, so it is possible to copy a folder into itself, be careful.\n    Pasting copied items into same location where they were will _silently_\n    duplicate them.\n  \n    On Windows all operations will be done via system API with all its features:\n    renaming semantics, interactive overwrite, progress-bar, pause/cancel, etc.\n  \n    On other OSes all operations will be done via Python API:\n    you will see a vague progress in status-bar and can choose what to do\n    in case of conflicts (overwrite, duplicate, skip), however, there are some\n    restrictions, e.g. folders cannot be overwritten or merged.\n    ",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1158,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
+					"settings":
+					{
+						"buffer_size": 221,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/julien/work/projects/mailer-api/build.sbt",
+					"file": "/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
 					"settings":
 					{
-						"buffer_size": 3391,
+						"buffer_size": 2624,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/julien/work/projects/mailer-api/project/Dependencies.scala",
+					"file": "/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
 					"settings":
 					{
-						"buffer_size": 1886,
+						"buffer_size": 360,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/julien/work/projects/middleware-api/project/plugins.sbt",
+					"contents": "sudo nano /etc/hostname\nsudo hostname new-name\n\n# Unscrap\nsudo apt-get autoremove gnome-contacts gnome-mahjongg gnome-mines gnome-sudoku gnome-orca xterm aisleriot webbrowser-app brasero cheese rhythmbox totem unity-webapps-common unity-lens-photos unity-scope-gdrive empathy thunderbird landscape-client-ui-install\n\n# Génération clé ssh 4096 bits\nssh-keygen -b 4096\n\n# Installation chromium\n# http://doc.ubuntu-fr.org/chromium-browser\napt-get install chromium-browser\n\n# Installation flash\nsudo apt-get install pepperflashplugin-nonfree\n\n# Tools\nsudo apt-get install git curl httpie irssi vlc htop glances screen tmux multitail cloc iftop ack-grep vim pgadmin3 gimp terminator unrar\n\n# Polices supplémentaires\nsudo apt-get install ttf-mscorefonts-installer ttf-xfree86-nonfree fonts-inconsolata\n\n# JAVA 8 SDK\n# https://launchpad.net/~webupd8team/+archive/ubuntu/java\nsudo add-apt-repository ppa:webupd8team/java -y\nsudo apt-get update\nsudo apt-get install oracle-java8-installer -y\n\n# Scala\nsudo apt-get remove scala-library scala\nwget http://www.scala-lang.org/files/archive/scala-2.11.5.deb\nsudo dpkg -i scala-2.11.4.deb\nsudo apt-get update\nsudo apt-get install scala\n\n# SBT\necho \"deb http://dl.bintray.com/sbt/debian /\" | sudo tee -a /etc/apt/sources.list.d/sbt.list\nsudo apt-get update\nsudo apt-get install sbt\n\n# Oh my fish\nsudo apt-add-repository ppa:fish-shell/release-2\nsudo apt-get update\nsudo apt-get install fish\ncurl -L https://github.com/bpinto/oh-my-fish/raw/master/tools/install.fish | fish\n\n# Sublime text 3\nwget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3065_amd64.deb\nsudo dpkg -i sublime-text_build-3065_amd64.deb\ncd ~/bin\nln -s /opt/sublime_text/sublime_text sublime\nln -s sublime s\n\n# PG 9.4\necho 'deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main' | sudo tee /etc/apt/sources.list.d/pgdg.list\nwget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -\nsudo apt-get install postgresql-9.4 postgresql-contrib-9.4\n\n# Configuration local (https://help.ubuntu.com/community/PostgreSQL)\nsudo -u postgres createuser --superuser $USER\nsudo -u postgres psql\npostgres=# \\password [NOM d'UTILISATEUR UNIX]\nsudo -u postgres createdb $USER\n\n# now: psql; createdb -O julien nouvelle-db; dropdb nouvelle-db;\n\n# Compass/sass via ruby\nsudo apt-get install ruby\nsudo apt-get install ruby-dev\n\ngem install compass\ngem install sass\n\n# Débrayage du nombre de fichier suivi (utile pour grunt)\nsudo echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.d/99-sysctl.conf && sudo sysctl --system\n\n# Installation imprimante\nsudo apt-get install lsb\ncurl -O -J -L  'https://docs.google.com/a/tabmo.fr/uc?authuser=0&id=0B7QGu2yDmJ9SdlFoMVd5TThheW8&export=download'\nsudo dpkg -i epson-inkjet-printer-escpr_1.4.4-1lsb3.2_amd64.deb\n\n# Ajouter une nouvelle imprimante\n# Attendre quelque secondes, elle devrait s'afficher automatiquement dans la liste \"Imprimante réseau\"\n# - Epson WF-2650\n\n# Docker\nsudo apt-get install apt-transport-https\nsudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9\nsudo sh -c \"echo deb https://get.docker.com/ubuntu docker main > /etc/apt/sources.list.d/docker.list\"\nsudo apt-get update\nsudo apt-get install lxc-docker\n\n# Configuration docker \"non sudo\"\nsudo gpasswd -a $USER docker\nsu - $USER\nsudo su\nservice docker stop\ncd /var/lib/docker/\numount ./*\ncd ..\nmv docker /home/docker\n# nécessaire? chown root:docker /home/docker\nls -s /home/docker docker\nservice docker start\nexit\n\n# Test\ndocker run -i -t ubuntu /bin/bash\n\n# Modifier fichiers resolv.conf, puis\nsudo resolvconf -u\n\n# Shutter (screen capture)\nsudo add-apt-repository ppa:shutter/ppa\nsudo apt-get update\nsudo apt-get install shutter\n\n# Virer les effets graphiques\nsudo apt-get install compizconfig-settings-manager\n# Lancer compizconfig truc\n# https://ksearch.wordpress.com/2014/05/15/disable-unity-animations/\n\n# video capture\nsudo add-apt-repository ppa:maarten-baert/simplescreenrecorder\nsudo apt-get update\nsudo apt-get install simplescreenrecorder\n\n# S3 tools\napt-get install python-pip\npip install https://github.com/s3tools/s3cmd/archive/v1.5.2.zip\ns3cmd --version # > 1.5.x\ns3cmd --configure\n\n# AWS-cli\nsudo pip install awscli\nawscli configure",
+					"file": "/home/julien/Documents/INSTALLATION.txt",
+					"file_size": 4275,
+					"file_write_time": 130766727078979880,
 					"settings":
 					{
-						"buffer_size": 242,
+						"buffer_size": 4259,
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
+					"settings":
+					{
+						"buffer_size": 1043,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 884,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": " ec7ab5c0c74c53772271c460803b9eb95c4cb64520a0b0fb3d0df8c4d06e78f5@\n\n\n julien.lafont+2@tabmo.fr\n\n\n [success] Total time: 48 s, completed 4 juin 2015 21:12:18\n97.04user 4.22system 0:57.09elapsed 177%CPU (0avgtext+0avgdata 1071008maxresident)k\n120inputs+22976outputs (1major+310639minor)pagefaults 0swaps\n\n\n\n\n[success] Total time: 48 s, completed 4 juin 2015 21:12:18\n97.04user 4.22system 0:57.09elapsed 177%CPU (0avgtext+0avgdata 1071008maxresident)k\n120inputs+22976outputs (1major+310639minor)pagefaults 0swaps\n\n[success] Total time: 49 s, completed 4 juin 2015 21:14:52\n93.51user 2.62system 0:57.64elapsed 166%CPU (0avgtext+0avgdata 1297428maxresident)k\n504inputs+22432outputs (0major+255904minor)pagefaults 0swaps\n\n\n\n# DO NOT DISABLE!\n# If you change this first entry you will need to make sure that the\n# database superuser can access the database using some other method.\n# Noninteractive access to all databases is required during automatic\n# maintenance (custom daily cronjobs, replication, and similar tasks).\n#\n# Database administrative login by Unix domain socket\nlocal   all             postgres                                peer\n\n# TYPE  DATABASE        USER            ADDRESS                 METHOD\n\n# \"local\" is for Unix domain socket connections only\nlocal   all             all                                     peer\n# IPv4 local connections:\nhost    all             all             127.0.0.1/32            md5\n# IPv6 local connections:\nhost    all             all             ::1/128                 md5\n# Allow replication connections from localhost, by a user with the\n# replication privilege.\n#local   replication     postgres                                peer\n#host    replication     postgres        127.0.0.1/32            md5\n#host    replication     postgres        ::1/128                 md5\n\nhost all tabmo 0.0.0.0/0 md5\nhost all julien 0.0.0.0/0 md5\n\n",
+					"settings":
+					{
+						"buffer_size": 1885,
+						"line_ending": "Unix",
+						"name": "ec7ab5c0c74c53772271c460803b9eb95c4cb64520a0b0fb3"
 					}
 				}
 			],
@@ -780,11 +819,16 @@
 			},
 			"expanded_folders":
 			[
-				"/home/julien/work/projects/middleware-api",
-				"/home/julien/work/projects/middleware-api/app",
-				"/home/julien/work/projects/middleware-api/app/controllers",
-				"/home/julien/work/projects/middleware-api/conf",
-				"/home/julien/work/projects/middleware-api/project"
+				"/home/julien/work/projects/aws-deploy",
+				"/home/julien/work/projects/aws-deploy/applications",
+				"/home/julien/work/projects/aws-deploy/applications/aerospike",
+				"/home/julien/work/projects/aws-deploy/applications/aerospike/resources",
+				"/home/julien/work/projects/aws-deploy/applications/agent",
+				"/home/julien/work/projects/aws-deploy/applications/bidder",
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api",
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/tracker",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources"
 			],
 			"file_history":
 			[
@@ -919,7 +963,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -947,6 +991,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"90",
 					"fromConfig",
 					"aws",
 					"zip",
@@ -1073,8 +1118,7 @@
 					"$q",
 					"inputma",
 					"inputmask",
-					"mask",
-					"requi"
+					"mask"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1112,13 +1156,13 @@
 			"folders":
 			[
 				{
-					"path": "/home/julien/work/projects/middleware-api"
+					"path": "/home/julien/work/projects/aws-deploy"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 7,
 					"sheets":
 					[
 						{
@@ -1126,7 +1170,212 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 1158,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1158,
+										1158
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 221,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										193,
+										193
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2624,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1202,
+										1202
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 810.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 360,
 								"regions":
 								{
 								},
@@ -1140,7 +1389,6 @@
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_name": "",
 									"bh_regions":
 									[
 										"bh_round",
@@ -1148,11 +1396,11 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -1163,21 +1411,16 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -1188,16 +1431,370 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/Scala/Scala.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/julien/Documents/INSTALLATION.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4259,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4259,
+										4259
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1724.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1043,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1043,
+										1043
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 884,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										794,
+										794
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1885,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1825,
+										1825
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "ec7ab5c0c74c53772271c460803b9eb95c4cb64520a0b0fb3",
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -1206,271 +1803,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/julien/work/projects/mailer-api/build.sbt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3391,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										11,
-										11
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1886,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1119,
-										1119
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Scala/Scala.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": -0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/julien/work/projects/middleware-api/project/plugins.sbt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 242,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1512,7 +1844,7 @@
 				"height": 396.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,2295,127,3222,1155,3840,1080",
+			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
 			"project": "",
 			"replace":
 			{
@@ -1639,7 +1971,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 116,
+			"window_id": 131,
 			"workspace_name": ""
 		}
 	],

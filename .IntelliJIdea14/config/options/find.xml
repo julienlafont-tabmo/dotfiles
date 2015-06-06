@@ -1,8 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="exceptComments" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="EXCEPT_COMMENTS" value="true" />
     <option name="FILE_MASK" value="*.md" />
     <recentFileMasks>

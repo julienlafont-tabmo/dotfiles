@@ -2,7 +2,6 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -24,32 +23,73 @@
       <component name="NamedScopeManager">
         <order />
       </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="julien" />
+      </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
             <expanded-state>
               <State>
+                <id />
+              </State>
+              <State>
+                <id>CollectionsScala</id>
+              </State>
+              <State>
+                <id>Code StyleScala</id>
+              </State>
+              <State>
+                <id>Comparing CollectionsScala</id>
+              </State>
+              <State>
+                <id>GeneralScala</id>
+              </State>
+              <State>
+                <id>Indices CollectionsScala</id>
+              </State>
+              <State>
                 <id>Java</id>
               </State>
               <State>
-                <id>Scala: Code Style</id>
+                <id>Maps CollectionsScala</id>
               </State>
               <State>
-                <id>Scala: Collections</id>
+                <id>Method signatureScala</id>
+              </State>
+              <State>
+                <id>Options CollectionsScala</id>
+              </State>
+              <State>
+                <id>Other CollectionsScala</id>
+              </State>
+              <State>
+                <id>Scala</id>
               </State>
               <State>
                 <id>Scala: General</id>
               </State>
               <State>
-                <id>Scala: Method signature</id>
+                <id>ScaladocScala</id>
               </State>
               <State>
-                <id>Scala: Scaladoc</id>
+                <id>Simplifications: filter and exists CollectionsScala</id>
+              </State>
+              <State>
+                <id>Simplifications: other CollectionsScala</id>
+              </State>
+              <State>
+                <id>Size CollectionsScala</id>
               </State>
               <State>
                 <id>Threading issuesJava</id>
               </State>
             </expanded-state>
+            <selected-state>
+              <State>
+                <id>Java</id>
+              </State>
+            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -74,7 +114,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+        <property name="settings.editor.selected.configurable" value="editing.templates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -140,12 +180,35 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="$USER_HOME$/work/perso/playdash" value="1433079259175" />
             <entry key="$USER_HOME$/work/projects/mailer-api" value="1431674636366" />
           </map>
         </option>
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
+      </component>
+      <component name="ScalaProjectSettings">
+        <option name="intInjectionMapping">
+          <map>
+            <entry key="xml" value="XML" />
+          </map>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.40561798" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>

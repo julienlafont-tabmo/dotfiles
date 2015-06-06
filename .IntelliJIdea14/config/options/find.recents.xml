@@ -1,46 +1,42 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>:+</find>
-      <find>.get</find>
-      <find>resolvers</find>
-      <find>WsRequestHol</find>
-      <find>WSRequestHolder</find>
-      <find>WsRequestHol*</find>
-      <find>withRe</find>
-      <find>region</find>
-      <find>jdbc</find>
-      <find>api</find>
-      <find>fromConfig</find>
-      <find>FromConfig</find>
-      <find>binda</find>
-      <find>sender</find>
-      <find>environment</find>
-      <find>models.json.TimezoneJson</find>
-      <find>UNIQUE</find>
-      <find>PATCH</find>
-      <find>play.filters.headers.frameOptions</find>
-      <find>users_organizations_rights</find>
-      <find>tokenHeaderName</find>
-      <find>request.identity.organizationId</find>
-      <find>creator</find>
-      <find>organization_id</find>
-      <find>organizationDAO</find>
-      <find>collect</find>
-      <find>import core.controllers._</find>
-      <find>distin</find>
-      <find>listOrganizationMembers</find>
-      <find>localhost:9100</find>
+      <find>&quot;ORGANIZATION-ID&quot;</find>
+      <find>ORGANIZATION-ID</find>
+      <find>email</find>
+      <find>organization_rights</find>
+      <find>organization_rights_level</find>
+      <find>thirdInventoryMode</find>
+      <find>can_</find>
+      <find>insertOrganizationsInPlatform</find>
+      <find>ExternalClass</find>
+      <find>accepter</find>
+      <find>println</find>
+      <find>invi</find>
+      <find>cannot find template</find>
+      <find>cannot.find.template</find>
+      <find>user</find>
+      <find>User</find>
+      <find>slick-pg</find>
+      <find>driver</find>
+      <find>driverClassName</find>
+      <find>mailerService</find>
+      <find>level</find>
+      <find>Organization</find>
+      <find>.platforms.head</find>
+      <find>invitation</find>
+      <find>invitations</find>
+      <find>.head</find>
+      <find>saveInvitation</find>
+      <find>&quot;</find>
+      <find>&gt; **Endpoint :**</find>
+      <find>forei</find>
     </findStrings>
     <replaceStrings>
-      <replace>===</replace>
-      <replace>&quot;</replace>
-      <replace />
       <replace>validate(crea)</replace>
       <replace>core.rules</replace>
       <replace>obj.entity.</replace>
       <replace>Int</replace>
-      <replace>\&quot;</replace>
       <replace>order.models.FullLine</replace>
       <replace>/api/v1/</replace>
       <replace>2.11.6</replace>
@@ -63,6 +59,10 @@
       <replace>shared.models.json.TimezoneJson</replace>
       <replace>request.organizationId</replace>
       <replace>import controllers.core._</replace>
+      <replace>&quot;X-Organization-Id&quot;</replace>
+      <replace>organization_right_levels</replace>
+      <replace>organizationRightLevel</replace>
+      <replace>\&quot;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>

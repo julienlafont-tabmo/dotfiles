@@ -1,4 +1,20 @@
 <code_scheme name="Default (1)">
+  <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="scala" />
+        <option value="java" />
+        <option value="_______ blank line _______" />
+        <option value="play" />
+        <option value="com" />
+        <option value="net" />
+        <option value="org" />
+        <option value="_______ blank line _______" />
+        <option value="all other imports" />
+        <option value="entities" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

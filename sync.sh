@@ -17,6 +17,7 @@ cp -R ~/.IntelliJIdea14/config .IntelliJIdea14
 
 mkdir -p .ssh
 cp -R ~/.ssh/id_rsa.pub .ssh/id_rsa.pub
+cp -R ~/.ssh/config .ssh/config
 
 cp -R ~/.irssi .
 cp -R ~/Documents/INSTALLATION.txt .

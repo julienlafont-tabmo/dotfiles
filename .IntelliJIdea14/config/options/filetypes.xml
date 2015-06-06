@@ -8,20 +8,23 @@
       <mapping ext="get" type="Bash" />
       <mapping ext="delete" type="Bash" />
       <mapping ext="users" type="Bash" />
+      <mapping ext="accept" type="Bash" />
+      <mapping ext="check" type="Bash" />
       <mapping ext="reload" type="Bash" />
       <mapping ext="list" type="Bash" />
+      <mapping ext="create" type="Bash" />
       <mapping ext="send" type="Bash" />
       <mapping ext="allusers" type="Bash" />
       <mapping ext="update" type="Bash" />
       <mapping ext="self" type="Bash" />
-      <mapping pattern="signout" type="PLAIN_TEXT" />
       <mapping pattern="me" type="PLAIN_TEXT" />
       <mapping pattern="00_authentification.md" type="PLAIN_TEXT" />
-      <mapping pattern="etc-default" type="PLAIN_TEXT" />
-      <mapping pattern="orders" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="signUpJL" type="PLAIN_TEXT" />
+      <mapping pattern="orders" type="PLAIN_TEXT" />
       <mapping pattern="login" type="PLAIN_TEXT" />
+      <mapping pattern="signout" type="PLAIN_TEXT" />
+      <mapping pattern="signUpJL" type="PLAIN_TEXT" />
+      <mapping pattern="etc-default" type="PLAIN_TEXT" />
       <mapping ext="fr" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
