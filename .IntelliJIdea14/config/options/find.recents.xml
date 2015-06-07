@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>&quot;ORGANIZATION-ID&quot;</find>
-      <find>ORGANIZATION-ID</find>
-      <find>email</find>
       <find>organization_rights</find>
       <find>organization_rights_level</find>
       <find>thirdInventoryMode</find>
@@ -31,6 +28,9 @@
       <find>&quot;</find>
       <find>&gt; **Endpoint :**</find>
       <find>forei</find>
+      <find>ApiDetailError(&quot;</find>
+      <find>ApiError(&quot;</find>
+      <find>INT</find>
     </findStrings>
     <replaceStrings>
       <replace>validate(crea)</replace>

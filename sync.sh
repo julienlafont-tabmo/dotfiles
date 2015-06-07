@@ -28,6 +28,8 @@ find ~/bin -maxdepth 1 -name "*.sh" -exec cp {} bin \;
 mkdir -p etc/resolvconf/resolv.conf.d
 sudo cp /etc/resolvconf/resolv.conf.d/* ./etc/resolvconf/resolv.conf.d
 
+sudo cp -R /etc/udev/hwdb.d/90-logitech-m-560.hwdb .
+
 git add -A
 git commit -m "sync"
 git push

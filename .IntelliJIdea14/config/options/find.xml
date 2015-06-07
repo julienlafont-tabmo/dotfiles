@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="exceptComments" value="true" />
     <option name="EXCEPT_COMMENTS" value="true" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,8 +13,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.scala</mask>
       <mask>*.md</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
