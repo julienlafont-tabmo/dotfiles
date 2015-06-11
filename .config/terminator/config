@@ -10,7 +10,7 @@
 [profiles]
   [[default]]
     scrollback_lines = 50000
-    font = Ubuntu Mono derivative Powerline 12
+    font = Ubuntu Mono derivative Powerline 16
     use_system_font = False
     show_titlebar = False
     background_image = None
