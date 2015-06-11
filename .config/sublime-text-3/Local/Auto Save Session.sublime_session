@@ -48,11 +48,11 @@
 		"/home/julien/work/perso/play-hikaricp.edulify.com"
 	],
 	"last_version": 3083,
-	"last_window_id": 132,
+	"last_window_id": 133,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 452.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -75,599 +75,26 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 194.0,
-				"last_filter": "markdow",
-				"selected_items":
-				[
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"package ins",
-						"Package Control: Install Package"
-					],
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 516.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
-				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
-				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/app.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
-				"/home/julien/work/projects/angular-hy-res/package.json",
-				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
-				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
-				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
-				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
-				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
-				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/.config/.alias",
-				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_requetesreponses.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_authentification.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_campagnes.md",
-				"/home/julien/work/projects/manager-doc/config.rb",
-				"/home/julien/work/projects/manager-doc/source/includes/_creatives.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_annonceurs.md",
-				"/home/julien/work/projects/manager-doc/source/index.md",
-				"/home/julien/work/projects/manager-doc/build/javascripts/all_nosearch.js"
-			],
-			"find":
-			{
-				"height": 37.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/middleware-api",
-					"/home/julien/work/projects/dataprovider-connector-api",
-					"",
-					"/home/julien/work/projects/manager-front/app/",
-					"/home/julien/work/projects/manager-front/app/views",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-doc",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location.",
-					"hasGlobalErrors",
-					"ngModel",
-					".directive",
-					"hideAlert1",
-					"controller",
-					"AlertsController",
-					"alert",
-					"displayGlobalError",
-					".alert-success",
-					"AngularFormValidationController",
-					"ng-invalid",
-					"format_err",
-					"format_errs",
-					"contains",
-					"$q",
-					"inputma",
-					"inputmask",
-					"mask"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"-O",
-					"deal",
-					"/",
-					"dataprovider-api",
-					"/v1/",
-					"v1/advertiser",
-					"/internal/v1",
-					"manager-api.dev.tabmo.net",
-					"",
-					"$URL",
-					" -> ",
-					"",
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 396.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"directive",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"direct",
-						"app/scripts/form/Directives.js"
-					],
-					[
-						"creative.view.",
-						"app/views/creatives/creatives.view.html"
-					],
-					[
-						"creative.v",
-						"app/scripts/creatives/creatives.view.js"
-					],
-					[
-						"direc",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"ourf",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"date",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"dat",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"daterangepicker",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"our",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"app",
-						"app/scripts/app.js"
-					],
-					[
-						"deal.ser",
-						"app/scripts/deals/deals.service.js"
-					],
-					[
-						"newor",
-						"modules/order/app/models/api/NewOrder.scala"
-					],
-					[
-						"orderser",
-						"modules/order/app/services/impl/OrderServiceImpl.scala"
-					],
-					[
-						"businessva",
-						"modules/core/src/main/scala/validation/BusinessValidation.scala"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
 				"height": 375.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 741.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 345.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 0.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
+				"last_filter": "prev",
 				"selected_items":
 				[
 					[
-						"adverti",
-						"advertiserOfDeal"
+						"prev",
+						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"advert",
-						"advertiserIds"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "[info] com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService - [Silhouette][jwt-authenticator] Error on parsing JWT token: 6461f395c621454db91ff32ad7968007-d53f11a9906132e03bb2\ncom.mohiva.play.silhouette.api.exceptions.AuthenticatorException: [Silhouette][jwt-authenticator] Error on parsing JWT token: 6461f395c621454db91ff32ad7968007-d53f11a9906132e03bb2\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$1.applyOrElse(JWTAuthenticator.scala:334) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$1.applyOrElse(JWTAuthenticator.scala:333) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) ~[scala-library-2.11.6.jar:na]\n  at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:215) ~[scala-library-2.11.6.jar:na]\n  at scala.util.Try$.apply(Try.scala:191) ~[scala-library-2.11.6.jar:na]\n  at scala.util.Failure.recover(Try.scala:215) ~[scala-library-2.11.6.jar:na]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService.unserialize(JWTAuthenticator.scala:333) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$retrieve$3.apply(JWTAuthenticator.scala:148) [play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$retrieve$3.apply(JWTAuthenticator.scala:147) [play-silhouette_2.11-2.0.jar:2.0]\n  at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:251) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:249) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [scala-library-2.11.6.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.processBatch$1(BatchingExecutor.scala:67) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:82) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:59) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:59) [akka-actor_2.11-2.3.4.jar:na]\n  at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) [scala-library-2.11.6.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch.run(BatchingExecutor.scala:58) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [scala-library-2.11.6.jar:na]\nCaused by: java.text.ParseException: Invalid serialized plain/JWS/JWE object: Missing part delimiters\n  at com.nimbusds.jose.JOSEObject.split(JOSEObject.java:188) ~[nimbus-jose-jwt-2.16.jar:2.16]\n  at com.nimbusds.jose.JWSObject.parse(JWSObject.java:480) ~[nimbus-jose-jwt-2.16.jar:2.16]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$2.apply(JWTAuthenticator.scala:313) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$2.apply(JWTAuthenticator.scala:311) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at scala.util.Try$.apply(Try.scala:191) ~[scala-library-2.11.6.jar:na]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService.unserialize(JWTAuthenticator.scala:311) ~[play-silhouette_2.11-2.0.jar:2.0]\n  ... 17 common frames omitted\n",
-					"settings":
-					{
-						"buffer_size": 4132,
-						"line_ending": "Unix",
-						"name": "[info] com.mohiva.play.silhouette.impl.authenticat"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 194.0,
-				"last_filter": "markdow",
-				"selected_items":
-				[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
 					[
 						"markdow",
 						"Markdown Preview: Preview in Browser"
@@ -713,10 +140,6 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
 						"instal",
 						"Package Control: Install Package"
 					],
@@ -737,7 +160,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 516.0
+				"width": 561.0
 			},
 			"console":
 			{
@@ -756,20 +179,6 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/aws-deploy",
-				"/home/julien/work/projects/aws-deploy/applications",
-				"/home/julien/work/projects/aws-deploy/applications/aerospike/resources",
-				"/home/julien/work/projects/aws-deploy/applications/agent",
-				"/home/julien/work/projects/aws-deploy/applications/bidder",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources",
-				"/home/julien/work/projects/aws-deploy/applications/tracker",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources",
-				"/home/julien/work/projects/aws-deploy/applications/zookeeper",
-				"/home/julien/work/projects/aws-deploy/applications/zookeeper/resources"
-			],
 			"file_history":
 			[
 				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
@@ -1093,6 +502,703 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 396.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"directive",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"direct",
+						"app/scripts/form/Directives.js"
+					],
+					[
+						"creative.view.",
+						"app/views/creatives/creatives.view.html"
+					],
+					[
+						"creative.v",
+						"app/scripts/creatives/creatives.view.js"
+					],
+					[
+						"direc",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"ourf",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"date",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"dat",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"daterangepicker",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"our",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"deal.ser",
+						"app/scripts/deals/deals.service.js"
+					],
+					[
+						"newor",
+						"modules/order/app/models/api/NewOrder.scala"
+					],
+					[
+						"orderser",
+						"modules/order/app/services/impl/OrderServiceImpl.scala"
+					],
+					[
+						"businessva",
+						"modules/core/src/main/scala/validation/BusinessValidation.scala"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"templa",
+						"app/scripts/templates/templates.js"
+					],
+					[
+						"controller",
+						"app/scripts/pages/Controllers.js"
+					],
+					[
+						"bower",
+						"bower.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 741.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 50.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"adverti",
+						"advertiserOfDeal"
+					],
+					[
+						"advert",
+						"advertiserIds"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "[info] com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService - [Silhouette][jwt-authenticator] Error on parsing JWT token: 6461f395c621454db91ff32ad7968007-d53f11a9906132e03bb2\ncom.mohiva.play.silhouette.api.exceptions.AuthenticatorException: [Silhouette][jwt-authenticator] Error on parsing JWT token: 6461f395c621454db91ff32ad7968007-d53f11a9906132e03bb2\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$1.applyOrElse(JWTAuthenticator.scala:334) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$1.applyOrElse(JWTAuthenticator.scala:333) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) ~[scala-library-2.11.6.jar:na]\n  at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:215) ~[scala-library-2.11.6.jar:na]\n  at scala.util.Try$.apply(Try.scala:191) ~[scala-library-2.11.6.jar:na]\n  at scala.util.Failure.recover(Try.scala:215) ~[scala-library-2.11.6.jar:na]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService.unserialize(JWTAuthenticator.scala:333) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$retrieve$3.apply(JWTAuthenticator.scala:148) [play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$retrieve$3.apply(JWTAuthenticator.scala:147) [play-silhouette_2.11-2.0.jar:2.0]\n  at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:251) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:249) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [scala-library-2.11.6.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.processBatch$1(BatchingExecutor.scala:67) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:82) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:59) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:59) [akka-actor_2.11-2.3.4.jar:na]\n  at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) [scala-library-2.11.6.jar:na]\n  at akka.dispatch.BatchingExecutor$Batch.run(BatchingExecutor.scala:58) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]\n  at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [scala-library-2.11.6.jar:na]\n  at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [scala-library-2.11.6.jar:na]\nCaused by: java.text.ParseException: Invalid serialized plain/JWS/JWE object: Missing part delimiters\n  at com.nimbusds.jose.JOSEObject.split(JOSEObject.java:188) ~[nimbus-jose-jwt-2.16.jar:2.16]\n  at com.nimbusds.jose.JWSObject.parse(JWSObject.java:480) ~[nimbus-jose-jwt-2.16.jar:2.16]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$2.apply(JWTAuthenticator.scala:313) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService$$anonfun$unserialize$2.apply(JWTAuthenticator.scala:311) ~[play-silhouette_2.11-2.0.jar:2.0]\n  at scala.util.Try$.apply(Try.scala:191) ~[scala-library-2.11.6.jar:na]\n  at com.mohiva.play.silhouette.impl.authenticators.JWTAuthenticatorService.unserialize(JWTAuthenticator.scala:311) ~[play-silhouette_2.11-2.0.jar:2.0]\n  ... 17 common frames omitted\n",
+					"settings":
+					{
+						"buffer_size": 4132,
+						"line_ending": "Unix",
+						"name": "[info] com.mohiva.play.silhouette.impl.authenticat"
+					}
+				},
+				{
+					"file": "/home/julien/Documents/INSTALLATION.txt",
+					"settings":
+					{
+						"buffer_size": 4373,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "@(form: play.api.data.Form[Mocker])(implicit lang: Lang)\n\n@main {\n\n@partials.presentation()\n\n<form class=\"form-horizontal\" action=\"/\" method=\"post\" id=\"new-mocky-form\">\n\n    @if(form.hasErrors) {\n        <div class=\"alert alert-error\">@Messages(\"error.invalidForm\")</div>\n    }\n\n    <div class=\"alert\" id=\"feedback\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button>\n        <p></p> <!--Do not remove...-->\n    </div>\n    <div class=\"alert alert-info\" id=\"confidential-alert\">\n        @Html(Messages(\"news.jsonp\"))\n    </div>\n\n    <fieldset>\n        <legend>@Messages(\"form.legend\")</legend>\n\n        <div class=\"control-group\">\n            <label class=\"control-label\" for=\"statusCode\">@Messages(\"form.code\")</label>\n            <div class=\"controls\">\n                <input type=\"text\" id=\"statusCode\" name=\"statuscode\"  />\n            </div>\n        </div>\n        <div class=\"control-group hide\" id=\"location-block\">\n            <label class=\"control-label\" for=\"location\">@Messages(\"form.location\")</label>\n            <div class=\"controls\">\n                <input type=\"text\" id=\"location\" name=\"location\" placeholder=\"Redirect URI\" class=\"input-xlarge\" />\n            </div>\n        </div>\n        <div class=\"control-group\">\n            <label class=\"control-label\" for=\"contentType\">@Messages(\"form.contentType\")</label>\n            <div class=\"controls\">\n                <input type=\"text\" id=\"contentType\" name=\"contenttype\" />\n                &nbsp;\n                <input type=\"text\" id=\"charset\" name=\"charset\" />\n            </div>\n        </div>\n\n        <div class=\"advanced-block hide\">\n            <div class=\"control-group\">\n                <label class=\"control-label\" for=\"editor\">@Messages(\"form.customHeaders\")</label>\n                <div class=\"controls\" id=\"advanced-block-inner\">\n                    <p class=\"clone\">\n                        <input class=\"span2\" type=\"text\" name=\"headerNames[]\"> :\n                        <input class=\"span4\" type=\"text\" name=\"headerValues[]\">\n                        <a class=\"btn btn-success btn-mini btn-add-header\"><i class=\"icon icon-plus icon-white\"></i></a>\n                    </p>\n                </div>\n                <div class=\"controls\">\n                    <span class=\"help-block\">@Messages(\"eg\") ETag, If-None-Match, Expires, Last-Modified, Server, X-Cache, Cache-Control,<br /> X-Frame-Options, Server, Set-Cookie, X-UA-Compatible...</span>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"control-group\">\n            <label class=\"control-label\" for=\"editor\">@Messages(\"form.body\")</label>\n            <div class=\"controls\">\n                <div id=\"editor\"></div>\n            </div>\n        </div>\n\n        <div class=\"control-group\">\n            <div class=\"controls\">\n                <button type=\"submit\" class=\"btn btn-primary\" id=\"send-btn\">@Messages(\"btn.generate\")</button>\n                <a href=\"#\" class=\"btn btn-advanced-mode\">@Messages(\"btn.advanced\")</a>\n            </div>\n        </div>\n    </fieldset>\n</form>\n\n}\n",
+					"file": "/home/julien/work/perso/test3/index.scala.html",
+					"file_size": 3074,
+					"file_write_time": 130139492490000000,
+					"settings":
+					{
+						"buffer_size": 3074,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "curl -X POST -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: NING/1.0' -u'manager:3bzA%USRqyTB8s>K%9k~%!Zr_Pc-B3C5gj#MWS7wPsaw)}qPy?' --data '@mail1.json' -v 'http://mailing.tabmo.io/api/templates'\nc\nurl -X POST -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: NING/1.0' -u'manager:3bzA%USRqyTB8s>K%9k~%!Zr_Pc-B3C5gj#MWS7wPsaw)}qPy?' --data '@mail2.json' -v 'http://mailing.tabmo.io/api/templates'\n\n",
+					"settings":
+					{
+						"buffer_size": 436,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "- MAN-114 Edition template mail ne marche plus\n- MAN-115 Rajouter les noms des variables dans le lien déclencheur ${toto}\n- MAN-116 Rajouter la traduction sur le code d'erreur organisation déjà existante\"\n- MAN-63 Rajouter les '*' sur champs obligatoires \"nouvelle organisation\"\n\nA voir également\n- Bug déconnexion au F5\n- Extraire Schéma fonctionnel de l'application\n- Nombreux bug ui-grid (pbm de recherche, refresh)\n- Tester créer un annonceur\n- Remplacer les images qui ne fonctionnent pas sur les creatives\n- Scroll sur nouvelle creative\n- couleur grise à droite bof\n- Fixer HTTPS sur EC2\n- Filter la liste des utilisateurs à inviter\n- API : liste des invitations",
+					"settings":
+					{
+						"buffer_size": 668,
+						"line_ending": "Unix",
+						"name": "- MAN-114 Edition template mail ne marche plus"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
+					"settings":
+					{
+						"buffer_size": 651,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 1321,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/mailer-api/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 1449,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/Documents/Workflow Git.md",
+					"settings":
+					{
+						"buffer_size": 5863,
+						"line_ending": "Unix",
+						"name": "# Workflow Git"
+					}
+				},
+				{
+					"contents": "\n* 33c8194 - (HEAD, master) Fix doc for orga (il y a 7 secondes) <Julien Lafont>\n* a401580 - Ensure that prod will not be downgraded automatically (il y a 19 secondes) <Julien Lafont>\n* 4674436 - (origin/master, origin/develop, develop) Bump to v0.1.9 (il y a 2 heures) <Julien Lafont>\n",
+					"settings":
+					{
+						"buffer_size": 286,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "prev",
+				"selected_items":
+				[
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"angularjs",
+						"AngularJS: Rebuild Search Index"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package con",
+						"Package Control: List Packages"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/projects/aws-deploy",
+				"/home/julien/work/projects/aws-deploy/applications",
+				"/home/julien/work/projects/aws-deploy/applications/agent",
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api",
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/manager",
+				"/home/julien/work/projects/aws-deploy/applications/manager/resources",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api",
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/tracker",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources",
+				"/home/julien/work/projects/aws-deploy/applications/zookeeper",
+				"/home/julien/work/projects/aws-deploy/applications/zookeeper/resources"
+			],
+			"file_history":
+			[
+				"/home/julien/work/projects/manager-api/s1.sh",
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
+				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
+				"/home/julien/Documents/INSTALLATION.txt",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
+				"/home/julien/work/projects/middleware-api/build.sbt",
+				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
+				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
+				"/home/julien/Documents/scénario.txt",
+				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
+				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
+				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
+				"/home/julien/Téléchargements/out.csv",
+				"/home/julien/work/projects/manager-front/Gruntfile.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
+				"/home/julien/work/projects/manager-front/app/index.html",
+				"/home/julien/work/projects/manager-front/bower.json",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
+				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
+				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/app.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
+				"/home/julien/work/projects/angular-hy-res/package.json",
+				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
+				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
+				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
+				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
+				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
+				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_requetesreponses.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_authentification.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_campagnes.md"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/julien/work/projects/middleware-api",
+					"/home/julien/work/projects/dataprovider-connector-api",
+					"",
+					"/home/julien/work/projects/manager-front/app/",
+					"/home/julien/work/projects/manager-front/app/views",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-doc",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/app/scripts/pages",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"s3cmd",
+					"\\'",
+					"'",
+					"90",
+					"fromConfig",
+					"aws",
+					"zip",
+					"node",
+					"karma",
+					"-o",
+					"Chart.js",
+					"char",
+					"Chart.js",
+					"Chart",
+					"env",
+					"ugl",
+					"ugly",
+					"fontawesome-webfont.woff2",
+					"font",
+					"ugly",
+					"$scope.layoutHorizontal = newVal;",
+					"uglify",
+					"scripts",
+					"vendor",
+					"concat",
+					"map",
+					"$scope.layoutHorizontal = newVal",
+					"$scope.layoutHorizontal=newVal",
+					"dash",
+					"tabmo",
+					"concurrent",
+					"less",
+					"copy",
+					"console.log",
+					"creatives.updated",
+					"OrderViewController",
+					"default-initials-img",
+					"defaultInitialsImg",
+					"test",
+					">\n",
+					"timezone",
+					"daterangepicker",
+					"$",
+					"€",
+					"regex",
+					"$q",
+					"schedule",
+					"currentDeal",
+					"advertiser",
+					"listAdvertiser",
+					"webpackPipe",
+					"/v1/",
+					"manager-api",
+					"//v1/",
+					"api/v1/public/",
+					"v1advertiser",
+					"/api/v1/public/",
+					"txt",
+					"localhost",
+					"dev-manager-api",
+					"9100",
+					"9000",
+					"manager-api",
+					"dev-manager-api:9000",
+					"pending",
+					"cré",
+					"-d",
+					"timezones",
+					"OrderSpec",
+					"Congtent-",
+					"^## ",
+					"^# ",
+					"icon-exclamation-sign",
+					"warning",
+					"aside",
+					"$MANAGER_API",
+					"$examples-width",
+					"0",
+					"Monokai",
+					"pre",
+					"live",
+					"isNotBanner",
+					"isBanner",
+					"ng-disa",
+					"ng-if",
+					"codemi",
+					"switchStatus",
+					"editorOptions",
+					"icheck",
+					"select2RemoteOptions",
+					"select2TaggingOptions",
+					"ui-select2",
+					"ui-select2 ",
+					", ",
+					"'",
+					"'creativesize.",
+					", 'tablet'),",
+					", 'smartphone'),",
+					", 'mobile'),",
+					"    (uuid_generate_v1mc(), ",
+					"(uuid_generate_v1mc(), ",
+					"scriptS",
+					"UUID",
+					"creatives",
+					"lines",
+					"data",
+					";\n",
+					"<!",
+					"api",
+					"OrderViewController",
+					"progress",
+					"$state",
+					"$location.",
+					"hasGlobalErrors",
+					"ngModel",
+					".directive",
+					"hideAlert1",
+					"controller",
+					"AlertsController",
+					"alert",
+					"displayGlobalError",
+					".alert-success",
+					"AngularFormValidationController",
+					"ng-invalid",
+					"format_err",
+					"format_errs",
+					"contains",
+					"$q"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\\\'",
+					"-O",
+					"deal",
+					"/",
+					"dataprovider-api",
+					"/v1/",
+					"v1/advertiser",
+					"/internal/v1",
+					"manager-api.dev.tabmo.net",
+					"",
+					"$URL",
+					" -> ",
+					"",
+					"q",
+					"\"",
+					"uhli",
+					"login_infos",
+					"u",
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
@@ -1102,7 +1208,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 9,
 					"sheets":
 					[
 						{
@@ -1117,8 +1223,8 @@
 								"selection":
 								[
 									[
-										140,
-										193
+										3526,
+										3526
 									]
 								],
 								"settings":
@@ -1188,6 +1294,791 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
+								"translation.y": 71.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/julien/Documents/INSTALLATION.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4373,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4373,
+										4373
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1836.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/julien/work/perso/test3/index.scala.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3074,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 436,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										436,
+										436
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 668,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										668,
+										668
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "- MAN-114 Edition template mail ne marche plus",
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										392,
+										392
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1321,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1321,
+										1321
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/julien/work/projects/aws-deploy/applications/mailer-api/init_app.sh",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1449,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1449,
+										1449
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/julien/Documents/Workflow Git.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5863,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5863,
+										5863
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "# Workflow Git",
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"parser": "github",
+									"syntax": "Packages/Markdown/Markdown.tmLanguage",
+									"target": "disk"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1572.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 286,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10,
+										10
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "",
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
@@ -1199,7 +2090,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -1233,11 +2124,1330 @@
 				"height": 396.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
+			"position": "0,1,0,0,0,2176,319,2816,771,1920,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"directive",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"direct",
+						"app/scripts/form/Directives.js"
+					],
+					[
+						"creative.view.",
+						"app/views/creatives/creatives.view.html"
+					],
+					[
+						"creative.v",
+						"app/scripts/creatives/creatives.view.js"
+					],
+					[
+						"direc",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"ourf",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"date",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"dat",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"daterangepicker",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"our",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"deal.ser",
+						"app/scripts/deals/deals.service.js"
+					],
+					[
+						"newor",
+						"modules/order/app/models/api/NewOrder.scala"
+					],
+					[
+						"orderser",
+						"modules/order/app/services/impl/OrderServiceImpl.scala"
+					],
+					[
+						"businessva",
+						"modules/core/src/main/scala/validation/BusinessValidation.scala"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"templa",
+						"app/scripts/templates/templates.js"
+					],
+					[
+						"controller",
+						"app/scripts/pages/Controllers.js"
+					],
+					[
+						"bower",
+						"bower.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 79.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 378.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 372.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 131,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"adverti",
+						"advertiserOfDeal"
+					],
+					[
+						"advert",
+						"advertiserIds"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
+					"settings":
+					{
+						"buffer_size": 651,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 2719,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
+					"settings":
+					{
+						"buffer_size": 628,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 1321,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager-api/resources/application.ec2.conf",
+					"settings":
+					{
+						"buffer_size": 440,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "curl 'http://manager-api.dev.tabmo.net/api/v1/organizations/e23a07be-dc5a-4d48-970a-4ecddce28fda' -H 'X-Organization-Id: fb7594f5-55c8-49c1-baf7-75fac3686879' -H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJleUp3Y205MmFXUmxja2xFSWpvaVkzSmxaR1Z1ZEdsaGJITWlMQ0p3Y205MmFXUmxja3RsZVNJNkluTmhjbUZvUUhSaFltMXZMbVp5SW4wPSIsImlzcyI6IlRhYk1vLU1hbmFnZXIiLCJleHAiOjE0MzM4ODczMzksImlhdCI6MTQzMzg0NDEzOSwianRpIjoiNjMzOTE0NGM2MmZlMWJmNGVlODlmY2E2Y2FmNmUxMGYwM2U3M2I1Mzk4MjhkMDI2YTViNjdiZmQwMGJhNTJmZGYzNTYyMzhkNDg5YjQ4YWI0M2M1NTllODdmZDM5MmFkZWUzNmIyOThlODgwOTcxMmQ3MWE2MTVmMWZlMzU2MGEwYjRkMTA4MTA0ZGUxMzUzZTUwZjA3ZmZiZDgxMGEzNTMzZTljNmJkNjdmNjAxOTFjYmFjZmM1YjIyZjc3M2UwZjhlYjJmYWI4ZGI1YzJjMGI5ODJjOTAzZWM2NWZjMDExYTk2ODUwYzNhNzQ1OTM2YTkyZjQ5MjJiNjIzMzRlYSJ9.p9C2ZdOUEwrqY2EiVA7k_XboIT9AhZAucKuTajHmZ-Q'",
+					"settings":
+					{
+						"buffer_size": 807,
+						"line_ending": "Unix",
+						"name": "curl 'http://manager-api.dev.tabmo.net/api/v1/orga"
+					}
+				},
+				{
+					"contents": "var APP_CONFIG = {\n  API_URL: \"http://localhost:9100\"\n\n};\n\n\ndropdb -h tabmo-db.cuuzbtnwlwr1.eu-west-1.rds.amazonaws.com -U tabmo_db manager\ncreatedb -h tabmo-db.cuuzbtnwlwr1.eu-west-1.rds.amazonaws.com -U tabmo_db -O tabmo_db manager\n\n3V2tDVj[3LQr5[<X\n\n\nsbt test -Dtest.db.default.username=\"$PG_USER\" -Dtest.db.default.password=\"$PG_PASSWORD\" -Dtest.db.default.jdbcUrl=\"jdbc:postgresql://localhost:5434/test\"\n\n\ntargeting: {\n  \"categoy\": {\n    \"include\": [],\n    \"exclude\": []\n  },\n  \"type\": {\n    \"include\": [\"site\"],\n    \"exclude\": [\"app\"]\n  },\n  \"appSiteName\": {\n    \"include\": [],\n    \"exclude\": [],\n    \"denyIfUndefined\": true\n  },\n  \"geo\": {\n    \"include\": [\n      {\"lng\": \"2.3522219000000177\", \"lat\": \"48.856614\", \"radius\": \"10\"}\n    ],\n    \"exclude\": [],\n    \"denyIfUndefined\": true\n  },\n  \"schedule\": {\n    \"include\": [\n      [ \"2015-06-08T13:33:13Z\", \"2015-06-08T15:33:13Z\"],\n      [ \"2015-06-09T13:33:13Z\", \"2015-06-09T15:33:13Z\"]\n    ]\n  },\n  \"deviceConnection\": {\n    \"include\": [],\n    \"exclude\": [],\n    \"denyIfUndefined\": false\n  }\n}\n\ngit tag -s 1.0 -m \"Message 1.0\"\ngit push --tags origin master",
+					"file": "/home/julien/work/projects/manager-front/app/conf/env.js",
+					"file_size": 57,
+					"file_write_time": 130783296912306727,
+					"settings":
+					{
+						"buffer_size": 1111,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "prev",
+				"selected_items":
+				[
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"angularjs",
+						"AngularJS: Rebuild Search Index"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package con",
+						"Package Control: List Packages"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/projects/aws-deploy",
+				"/home/julien/work/projects/aws-deploy/applications",
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api",
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/manager",
+				"/home/julien/work/projects/aws-deploy/applications/manager/resources",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources/nginx",
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources",
+				"/home/julien/work/projects/aws-deploy/applications/zookeeper",
+				"/home/julien/work/projects/aws-deploy/applications/zookeeper/resources"
+			],
+			"file_history":
+			[
+				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
+				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
+				"/home/julien/Documents/INSTALLATION.txt",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
+				"/home/julien/work/projects/middleware-api/build.sbt",
+				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
+				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
+				"/home/julien/Documents/scénario.txt",
+				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
+				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
+				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
+				"/home/julien/Téléchargements/out.csv",
+				"/home/julien/work/projects/manager-front/Gruntfile.js",
+				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
+				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
+				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
+				"/home/julien/work/projects/manager-front/app/index.html",
+				"/home/julien/work/projects/manager-front/bower.json",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
+				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
+				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
+				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
+				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
+				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
+				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
+				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
+				"/home/julien/work/projects/manager-front/app/scripts/app.js",
+				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
+				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
+				"/home/julien/work/projects/angular-hy-res/package.json",
+				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
+				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
+				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
+				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
+				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
+				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_requetesreponses.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_authentification.md",
+				"/home/julien/work/projects/manager-doc/source/includes/_campagnes.md",
+				"/home/julien/work/projects/manager-doc/config.rb"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/julien/work/projects/middleware-api",
+					"/home/julien/work/projects/dataprovider-connector-api",
+					"",
+					"/home/julien/work/projects/manager-front/app/",
+					"/home/julien/work/projects/manager-front/app/views",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-doc",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/app/scripts/pages",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"90",
+					"fromConfig",
+					"aws",
+					"zip",
+					"node",
+					"karma",
+					"-o",
+					"Chart.js",
+					"char",
+					"Chart.js",
+					"Chart",
+					"env",
+					"ugl",
+					"ugly",
+					"fontawesome-webfont.woff2",
+					"font",
+					"ugly",
+					"$scope.layoutHorizontal = newVal;",
+					"uglify",
+					"scripts",
+					"vendor",
+					"concat",
+					"map",
+					"$scope.layoutHorizontal = newVal",
+					"$scope.layoutHorizontal=newVal",
+					"dash",
+					"tabmo",
+					"concurrent",
+					"less",
+					"copy",
+					"console.log",
+					"creatives.updated",
+					"OrderViewController",
+					"default-initials-img",
+					"defaultInitialsImg",
+					"test",
+					">\n",
+					"timezone",
+					"daterangepicker",
+					"$",
+					"€",
+					"regex",
+					"$q",
+					"schedule",
+					"currentDeal",
+					"advertiser",
+					"listAdvertiser",
+					"webpackPipe",
+					"/v1/",
+					"manager-api",
+					"//v1/",
+					"api/v1/public/",
+					"v1advertiser",
+					"/api/v1/public/",
+					"txt",
+					"localhost",
+					"dev-manager-api",
+					"9100",
+					"9000",
+					"manager-api",
+					"dev-manager-api:9000",
+					"pending",
+					"cré",
+					"-d",
+					"timezones",
+					"OrderSpec",
+					"Congtent-",
+					"^## ",
+					"^# ",
+					"icon-exclamation-sign",
+					"warning",
+					"aside",
+					"$MANAGER_API",
+					"$examples-width",
+					"0",
+					"Monokai",
+					"pre",
+					"live",
+					"isNotBanner",
+					"isBanner",
+					"ng-disa",
+					"ng-if",
+					"codemi",
+					"switchStatus",
+					"editorOptions",
+					"icheck",
+					"select2RemoteOptions",
+					"select2TaggingOptions",
+					"ui-select2",
+					"ui-select2 ",
+					", ",
+					"'",
+					"'creativesize.",
+					", 'tablet'),",
+					", 'smartphone'),",
+					", 'mobile'),",
+					"    (uuid_generate_v1mc(), ",
+					"(uuid_generate_v1mc(), ",
+					"scriptS",
+					"UUID",
+					"creatives",
+					"lines",
+					"data",
+					";\n",
+					"<!",
+					"api",
+					"OrderViewController",
+					"progress",
+					"$state",
+					"$location.",
+					"hasGlobalErrors",
+					"ngModel",
+					".directive",
+					"hideAlert1",
+					"controller",
+					"AlertsController",
+					"alert",
+					"displayGlobalError",
+					".alert-success",
+					"AngularFormValidationController",
+					"ng-invalid",
+					"format_err",
+					"format_errs",
+					"contains",
+					"$q",
+					"inputma",
+					"inputmask",
+					"mask"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"-O",
+					"deal",
+					"/",
+					"dataprovider-api",
+					"/v1/",
+					"v1/advertiser",
+					"/internal/v1",
+					"manager-api.dev.tabmo.net",
+					"",
+					"$URL",
+					" -> ",
+					"",
+					"q",
+					"\"",
+					"uhli",
+					"login_infos",
+					"u",
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/julien/work/projects/aws-deploy"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										128,
+										128
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2719,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1977,
+										1977
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 714.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 628,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										433,
+										433
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1321,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1294,
+										1294
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager-api/resources/application.ec2.conf",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 440,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										209,
+										209
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										807,
+										807
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "curl 'http://manager-api.dev.tabmo.net/api/v1/orga",
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/julien/work/projects/manager-front/app/conf/env.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1111,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1111,
+										1111
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 396.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,2534,274,3174,726,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1355,12 +3565,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 50.0,
+			"side_bar_width": 470.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 131,
+			"window_id": 133,
 			"workspace_name": ""
 		}
 	],

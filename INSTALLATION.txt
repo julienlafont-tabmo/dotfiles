@@ -135,3 +135,7 @@ s3cmd --configure
 sudo pip install awscli
 awscli
 awscli --configure
+
+# Logitech M560
+sudo nano /etc/udev/hwdb.d/90-logitech-m-560.hwdb
+sudo udevadm hwdb --update # + reboot

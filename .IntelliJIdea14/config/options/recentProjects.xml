@@ -2,8 +2,8 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/work/projects/mailer-api" />
         <option value="$USER_HOME$/work/projects/manager-api" />
+        <option value="$USER_HOME$/work/projects/mailer-api" />
         <option value="$USER_HOME$/work/perso/playdash" />
         <option value="$USER_HOME$/work/projects/dataprovider-connector-api" />
         <option value="$USER_HOME$/work/projects/play2-skeleton" />
@@ -14,10 +14,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/work/projects/mailer-api" />
+        <option value="$USER_HOME$/work/projects/manager-api" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/work/projects/mailer-api" />
+    <option name="lastPath" value="$USER_HOME$/work/projects/manager-api" />
     <option name="lastProjectLocation" value="$USER_HOME$/work/perso" />
   </component>
 </application>

@@ -1,44 +1,38 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>organization_rights</find>
-      <find>organization_rights_level</find>
-      <find>thirdInventoryMode</find>
-      <find>can_</find>
-      <find>insertOrganizationsInPlatform</find>
-      <find>ExternalClass</find>
-      <find>accepter</find>
-      <find>println</find>
-      <find>invi</find>
-      <find>cannot find template</find>
-      <find>cannot.find.template</find>
-      <find>user</find>
-      <find>User</find>
-      <find>slick-pg</find>
-      <find>driver</find>
-      <find>driverClassName</find>
-      <find>mailerService</find>
-      <find>level</find>
-      <find>Organization</find>
-      <find>.platforms.head</find>
-      <find>invitation</find>
-      <find>invitations</find>
-      <find>.head</find>
-      <find>saveInvitation</find>
-      <find>&quot;</find>
       <find>&gt; **Endpoint :**</find>
       <find>forei</find>
       <find>ApiDetailError(&quot;</find>
       <find>ApiError(&quot;</find>
       <find>INT</find>
+      <find>logo_url</find>
+      <find>`userId`</find>
+      <find>|</find>
+      <find>userRighgts</find>
+      <find>ApiEnvironment</find>
+      <find>create</find>
+      <find>UserRights</find>
+      <find>isUserInOrganization</find>
+      <find>loadUsersRights</find>
+      <find>UserWithRightsService</find>
+      <find>User</find>
+      <find>implicit val ec: ExecutionContext</find>
+      <find>userRights: UserRights,</find>
+      <find>userRights.</find>
+      <find>UserRightsService</find>
+      <find>listCro</find>
+      <find>all</find>
+      <find>/orga</find>
+      <find>println</find>
+      <find>deal</find>
+      <find>NUMERIC</find>
+      <find>Device</find>
+      <find>targe</find>
+      <find>Rule.gen</find>
+      <find>.gen</find>
     </findStrings>
     <replaceStrings>
-      <replace>validate(crea)</replace>
-      <replace>core.rules</replace>
-      <replace>obj.entity.</replace>
-      <replace>Int</replace>
-      <replace>order.models.FullLine</replace>
-      <replace>/api/v1/</replace>
       <replace>2.11.6</replace>
       <replace>2.11.4</replace>
       <replace>x51486qs</replace>
@@ -63,11 +57,18 @@
       <replace>organization_right_levels</replace>
       <replace>organizationRightLevel</replace>
       <replace>\&quot;</replace>
+      <replace />
+      <replace>userRights</replace>
+      <replace>UserWithRights</replace>
+      <replace>UserRightsService</replace>
+      <replace>implicit private val ec: ExecutionContext</replace>
+      <replace>Connection</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>
       <dir>$USER_HOME$/work/projects/manager-api/modules/order</dir>
       <dir>$USER_HOME$/work/projects/manager-api/doc/source/includes</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/shared/app</dir>
     </dirStrings>
   </component>
 </application>

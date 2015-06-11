@@ -1,6 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="exceptComments" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="EXCEPT_COMMENTS" value="true" />
     <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>

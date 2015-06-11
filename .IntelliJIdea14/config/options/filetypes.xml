@@ -15,16 +15,17 @@
       <mapping ext="create" type="Bash" />
       <mapping ext="send" type="Bash" />
       <mapping ext="allusers" type="Bash" />
+      <mapping ext="eligibles" type="Bash" />
       <mapping ext="update" type="Bash" />
       <mapping ext="self" type="Bash" />
+      <mapping pattern="signout" type="PLAIN_TEXT" />
       <mapping pattern="me" type="PLAIN_TEXT" />
       <mapping pattern="00_authentification.md" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="orders" type="PLAIN_TEXT" />
-      <mapping pattern="login" type="PLAIN_TEXT" />
-      <mapping pattern="signout" type="PLAIN_TEXT" />
-      <mapping pattern="signUpJL" type="PLAIN_TEXT" />
       <mapping pattern="etc-default" type="PLAIN_TEXT" />
+      <mapping pattern="orders" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="signUpJL" type="PLAIN_TEXT" />
+      <mapping pattern="login" type="PLAIN_TEXT" />
       <mapping ext="fr" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />

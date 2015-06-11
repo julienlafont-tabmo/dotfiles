@@ -38,9 +38,9 @@
     <property name="Copy.OpenInEditor" value="true" />
     <property name="FileTemplates.CurrentTab" value="Templates" />
     <property name="FileTemplates.SelectedTemplate" value="Html" />
-    <property name="lastTip" value="19" />
+    <property name="lastTip" value="21" />
     <property name="MoveClassWithTarget.OpenInEditor" value="false" />
-    <property name="fileTypeChangedCounter" value="9" />
+    <property name="fileTypeChangedCounter" value="10" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />

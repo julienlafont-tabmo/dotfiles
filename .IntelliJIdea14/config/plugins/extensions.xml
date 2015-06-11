@@ -637,6 +637,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.doclua">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.dot">
       <plugins>
         <option name="myPlugins">
@@ -1852,6 +1865,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="Libretto" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.lua">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -3670,6 +3696,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.wlua">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.wsdd">
       <plugins>
         <option name="myPlugins">
@@ -3803,6 +3842,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="org.intellij.xquery" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.yaml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="YAML/Ansible support" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
