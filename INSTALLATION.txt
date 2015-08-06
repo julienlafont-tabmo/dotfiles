@@ -139,3 +139,9 @@ awscli --configure
 # Logitech M560
 sudo nano /etc/udev/hwdb.d/90-logitech-m-560.hwdb
 sudo udevadm hwdb --update # + reboot
+
+# Golang
+# http://stackoverflow.com/questions/17480044/how-to-install-the-current-version-of-go-in-ubuntu-precise
+sudo apt-get install python-software-properties  # 12.04
+sudo add-apt-repository ppa:evarlast/golang1.4
+sudo apt-cache show golang #2:1.4.2

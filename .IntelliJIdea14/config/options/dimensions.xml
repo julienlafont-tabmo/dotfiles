@@ -1,57 +1,57 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2651" y="470" />
-    <location key="WELCOME_SCREEN.1920.0.1920.1080" x="2912" y="528" />
-    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="704" y="716" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2651" y="554" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1080" x="992" y="528" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="704" y="744" />
     <location key="#Browse_JetBrains_Plugins_.1920.0.1920.1080" x="2490" y="244" />
     <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1920.0.1920.1080" x="2616" y="306" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="2627" y="445" />
     <location key="OptionsEditor.1920.0.1920.1080" x="1985" y="52" />
-    <location key="NewModule_or_Project.wizard.1920.0.1920.1080" x="3125" y="217" />
-    <location key="FileChooserDialogImpl.0.0.1920.1080" x="775" y="614" />
-    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="754" y="370" />
-    <location key="OptionsEditor.0.0.1920.1080" x="387" y="220" />
+    <location key="NewModule_or_Project.wizard.1920.0.1920.1080" x="3125" y="245" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="824" y="566" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="754" y="417" />
+    <location key="OptionsEditor.0.0.1920.1080" x="387" y="225" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="992" y="528" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="704" y="710" />
     <location key="#Project_Structure.0.0.3840.1080" x="2383" y="148" />
     <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.3840.1080" x="2616" y="250" />
-    <location key="ProcessPopupWindow.1920.0.1920.1080" x="2808" y="717" />
+    <location key="ProcessPopupWindow.1920.0.1920.1080" x="2570" y="594" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.0.1920.1080" x="2645" y="586" />
     <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2648" y="494" />
     <location key="#Project_Structure.1920.0.1920.1080" x="2383" y="204" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="725" y="586" />
-    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="825" y="259" />
-    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2607" y="581" />
-    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080" x="654" y="429" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="825" y="301" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2607" y="609" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080" x="654" y="457" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="654" y="412" />
     <location key="#Auto_Import.0.0.1920.1080" x="765" y="287" />
-    <location key="#Project_Structure.0.0.1920.1080" x="463" y="120" />
+    <location key="#Project_Structure.0.0.1920.1080" x="463" y="148" />
     <location key="#Notifications.0.0.1920.1080" x="749" y="282" />
     <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" x="696" y="306" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="450" y="218" />
-    <location key="ProcessPopupWindow.0.0.1920.1080" x="1454" y="776" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="450" y="302" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1199" y="845" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" x="165" y="124" />
     <location key="#Web_Browsers.0.0.1920.1080" x="750" y="379" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.3840.1080" x="2701" y="586" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.3840.1080" x="2697" y="507" />
-    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.3840.1080" x="2745" y="175" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.3840.1080" x="2745" y="231" />
     <location key="OptionsEditor.0.0.3840.1080" x="2307" y="109" />
-    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.1080" x="2603" y="413" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.1080" x="2603" y="441" />
     <location key="replaceTextDialog.1920.0.1920.1080" x="2694" y="405" />
-    <location key="ReplaceDuplicatesPrompt.1920.0.1920.1080" x="2652" y="600" />
+    <location key="ReplaceDuplicatesPrompt.1920.0.1920.1080" x="2652" y="628" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.0.1920.1080" x="2745" y="301" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.0.1920.1080" x="2669" y="234" />
-    <location key="findTextDialog.1920.0.1920.1080" x="2724" y="415" />
+    <location key="findTextDialog.1920.0.1920.1080" x="2724" y="394" />
     <location key="new project wizard.1920.0.1920.1080" x="2535" y="278" />
-    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="816" y="316" />
-    <location key="findTextDialog.0.0.1920.1080" x="778" y="503" />
-    <location key="findTextDialog.0.0.3840.1080" x="2698" y="447" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="816" y="456" />
+    <location key="findTextDialog.0.0.1920.1080" x="835" y="334" />
+    <location key="findTextDialog.0.0.3840.1080" x="2698" y="531" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="692" y="370" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="749" y="304" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.3840.1080" x="2370" y="204" />
     <location key="replaceTextDialog.0.0.3840.1080" x="2694" y="307" />
     <location key="ReplaceDuplicatesPrompt.0.0.3840.1080" x="2349" y="763" />
-    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.1920.0.1920.1080" x="2449" y="492" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.1920.0.1920.1080" x="2449" y="520" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.1920.0.1920.1080" x="2655" y="429" />
     <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.1920.0.1920.1080" x="2547" y="304" />
     <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.3840.1080" x="2547" y="290" />
@@ -61,22 +61,38 @@
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="569" y="498" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1920.0.1920.1080" x="2646" y="309" />
     <location key="com.intellij.ide.util.TipDialog.0.0.3840.1080" x="704" y="605" />
-    <location key="WELCOME_SCREEN.0.0.3840.1080" x="1131" y="352" />
+    <location key="WELCOME_SCREEN.0.0.3840.1080" x="2912" y="528" />
     <location key="dock-window-1.1920.0.1920.1080" x="2085" y="124" />
     <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1920.1080" x="768" y="516" />
     <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.1920.0.1920.1080" x="2688" y="600" />
     <location key="SettingsEditor.1920.0.1920.1080" x="2718" y="360" />
-    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="720" y="322" />
-    <location key="replaceTextDialog.0.0.1920.1080" x="775" y="406" />
-    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="429" y="651" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="720" y="434" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="775" y="476" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="639" y="565" />
+    <location key="SettingsEditor.0.0.1920.1080" x="461" y="205" />
+    <location key="dock-window-1.0.0.1920.1080" x="165" y="124" />
+    <location key="SettingsEditor.0.0.3840.1080" x="2381" y="233" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.3840.1080" x="2645" y="323" />
+    <location key="FileChooserDialogImpl.0.0.3840.1080" x="2695" y="360" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.3840.1080" x="2632" y="398" />
+    <location key="new project wizard.0.0.1920.1080" x="620" y="185" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog.0.0.1920.1080" x="637" y="212" />
+    <location key="ProcessPopupWindow.0.0.3840.1080" x="2805" y="913" />
+    <location key="#Live_Templates.0.0.1920.1080" x="719" y="189" />
+    <location key="save.file.as.template.dialog.0.0.1920.1080" x="716" y="382" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.3840.1080" x="2520" y="231" />
+    <location key="NewModule_or_Project.wizard.0.0.3840.1080" x="2674" y="368" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.3840.1080" x="2520" y="464" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1920.0.1920.1080" x="2655" y="510" />
+    <location key="refactoring.ChangeSignatureDialog.1920.0.1920.1080" x="2656" y="187" />
     <size key="FileChooserDialogImpl.1920.0.1920.1080" width="630" height="466" />
     <size key="#Browse_JetBrains_Plugins_.1920.0.1920.1080" width="824" height="666" />
     <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.1920.0.1920.1080" width="592" height="657" />
     <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" width="560" height="239" />
     <size key="OptionsEditor.1920.0.1920.1080" width="1855" height="1028" />
-    <size key="NewModule_or_Project.wizard.1920.0.1920.1080" width="486" height="628" />
+    <size key="NewModule_or_Project.wizard.1920.0.1920.1080" width="486" height="663" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="630" height="466" />
-    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="490" height="635" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="490" height="663" />
     <size key="OptionsEditor.0.0.1920.1080" width="1200" height="855" />
     <size key="#Project_Structure.0.0.3840.1080" width="1048" height="862" />
     <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.3840.1080" width="582" height="629" />
@@ -91,7 +107,7 @@
     <size key="#Project_Structure.0.0.1920.1080" width="1288" height="862" />
     <size key="#Notifications.0.0.1920.1080" width="476" height="538" />
     <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" width="592" height="629" />
-    <size key="ProcessPopupWindow.0.0.1920.1080" width="201" height="121" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="719" height="115" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1809" height="358" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1809" height="358" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1809" height="358" />
@@ -107,10 +123,10 @@
     <size key="#com.intellij.ide.util.MemberChooser.0.0.3840.1080" width="430" height="573" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.3840.1080" width="324" height="779" />
     <size key="OptionsEditor.0.0.3840.1080" width="1200" height="855" />
-    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.1080" width="649" height="358" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.1080" width="704" height="358" />
     <size key="javadoc.popup.1920.0.1920.1080" width="557" height="188" />
     <size key="replaceTextDialog.1920.0.1920.1080" width="427" height="624" />
-    <size key="ReplaceDuplicatesPrompt.1920.0.1920.1080" width="1127" height="138" />
+    <size key="ReplaceDuplicatesPrompt.1920.0.1920.1080" width="1117" height="108" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.0.1920.1080" width="324" height="779" />
     <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.0.1920.1080" width="476" height="605" />
     <size key="findTextDialog.1920.0.1920.1080" width="418" height="638" />
@@ -120,15 +136,15 @@
     <size key="findTextDialog.0.0.3840.1080" width="418" height="548" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="610" height="414" />
     <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" width="1171" height="577" />
-    <size key="GridCell.Tab.0.left.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.0.center.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.0.right.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.0.bottom.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.1.left.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.1.center.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.1.right.0.0.3840.1080" width="1809" height="343" />
-    <size key="GridCell.Tab.1.bottom.0.0.3840.1080" width="1809" height="343" />
-    <size key="replaceTextDialog.0.0.3840.1080" width="427" height="600" />
+    <size key="GridCell.Tab.0.left.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.0.center.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.0.right.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.left.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.center.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.right.0.0.3840.1080" width="1809" height="358" />
+    <size key="GridCell.Tab.1.bottom.0.0.3840.1080" width="1809" height="358" />
+    <size key="replaceTextDialog.0.0.3840.1080" width="427" height="604" />
     <size key="ReplaceDuplicatesPrompt.0.0.3840.1080" width="1127" height="138" />
     <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.1920.0.1920.1080" width="720" height="521" />
     <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.3840.1080" width="720" height="521" />
@@ -143,7 +159,29 @@
     <size key="SettingsEditor.1920.0.1920.1080" width="1052" height="688" />
     <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" width="524" height="484" />
     <size key="replaceTextDialog.0.0.1920.1080" width="427" height="604" />
-    <size key="ReplaceDuplicatesPrompt.0.0.1920.1080" width="1117" height="108" />
+    <size key="ReplaceDuplicatesPrompt.0.0.1920.1080" width="1127" height="138" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1052" height="692" />
+    <size key="dock-window-1.0.0.1920.1080" width="1655" height="856" />
+    <size key="SettingsEditor.0.0.3840.1080" width="1112" height="692" />
+    <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.3840.1080" width="524" height="512" />
+    <size key="FileChooserDialogImpl.0.0.3840.1080" width="507" height="492" />
+    <size key="new project wizard.0.0.1920.1080" width="734" height="760" />
+    <size key="#com.intellij.unscramble.UnscrambleDialog.0.0.1920.1080" width="700" height="650" />
+    <size key="ProcessPopupWindow.0.0.3840.1080" width="1031" height="121" />
+    <size key="#Live_Templates.0.0.1920.1080" width="718" height="836" />
+    <size key="#Browse_JetBrains_Plugins_.0.0.3840.1080" width="824" height="694" />
+    <size key="NewModule_or_Project.wizard.0.0.3840.1080" width="466" height="365" />
+    <size key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.1920.0.1920.1080" width="1086" height="175" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.1920.0.1920.1080" width="504" height="280" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1809" height="305" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1809" height="305" />
+    <size key="refactoring.ChangeSignatureDialog.1920.0.1920.1080" width="502" height="727" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />

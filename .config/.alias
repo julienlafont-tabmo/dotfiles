@@ -8,15 +8,17 @@ balias got='git '
 
 # SSH
 balias sshperso='ssh julien@pc.studio-dev.fr'
+balias sshferal='ssh yotseedbox@cottus.feralhosting.com'
 balias sshdev-manager-api='ssh vm@dev-manager-api'
 balias sshdev-manager-db='ssh postgresql@dev-manager-db'
+balias sshjenkins='echo "CaBuild+99"; ssh ubuntu@jenkins.dev.tabmo.net'
 
 # Util
-balias reload-alias='source ~/.config/.alias'
+balias alias-reload='source ~/.config/.alias'
 
 # Docker
-balias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'
-balias dcker-clean='docker rm (docker ps -a -q)'
+#balias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'
+#balias dcker-clean='docker rm (docker ps -a -q)'
 
 # Touchpad
 balias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
@@ -25,9 +27,9 @@ balias keyboardfix='ibus-daemon -rd'
 
 
 # Blink
-alias police="/bin/bash -c 'while [ 1 ]; do blink1-tool --red --blink 1 --delay 300; blink1-tool --blue --blink 1 --delay 300; done;'"
-alias alerte="blink1-tool --delay 100 --millis 50 --rgb FF0000 --blink 5"
-alias dualfade="/bin/bash -c 'while [ 1 ]; do blink1-tool -l 1 -m 1000 -t 1000 --cyan; blink1-tool -l 2 -m 1000 -t 1000 --blue; sleep 1; blink1-tool -l 1 -m 1000 -t 1000 --blue; blink1-tool -l 2 -m 1000 -t 1000 --cyan; sleep 1; done;'"
-alias arcenciel="blink1-tool --play 1"
-alias police2="/bin/bash -c 'while [ 1 ]; do blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --red --blink 1 -m 100 -t 100; blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --off; sleep 0.7; done;'"
+#alias police="/bin/bash -c 'while [ 1 ]; do blink1-tool --red --blink 1 --delay 300; blink1-tool --blue --blink 1 --delay 300; done;'"
+#alias alerte="blink1-tool --delay 100 --millis 50 --rgb FF0000 --blink 5"
+#alias dualfade="/bin/bash -c 'while [ 1 ]; do blink1-tool -l 1 -m 1000 -t 1000 --cyan; blink1-tool -l 2 -m 1000 -t 1000 --blue; sleep 1; blink1-tool -l 1 -m 1000 -t 1000 --blue; blink1-tool -l 2 -m 1000 -t 1000 --cyan; sleep 1; done;'"
+#alias arcenciel="blink1-tool --play 1"
+#alias police2="/bin/bash -c 'while [ 1 ]; do blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --red --blink 1 -m 100 -t 100; blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --off; sleep 0.7; done;'"
 

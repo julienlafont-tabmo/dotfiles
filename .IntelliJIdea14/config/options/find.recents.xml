@@ -1,74 +1,86 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>&gt; **Endpoint :**</find>
-      <find>forei</find>
-      <find>ApiDetailError(&quot;</find>
-      <find>ApiError(&quot;</find>
-      <find>INT</find>
-      <find>logo_url</find>
-      <find>`userId`</find>
-      <find>|</find>
-      <find>userRighgts</find>
-      <find>ApiEnvironment</find>
-      <find>create</find>
-      <find>UserRights</find>
-      <find>isUserInOrganization</find>
-      <find>loadUsersRights</find>
-      <find>UserWithRightsService</find>
-      <find>User</find>
-      <find>implicit val ec: ExecutionContext</find>
-      <find>userRights: UserRights,</find>
-      <find>userRights.</find>
-      <find>UserRightsService</find>
-      <find>listCro</find>
-      <find>all</find>
-      <find>/orga</find>
-      <find>println</find>
-      <find>deal</find>
-      <find>NUMERIC</find>
-      <find>Device</find>
-      <find>targe</find>
-      <find>Rule.gen</find>
+      <find>processCountersByDateRange</find>
+      <find>coeffUnit</find>
+      <find>-&gt; AerospikeLongConverter</find>
+      <find>.get</find>
       <find>.gen</find>
+      <find>.base</find>
+      <find>queryE</find>
+      <find>query</find>
+      <find>queryEqu</find>
+      <find>print</find>
+      <find>println</find>
+      <find>buildInfoOptions</find>
+      <find>detailled</find>
+      <find>RawLineData</find>
+      <find>update</find>
+      <find>Write.gen</find>
+      <find>request</find>
+      <find>dateFormat</find>
+      <find>1000</find>
+      <find>no.platform.stats.found</find>
+      <find>Event</find>
+      <find>config</find>
+      <find>String</find>
+      <find>async</find>
+      <find>.value</find>
+      <find>isCo</find>
+      <find>logger</find>
+      <find>value</find>
+      <find>type</find>
+      <find>producer.t</find>
     </findStrings>
     <replaceStrings>
-      <replace>2.11.6</replace>
-      <replace>2.11.4</replace>
-      <replace>x51486qs</replace>
-      <replace>eulerian</replace>
-      <replace>(</replace>
-      <replace>):</replace>
-      <replace>NonFatal(e)</replace>
-      <replace>middleware-api</replace>
-      <replace>apiError.errors.list.</replace>
-      <replace>-</replace>
-      <replace>fo.order.</replace>
-      <replace>buyingStrategy =&gt;</replace>
-      <replace>.BuyingStrategy.</replace>
-      <replace>BuyingStrategy.</replace>
-      <replace>CoreRulesWrites</replace>
-      <replace>:</replace>
-      <replace>WsRequest</replace>
-      <replace>shared.models.json.TimezoneJson</replace>
-      <replace>request.organizationId</replace>
-      <replace>import controllers.core._</replace>
-      <replace>&quot;X-Organization-Id&quot;</replace>
-      <replace>organization_right_levels</replace>
-      <replace>organizationRightLevel</replace>
-      <replace>\&quot;</replace>
-      <replace />
-      <replace>userRights</replace>
-      <replace>UserWithRights</replace>
-      <replace>UserRightsService</replace>
-      <replace>implicit private val ec: ExecutionContext</replace>
-      <replace>Connection</replace>
+      <replace>PlayRestSettings:</replace>
+      <replace>DBIO.sequence</replace>
+      <replace>WithDefaultContext</replace>
+      <replace>WithDbContext</replace>
+      <replace>in</replace>
+      <replace>app.injector.instanceOf</replace>
+      <replace>new WithApplication(application)</replace>
+      <replace>def api(implicit env: JWTEnv)</replace>
+      <replace>def api(implicit env: JWTEnv) =</replace>
+      <replace>&quot;</replace>
+      <replace>OW</replace>
+      <replace>W</replace>
+      <replace>extends</replace>
+      <replace>override def onFailure</replace>
+      <replace>client.</replace>
+      <replace>vd.getObject</replace>
+      <replace>(T1, T2)</replace>
+      <replace>NonFatal(err)</replace>
+      <replace>NonFatal(_)</replace>
+      <replace>(AerospikeKey[K], Boolean)</replace>
+      <replace>vn.getType</replace>
+      <replace>vd.getType</replace>
+      <replace>keys.head</replace>
+      <replace>5.seconds</replace>
+      <replace>/* Copyright 2014 UniCredit S.p.A.</replace>
+      <replace>io.tabmo.aerospike</replace>
+      <replace>demandée</replace>
+      <replace>coeffDay</replace>
+      <replace>detailed</replace>
+      <replace>dayDateAerospike</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>
       <dir>$USER_HOME$/work/projects/manager-api/modules/order</dir>
       <dir>$USER_HOME$/work/projects/manager-api/doc/source/includes</dir>
       <dir>$USER_HOME$/work/projects/manager-api/modules/shared/app</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/entities/src/main/scala/schemas</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/user/app/daos</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/user/app</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/order/app/daos/slick</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/order/app/daos</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules</dir>
+      <dir>$USER_HOME$/work/projects/manager-api</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/test</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/test</dir>
+      <dir>$USER_HOME$/work/projects/ReactiveAerospike</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/stats/</dir>
     </dirStrings>
   </component>
 </application>

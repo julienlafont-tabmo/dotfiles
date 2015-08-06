@@ -119,10 +119,10 @@
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -180,8 +180,16 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="$USER_HOME$/work/formations/tp-scala" value="1435925812053" />
             <entry key="$USER_HOME$/work/perso/playdash" value="1433079259175" />
+            <entry key="$USER_HOME$/work/perso/scadashboard" value="1434140298474" />
+            <entry key="$USER_HOME$/work/projects/benchmark-microservices/weather-api-spray" value="1427206862000" />
+            <entry key="$USER_HOME$/work/projects/dataprovider-weather-api" value="1436369901751" />
+            <entry key="$USER_HOME$/work/projects/dataprovider-weather-api-finagle" value="1436452787909" />
             <entry key="$USER_HOME$/work/projects/mailer-api" value="1431674636366" />
+            <entry key="$USER_HOME$/work/projects/stats-request/analytics" value="1438778748059" />
+            <entry key="$USER_HOME$/work/projects/tracker" value="1438693071485" />
+            <entry key="$USER_HOME$/work/projects/weather-api" value="1437055115818" />
           </map>
         </option>
         <option name="externalProjectsViewState">

@@ -1,23 +1,53 @@
 {
 	"folder_history":
 	[
+		"/home/julien/work/perso/zen/nanterre-mediation-v2/app",
+		"/home/julien/work/perso/zen/rsu-nanterre/rsu-core",
 		"/home/julien/work/projects/aws-deploy",
-		"/home/julien/work/projects/bidrequest-tester",
-		"/home/julien/work/projects/mailer-api",
+		"/home/julien/work/projects/tracker",
+		"/home/julien/work/projects/manager-front",
 		"/home/julien/work/projects/middleware-api",
+		"/home/julien/work/projects/ovh-server",
+		"/home/julien/work/projects/ReactiveAerospike",
+		"/home/julien/work/projects/testlog/a",
+		"/home/julien/work/projects/weather-api/target/universal",
+		"/home/julien/work/projects/manager-api",
+		"/home/julien/work/perso/aerospikez",
+		"/home/julien/work/projects/weather-api",
+		"/home/julien/work/projects/benchmark-microservices",
+		"/home/julien/work/projects/dataprovider-weather-api",
+		"/home/julien/work/projects/benchmark-microservices/weather-api-spray",
+		"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4",
+		"/home/julien/work/projects/dataprovider-weather-api-akka",
+		"/home/julien/work/projects/dataprovider-weather-api-play",
+		"/home/julien/work/projects/dataprovider-weather-api-finagle",
+		"/home/julien/work/projects/mailer-api",
+		"/home/julien/work/projects/dataprovider-connector-api",
+		"/home/julien/work/formations/tp-scala",
+		"/home/julien/work/tests/testcompiledi",
+		"/home/julien/work/projects/tp-scala",
+		"/home/julien/work/scala-notebook",
+		"/home/julien/work/perso/spark-sample-project",
+		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.10.4-spark-1.4.0-hadoop-2.6.0",
+		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.11.2-spark-1.4.0-hadoop-2.7.0",
+		"/home/julien/work/projects/tabmo-tools",
+		"/home/julien/work/projects/server-manager-dev",
+		"/home/julien/work/perso/scadashboard",
+		"/home/julien/work/perso/zen/rsu-nanterre",
+		"/home/julien/work/perso/play-actor-realtime",
+		"/home/julien/work/perso/activator-akka-stream-scala",
+		"/home/julien/work/perso/zen/nanterre-mediatheque",
+		"/home/julien/work/projects/bidrequest-tester",
 		"/home/julien/work/perso/playframework",
 		"/home/julien/work/perso/rsu-nanterre",
-		"/home/julien/work/projects/dataprovider-connector-api",
 		"/home/julien/work/perso/validation",
 		"/home/julien/work/perso/scala-best-practices",
 		"/home/julien/work/projects/test-play24",
 		"/home/julien/work/projects/play2-skeleton",
-		"/home/julien/work/projects/manager-front",
 		"/home/julien/Téléchargements/init-1.4.0",
 		"/home/julien/work/projects/bidder",
 		"/home/julien/work/projects/dashboard/tabmo_dev_dashboard",
 		"/home/julien/work/projects/site-tabmo",
-		"/home/julien/work/projects/manager-api",
 		"/home/julien/bin/aws",
 		"/home/julien/work/projects/angular-hy-res",
 		"/home/julien/work/projects/scaerospike",
@@ -48,11 +78,11 @@
 		"/home/julien/work/perso/play-hikaricp.edulify.com"
 	],
 	"last_version": 3083,
-	"last_window_id": 133,
+	"last_window_id": 213,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 452.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -75,10 +105,22 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 375.0,
-				"last_filter": "prev",
+				"height": 332.0,
+				"last_filter": "prett",
 				"selected_items":
 				[
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json ",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prevo",
+						"Markdown Preview: Preview in Browser"
+					],
 					[
 						"prev",
 						"Markdown Preview: Preview in Browser"
@@ -160,7 +202,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 561.0
+				"width": 516.0
 			},
 			"console":
 			{
@@ -181,6 +223,42 @@
 			},
 			"file_history":
 			[
+				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
+				"/home/julien/work/projects/mailer-api/build.sbt",
+				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
+				"/home/julien/work/projects/manager-front/bower.json",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
+				"/home/julien/work/projects/benchmark-microservices/README.md",
+				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
+				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
+				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
+				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
+				"/home/julien/Téléchargements/Untitled1.snb",
+				"/home/julien/Bureau/neworder.json",
+				"/home/julien/work/projects/tabmo-tools/aws_ssh",
+				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
+				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/new-app.sh",
+				"/home/julien/Documents/Installation propre.txt",
+				"/home/julien/Documents/new-app.sh",
+				"/home/julien/work/perso/scadashboard/README.md",
+				"/home/julien/work/projects/manager-front/app/conf/env.js",
+				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
 				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
 				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
 				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
@@ -191,7 +269,6 @@
 				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
 				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
 				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
 				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
 				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
 				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
@@ -244,7 +321,6 @@
 				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
 				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
 				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/bower.json",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
@@ -274,45 +350,11 @@
 				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
 				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
 				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
-				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
-				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/app.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
-				"/home/julien/work/projects/angular-hy-res/package.json",
-				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
-				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
-				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
-				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
-				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
-				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
-				"/home/julien/.config/.alias",
-				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_requetesreponses.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_authentification.md",
-				"/home/julien/work/projects/manager-doc/source/includes/_campagnes.md",
-				"/home/julien/work/projects/manager-doc/config.rb"
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -340,6 +382,20 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"jdbc:",
+					"\n  /* ... new cell ... */\n",
+					"\"geo\"",
+					"city",
+					"com.ni",
+					"play-",
+					"profile",
+					"deps",
+					"\\\"",
+					"&quot;\"",
+					"\"3D&quot;",
+					"\\n",
+					"name",
+					"jumbotron",
 					"90",
 					"fromConfig",
 					"aws",
@@ -453,21 +509,7 @@
 					"hasGlobalErrors",
 					"ngModel",
 					".directive",
-					"hideAlert1",
-					"controller",
-					"AlertsController",
-					"alert",
-					"displayGlobalError",
-					".alert-success",
-					"AngularFormValidationController",
-					"ng-invalid",
-					"format_err",
-					"format_errs",
-					"contains",
-					"$q",
-					"inputma",
-					"inputmask",
-					"mask"
+					"hideAlert1"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -475,6 +517,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					"\"c\"",
+					"c",
+					"\"",
+					"",
 					"-O",
 					"deal",
 					"/",
@@ -626,19 +673,19 @@
 				"selected_items":
 				[
 				],
-				"width": 741.0
+				"width": 378.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 50.0,
+			"side_bar_width": 261.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -660,19 +707,54 @@
 			"buffers":
 			[
 				{
-					"contents": "Start a new feature branch\n  git fetch # Read all updates on origin\n  git checkout -b feature/MAN-33-awesome-feature origin/develop # Create a new branch from the head of develop\n  git push -u [origin/develop] # Directly push your branch on github # -u = set upstream\n\nWorks...\n  git commit -m \"commit often\"\n  git commit -m \"VERY often !\"\n  git push # And don't forget to push your work on github\n\nDone!\n  # Before creating your PR, rebase on develop (fetch all new commits BEFORE your work)\n  git fetch -p\n  git rebase origin/develop\n\n  # Now you MUST clean your commit: squash, fixup, rename...\n  git rebase -i develop # edit commits up to develop reference\n\n  # Update your branch on github\n  git push --force-with-lease\n\n  # And create your PR on github\n\nOups I forgot something!\n  # You can update your PR by simply commiting new things into your feature branch\n  # And you are welcomed to push --force-with-lease\n\nMy PR is merged, whats now?\n  # Delete your local branch and remote branch (this one can be deleted from github)\n  git branch -D feature/xxx\n  git push origin --delete feature/xxx\n\n## Create a release\n  git fetch -p\n  git checkout master\n  git pull\n  git merge --no-ff origin/develop\n\n## And what if there is a bug?\n  Create a new branch fix/descriptive-name from master.\n  Commit your fix on this branch\n  Immediately merge the fix onto master AND onto develop\n\n## Taging\n  git tag # liste des tags\n  # Créer un tag : anotés ou légers\n    # lightweight: ~ une branche qui ne bouge pas = une référence à un commit\n    # annoté: objet complet stocké dans git, contient l'auteur du tag, l'heure du tag, un message, etc\n\n    git tag -a v1.4 [-m \"Descriptif\"] [commit]\n    git show v1.4\n\n  git push --tags\n\n\n\n### Gitflow\n - historical branches : develop & master\n - feature branches from develop\n - release branch: fork de develop\n    - travail dessus puis merge dans develop et master\n    - tag sur master\n - maintenance : fork master\n\n git pull = git fetch + git merge\n git pull --rebase = git fetch + git rebase",
+					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
 					"settings":
 					{
-						"buffer_size": 2031,
-						"line_ending": "Unix",
-						"name": "Start a new feature branch"
+						"buffer_size": 255,
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "dropdb -h tabmo-db.cuuzbtnwlwr1.eu-west-1.rds.amazonaws.com -U tabmo_db manager\ncreatedb -h tabmo-db.cuuzbtnwlwr1.eu-west-1.rds.amazonaws.com -U tabmo_db -O tabmo_db manager\n\n3V2tDVj[3LQr5[<X\n\n\nsbt test -Dtest.db.default.username=\"$PG_USER\" -Dtest.db.default.password=\"$PG_PASSWORD\" -Dtest.db.default.jdbcUrl=\"jdbc:postgresql://localhost:5434/test\"\n\n\ntargeting: {\n  \"categoy\": {\n    \"include\": [],\n    \"exclude\": []\n  },\n  \"type\": {\n    \"include\": [\"site\"],\n    \"exclude\": [\"app\"]\n  },\n  \"appSiteName\": {\n    \"include\": [],\n    \"exclude\": [],\n    \"denyIfUndefined\": true\n  },\n  \"geo\": {\n    \"include\": [\n      {\"lng\": \"2.3522219000000177\", \"lat\": \"48.856614\", \"radius\": \"10\"}\n    ],\n    \"exclude\": [],\n    \"denyIfUndefined\": true\n  },\n  \"schedule\": {\n    \"include\": [\n      [ \"2015-06-08T13:33:13Z\", \"2015-06-08T15:33:13Z\"],\n      [ \"2015-06-09T13:33:13Z\", \"2015-06-09T15:33:13Z\"]\n    ]\n  },\n  \"deviceConnection\": {\n    \"include\": [],\n    \"exclude\": [],\n    \"denyIfUndefined\": false\n  }\n}\n\ngit tag -s 1.0 -m \"Message 1.0\"\ngit push --tags origin master",
+					"contents": "server {\n    listen 80;\n    server_name sirius.tabmo.io localhost;\n    access_log /var/log/manager/access.log;\n    error_log /var/log/manager/error.log warn;\n\n    root /var/manager;\n\n    # Get the real IP proxied by the ESB\n    real_ip_header X-Forwarded-For;\n    set_real_ip_from 0.0.0.0/0;\n\n    location / {\n\n      # Authorized by IP or by password\n\n      allow 172.0.0.0/8; # aws network (healthchecker)\n      allow 193.239.192.18; # tabmo mtp\n      allow 82.120.190.72; # tabmo paris\n      deny all;\n\n      auth_basic \"Tabmo - Sirius\";\n      auth_basic_user_file /etc/init/manager-passwd.conf;\n\n      satisfy any;\n    }\n\n}\n",
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager/resources/nginx/sirius.tabmo.io",
+					"file_size": 627,
+					"file_write_time": 130832400664249670,
 					"settings":
 					{
-						"buffer_size": 1051,
+						"buffer_size": 627,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 1321,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
+					"settings":
+					{
+						"buffer_size": 1069,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "https://github.com/tabmo/stats-request/blob/master/analytics/src/main/scala-2.11/StreamingMultipleTopicsAnalysis.scala#L74\n\nIlm faudrait pouvoir configurer Aerospike à partir d'une liste d'hosts\n\n  val hosts = Seq(\"ip1:port1\", \"ip2:port2\")\n  val client = ReactiveAerospikeClient(new AsyncClientPolicy(), hosts: _*)\n\n--\n\ncoeff prix => il y a des 1000 au lieu de 1000000. Normal ? (utiliser une constante, ou mieux une config)\n\n--\n\nhttps://github.com/tabmo/stats-request/blob/master/analytics/src/main/scala-2.11/CountEvents.scala#L166\nSortir les initialisations des formaters de la fonction\n\n--\n\nhttps://github.com/tabmo/stats-request/blob/master/analytics/src/main/scala-2.11/CountEvents.scala#L44\n\nTu peux éviter les multiples cast (String, Long) en utilisant `1L` au lieu de 1 sur tes compteurs.\n",
+					"settings":
+					{
+						"buffer_size": 798,
+						"line_ending": "Unix",
+						"name": "https://github.com/tabmo/stats-request/blob/master"
+					}
+				},
+				{
+					"file": "/home/julien/work/perso/zen/nanterre-mediation-v2/app/App.scala",
+					"settings":
+					{
+						"buffer_size": 128,
 						"line_ending": "Unix"
 					}
 				}
@@ -684,10 +766,22 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 375.0,
-				"last_filter": "prev",
+				"height": 332.0,
+				"last_filter": "prett",
 				"selected_items":
 				[
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json ",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prevo",
+						"Markdown Preview: Preview in Browser"
+					],
 					[
 						"prev",
 						"Markdown Preview: Preview in Browser"
@@ -769,7 +863,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 561.0
+				"width": 516.0
 			},
 			"console":
 			{
@@ -790,21 +884,67 @@
 			},
 			"expanded_folders":
 			[
-				"/home/julien/work/projects/aws-deploy",
 				"/home/julien/work/projects/aws-deploy/applications",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources",
 				"/home/julien/work/projects/aws-deploy/applications/manager",
 				"/home/julien/work/projects/aws-deploy/applications/manager/resources",
 				"/home/julien/work/projects/aws-deploy/applications/manager-api",
 				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources",
 				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources/nginx",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources",
-				"/home/julien/work/projects/aws-deploy/applications/zookeeper",
-				"/home/julien/work/projects/aws-deploy/applications/zookeeper/resources"
+				"/home/julien/work/projects/aws-deploy/applications/tracker",
+				"/home/julien/work/projects/aws-deploy/applications/tracker/resources",
+				"/home/julien/work/perso/zen/rsu-nanterre/rsu-core",
+				"/home/julien/work/perso/zen/rsu-nanterre/rsu-core/app",
+				"/home/julien/work/perso/zen/rsu-nanterre/rsu-core/app/services",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/actors",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/assets",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/controllers",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/daos",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground/db",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground/db/sql",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground/json",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground/log",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground/models",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/playground/models/exceptions",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/requests",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/services",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/utils",
+				"/home/julien/work/perso/zen/nanterre-mediation-v2/app/views"
 			],
 			"file_history":
 			[
+				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
+				"/home/julien/work/projects/mailer-api/build.sbt",
+				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
+				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
+				"/home/julien/work/projects/manager-front/bower.json",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
+				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
+				"/home/julien/work/projects/benchmark-microservices/README.md",
+				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
+				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
+				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
+				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
+				"/home/julien/Téléchargements/Untitled1.snb",
+				"/home/julien/Bureau/neworder.json",
+				"/home/julien/work/projects/tabmo-tools/aws_ssh",
+				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
+				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
+				"/home/julien/work/projects/ovh-server/new-app.sh",
+				"/home/julien/Documents/Installation propre.txt",
+				"/home/julien/Documents/new-app.sh",
+				"/home/julien/work/perso/scadashboard/README.md",
 				"/home/julien/work/projects/manager-front/app/conf/env.js",
 				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
 				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
@@ -872,7 +1012,6 @@
 				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
 				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
 				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/bower.json",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
 				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
@@ -902,41 +1041,11 @@
 				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
 				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
 				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.js",
-				"/home/julien/work/projects/manager-front/app/scripts/common/common.utils.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.login.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.states.js",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.new.html",
-				"/home/julien/work/projects/manager-front/app/assets/plugins/form-daterangepicker/daterangepicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.hal.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.http.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.js",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.html",
-				"/home/julien/work/projects/manager-front/app/views/deals/deals.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/app.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/common/common.navigation.js",
-				"/home/julien/work/projects/angular-hy-res/package.json",
-				"/home/julien/work/projects/angular-hy-res/gulpfile.js",
-				"/home/julien/work/projects/angular-hy-res/dist/angular-hy-res-hal.js",
-				"/home/julien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/julien/exercism/scala/hamming/src/test/scala/hamming_test.scala",
-				"/home/julien/exercism/scala/hamming/src/main/scala/Hamming.scala",
-				"/home/julien/work/projects/dataprovider-connector-api/deploy.sh",
-				"/home/julien/work/projects/manager-doc/source/includes/_lines.md",
-				"/home/julien/.config/.alias",
-				"/home/julien/work/projects/manager-doc/source/includes/_guideutilisation.md"
+				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.states.js"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -964,6 +1073,20 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"jdbc:",
+					"\n  /* ... new cell ... */\n",
+					"\"geo\"",
+					"city",
+					"com.ni",
+					"play-",
+					"profile",
+					"deps",
+					"\\\"",
+					"&quot;\"",
+					"\"3D&quot;",
+					"\\n",
+					"name",
+					"jumbotron",
 					"90",
 					"fromConfig",
 					"aws",
@@ -1077,21 +1200,7 @@
 					"hasGlobalErrors",
 					"ngModel",
 					".directive",
-					"hideAlert1",
-					"controller",
-					"AlertsController",
-					"alert",
-					"displayGlobalError",
-					".alert-success",
-					"AngularFormValidationController",
-					"ng-invalid",
-					"format_err",
-					"format_errs",
-					"contains",
-					"$q",
-					"inputma",
-					"inputmask",
-					"mask"
+					"hideAlert1"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1099,6 +1208,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					"\"c\"",
+					"c",
+					"\"",
+					"",
 					"-O",
 					"deal",
 					"/",
@@ -1130,115 +1244,35 @@
 			[
 				{
 					"path": "/home/julien/work/projects/aws-deploy"
+				},
+				{
+					"path": "/home/julien/work/perso/zen/rsu-nanterre/rsu-core"
+				},
+				{
+					"path": "/home/julien/work/perso/zen/nanterre-mediation-v2/app"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 5,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2031,
+								"buffer_size": 255,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2031,
-										2031
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "Start a new feature branch",
-									"bh_regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1051,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1051,
-										1051
+										255,
+										255
 									]
 								],
 								"settings":
@@ -1246,63 +1280,63 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content"
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
@@ -1310,7 +1344,446 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager/resources/nginx/sirius.tabmo.io",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 627,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										627,
+										627
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1321,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1069,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										978,
+										978
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 798,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										697,
+										697
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "https://github.com/tabmo/stats-request/blob/master",
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"default_dir": "/home/julien/work/projects/aws-deploy",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
 							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/julien/work/perso/zen/nanterre-mediation-v2/app/App.scala",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"syntax": "Packages/Scala/Scala.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1318,7 +1791,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1352,11 +1825,11 @@
 				"height": 396.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,1280,247,1920,699,1920,1080",
+			"position": "0,1,0,0,0,2351,599,2991,1079,3840,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1464,7 +1937,7 @@
 				"selected_items":
 				[
 				],
-				"width": 741.0
+				"width": 378.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -1474,12 +1947,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 470.0,
+			"side_bar_width": 261.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 133,
+			"window_id": 213,
 			"workspace_name": ""
 		}
 	],

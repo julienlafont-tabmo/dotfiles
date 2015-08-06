@@ -113,3 +113,6 @@ if ! shopt -oq posix; then
   fi
 fi
 [[ -s "/home/julien/.gvm/scripts/gvm" ]] && source "/home/julien/.gvm/scripts/gvm"
+
+
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle

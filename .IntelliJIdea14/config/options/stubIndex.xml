@@ -30,6 +30,7 @@
         <option value="properties.index" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="lua.global.name" />
         <option value="JS.subclass.stub.index" />
         <option value="js.namespace.index" />
         <option value="js.class.index2" />

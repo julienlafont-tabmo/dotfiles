@@ -57,6 +57,18 @@
       <output name="DP1">
       </output>
       <output name="HDMI1">
+          <vendor>SAM</vendor>
+          <product>0x0b3f</product>
+          <serial>0x30305a4c</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>1920</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
       </output>
       <output name="DP2">
       </output>
@@ -84,18 +96,6 @@
       <output name="DP1">
       </output>
       <output name="HDMI1">
-          <vendor>SAM</vendor>
-          <product>0x0b3f</product>
-          <serial>0x30305a4c</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
       </output>
       <output name="DP2">
       </output>

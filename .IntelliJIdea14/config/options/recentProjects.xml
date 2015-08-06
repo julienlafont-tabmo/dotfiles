@@ -3,11 +3,22 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/work/projects/manager-api" />
+        <option value="$USER_HOME$/work/projects/stats-request/analytics" />
+        <option value="$USER_HOME$/work/projects/middleware-api" />
+        <option value="$USER_HOME$/work/projects/tracker" />
+        <option value="$USER_HOME$/work/projects/ReactiveAerospike" />
+        <option value="$USER_HOME$/work/perso/scadashboard" />
+        <option value="$USER_HOME$/work/projects/weather-api" />
         <option value="$USER_HOME$/work/projects/mailer-api" />
+        <option value="$USER_HOME$/work/projects/benchmark-microservices/weather-api-finagle" />
+        <option value="$USER_HOME$/work/projects/benchmark-microservices/weather-api-spray" />
+        <option value="$USER_HOME$/work/projects/dataprovider-weather-api-finagle" />
+        <option value="$USER_HOME$/work/projects/dataprovider-weather-api" />
+        <option value="$USER_HOME$/work/formations/tp-scala" />
+        <option value="$USER_HOME$/work/perso/spark-bidrequests" />
         <option value="$USER_HOME$/work/perso/playdash" />
         <option value="$USER_HOME$/work/projects/dataprovider-connector-api" />
         <option value="$USER_HOME$/work/projects/play2-skeleton" />
-        <option value="$USER_HOME$/work/projects/middleware-api" />
         <option value="$USER_HOME$/work/projects/scaerospike" />
         <option value="$USER_HOME$/work/projects/silhouette-rest-seed" />
       </list>
@@ -18,6 +29,6 @@
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/work/projects/manager-api" />
-    <option name="lastProjectLocation" value="$USER_HOME$/work/perso" />
+    <option name="lastProjectLocation" value="$USER_HOME$/work/projects/stats-request" />
   </component>
 </application>

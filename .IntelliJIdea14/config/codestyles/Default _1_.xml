@@ -9,6 +9,7 @@
         <option value="com" />
         <option value="net" />
         <option value="org" />
+        <option value="akka" />
         <option value="_______ blank line _______" />
         <option value="all other imports" />
         <option value="entities" />

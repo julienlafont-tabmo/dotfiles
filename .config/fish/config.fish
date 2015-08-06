@@ -23,6 +23,7 @@ set -x SBT_OPTS "-Xms1024m -Xmx3072m "
 set PATH $PATH /home/julien/bin
 set PATH $PATH /home/julien/bin/aws
 set PATH $PATH /home/julien/work/tools/nodejs/node-v0.12.0/bin
+set PATH $PATH /home/julien/work/projects/tabmo-tools
 
 # Load custom aliases
 source ~/.config/.alias
@@ -33,3 +34,7 @@ synclient PalmDetect=1 TapButton1=0
 # GO
 #set GOROOT /home/julien/work/tools/golang/current
 #set PATH $PATH $GOROOT/bin
+
+set -x TABMO_PROJECTS /home/julien/work/projects
+set -x EDITOR /usr/bin/nano
+set -X JAVA_HOME /usr/lib/jvm/java-8-oracle
