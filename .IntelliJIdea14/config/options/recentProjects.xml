@@ -2,14 +2,15 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/work/projects/manager-api" />
-        <option value="$USER_HOME$/work/projects/stats-request/analytics" />
-        <option value="$USER_HOME$/work/projects/middleware-api" />
-        <option value="$USER_HOME$/work/projects/tracker" />
         <option value="$USER_HOME$/work/projects/ReactiveAerospike" />
+        <option value="$USER_HOME$/work/projects/mailer-api" />
+        <option value="$USER_HOME$/work/projects/rubicon-daily-report" />
+        <option value="$USER_HOME$/work/projects/tracker" />
+        <option value="$USER_HOME$/work/projects/manager-api" />
+        <option value="$USER_HOME$/work/projects/middleware-api" />
+        <option value="$USER_HOME$/work/projects/stats-request/analytics" />
         <option value="$USER_HOME$/work/perso/scadashboard" />
         <option value="$USER_HOME$/work/projects/weather-api" />
-        <option value="$USER_HOME$/work/projects/mailer-api" />
         <option value="$USER_HOME$/work/projects/benchmark-microservices/weather-api-finagle" />
         <option value="$USER_HOME$/work/projects/benchmark-microservices/weather-api-spray" />
         <option value="$USER_HOME$/work/projects/dataprovider-weather-api-finagle" />
@@ -25,10 +26,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/work/projects/manager-api" />
+        <option value="$USER_HOME$/work/projects/mailer-api" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/work/projects/manager-api" />
-    <option name="lastProjectLocation" value="$USER_HOME$/work/projects/stats-request" />
+    <option name="lastPath" value="$USER_HOME$/work/projects/ReactiveAerospike" />
+    <option name="lastProjectLocation" value="$USER_HOME$/work/projects" />
   </component>
 </application>

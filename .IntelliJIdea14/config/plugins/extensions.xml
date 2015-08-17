@@ -3888,6 +3888,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.zul">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.zkoss.zkidea" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*?constants.txt">
       <plugins>
         <option name="myPlugins">

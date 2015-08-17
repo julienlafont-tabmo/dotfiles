@@ -1,52 +1,38 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>processCountersByDateRange</find>
-      <find>coeffUnit</find>
-      <find>-&gt; AerospikeLongConverter</find>
-      <find>.get</find>
-      <find>.gen</find>
-      <find>.base</find>
-      <find>queryE</find>
-      <find>query</find>
-      <find>queryEqu</find>
-      <find>print</find>
-      <find>println</find>
-      <find>buildInfoOptions</find>
-      <find>detailled</find>
-      <find>RawLineData</find>
-      <find>update</find>
-      <find>Write.gen</find>
-      <find>request</find>
-      <find>dateFormat</find>
-      <find>1000</find>
-      <find>no.platform.stats.found</find>
-      <find>Event</find>
+      <find>toString</find>
+      <find>asInt</find>
+      <find>AerospikeBin</find>
+      <find>)(if (byHour) writePolicy45days else defaultWritePolicy)</find>
+      <find>Value</find>
+      <find>toLong</find>
+      <find>.getOrElse(0L)</find>
+      <find>iLocalMillis</find>
+      <find>iChronology</find>
+      <find>StatsAerospikeConfig</find>
+      <find>import stats.models.config.AerospikeConfigStats</find>
+      <find>budgetSpent</find>
+      <find>fullLineWithBudget</find>
+      <find>RoundingMode</find>
+      <find>getOptio</find>
+      <find>fo.</find>
+      <find>\ &quot;stats&quot;</find>
+      <find>l.line</find>
       <find>config</find>
-      <find>String</find>
-      <find>async</find>
-      <find>.value</find>
-      <find>isCo</find>
-      <find>logger</find>
-      <find>value</find>
-      <find>type</find>
-      <find>producer.t</find>
+      <find>advertiser_id</find>
+      <find>advertiser</find>
+      <find>advert</find>
+      <find>device</find>
+      <find>valueN</find>
+      <find>client.client</find>
+      <find>lineSeparator</find>
+      <find>\se.</find>
+      <find>private val</find>
+      <find>ofLocalizedDateTime</find>
+      <find>io.tabmo.dailyreport.</find>
     </findStrings>
     <replaceStrings>
-      <replace>PlayRestSettings:</replace>
-      <replace>DBIO.sequence</replace>
-      <replace>WithDefaultContext</replace>
-      <replace>WithDbContext</replace>
-      <replace>in</replace>
-      <replace>app.injector.instanceOf</replace>
-      <replace>new WithApplication(application)</replace>
-      <replace>def api(implicit env: JWTEnv)</replace>
-      <replace>def api(implicit env: JWTEnv) =</replace>
-      <replace>&quot;</replace>
-      <replace>OW</replace>
-      <replace>W</replace>
-      <replace>extends</replace>
-      <replace>override def onFailure</replace>
       <replace>client.</replace>
       <replace>vd.getObject</replace>
       <replace>(T1, T2)</replace>
@@ -63,6 +49,20 @@
       <replace>coeffDay</replace>
       <replace>detailed</replace>
       <replace>dayDateAerospike</replace>
+      <replace>UpdateLineCtx</replace>
+      <replace>lineCurrentBSId</replace>
+      <replace>getLong</replace>
+      <replace>Bin</replace>
+      <replace>, if (byHour) Some(writePolicy45days) else None)</replace>
+      <replace>AerospikeConfigStats</replace>
+      <replace>shared.models.config.AerospikeConfigStats</replace>
+      <replace>import shared.models.config.AerospikeConfigStats</replace>
+      <replace>summaryStats</replace>
+      <replace>fullLineWithStats</replace>
+      <replace>line</replace>
+      <replace>client</replace>
+      <replace>envelope.</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>
@@ -81,6 +81,7 @@
       <dir>$USER_HOME$/work/projects/manager-api/test</dir>
       <dir>$USER_HOME$/work/projects/ReactiveAerospike</dir>
       <dir>$USER_HOME$/work/projects/manager-api/modules/stats/</dir>
+      <dir>$USER_HOME$/work/projects/rubicon-daily-report/src/main/scala</dir>
     </dirStrings>
   </component>
 </application>
