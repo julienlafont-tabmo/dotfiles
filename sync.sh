@@ -12,8 +12,8 @@ cp -R ~/.config/fish/config.fish .config/fish/config.fish
 cp -R ~/.config/sublime-text-3 .config/
 cp -R ~/.config/terminator .config/
 
-mkdir -p .IntelliJIdea14/config
-cp -R ~/.IntelliJIdea14/config .IntelliJIdea14
+mkdir -p .IdeaIC2016.2/config
+cp -R ~/.IdeaIC2016.2/config .IdeaIC2016.2
 
 mkdir -p .ssh
 cp -R ~/.ssh/id_rsa.pub .ssh/id_rsa.pub
