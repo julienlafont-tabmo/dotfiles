@@ -1,17 +1,19 @@
 <application>
   <component name="UpdatesConfigurable">
     <knownUpdateChannels>
-      <item value="idea90" />
-      <item value="IDEA10" />
-      <item value="IDEA11" />
       <item value="IDEA12" />
       <item value="IDEA13.1" />
-      <item value="IDEA14" />
       <item value="IDEA_14_EAP" />
       <item value="IDEA14.1" />
       <item value="IDEA_14_1_EAP" />
+      <item value="IDEA_15_EAP" />
+      <item value="IDEA_Beta" />
+      <item value="IDEA_Release" />
     </knownUpdateChannels>
-    <option name="LAST_TIME_CHECKED" value="1432128441480" />
-    <option name="LAST_BUILD_CHECKED" value="IU-141.1010" />
+    <outdatedPlugins>
+      <item value="BashSupport" />
+    </outdatedPlugins>
+    <option name="LAST_TIME_CHECKED" value="1446540248789" />
+    <option name="LAST_BUILD_CHECKED" value="IU-141.2735" />
   </component>
 </application>

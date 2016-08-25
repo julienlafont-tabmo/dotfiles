@@ -12,9 +12,12 @@ balias sshferal='ssh yotseedbox@cottus.feralhosting.com'
 balias sshdev-manager-api='ssh vm@dev-manager-api'
 balias sshdev-manager-db='ssh postgresql@dev-manager-db'
 balias sshjenkins='echo "CaBuild+99"; ssh ubuntu@jenkins.dev.tabmo.net'
+balias sshaerospike1='ssh vm@151.80.187.214'
+balias sshaerospike2='ssh vm@151.80.187.215'
 
 # Util
 balias alias-reload='source ~/.config/.alias'
+balias aws-regen='aws_ssh --tags Name --usertag asg-sshuser --userkey $TABMO_PROJECTS/aws-ssh-keys > ~/.ssh/config_aws ;and cat ~/.ssh/config_* > ~/.ssh/config'
 
 # Docker
 #balias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'

@@ -2,20 +2,98 @@
 	"folder_history":
 	[
 		"/home/julien/work/projects/aws-deploy",
-		"/home/julien/work/projects/tracker",
-		"/home/julien/work/projects/mailer-api",
-		"/home/julien/work/projects/middleware-api",
+		"/home/julien/work/formations/pokemon-free-fight",
+		"/home/julien/work/projects/tabmo-stream-reco/events2druid",
 		"/home/julien/work/projects/manager-api",
-		"/home/julien/work/perso/zen/nanterre-mediation-v2/app",
-		"/home/julien/work/perso/zen/rsu-nanterre/rsu-core",
-		"/home/julien/work/projects/manager-front",
+		"/home/julien/work/projects/manager-api/doc",
+		"/home/julien/work/perso/akka-http-json",
+		"/home/julien/work/projects/experiments-deviceid",
+		"/home/julien/work/projects/devices-storage-api",
+		"/home/julien/work/projects/data-science/winprice_forecast",
+		"/home/julien/work/formations/xebia/fp_in_scala_2",
+		"/home/julien/work/formations/xebia/introscala_xebia",
+		"/home/julien/work/formations/xebia/XKE_fp_1",
+		"/home/julien/work/projects/referential-connector",
+		"/home/julien/work/projects/cockpit-api",
+		"/home/julien/work/projects/tracker",
+		"/home/julien/work/formations/xebia",
+		"/home/julien/work/meetup-bigdata-avito",
+		"/home/julien/work/formations/workshop-scala",
+		"/home/julien/work/hackday/hawk-live-ws",
+		"/home/julien/work/projects/data-science/scala_only_hour",
+		"/home/julien/work/projects/data-science/bug_report_spark_ols",
+		"/home/julien/work/projects/aws-deploy/applications/mailer-api",
+		"/home/julien/work/projects/data-science",
+		"/home/julien/work/projects/data-science/scala_reconcil_batch",
+		"/home/julien/work/projects/tabmo-config/ovh-server",
+		"/home/julien/work/formations/scala-exercises",
+		"/home/julien/work/formations/scala-exercises/site",
+		"/home/julien/work/projects/tabmo-config",
+		"/home/julien",
+		"/home/julien/Téléchargements/tabmo_homework-master-33ab154dfeafae75b933dfda63394f0653dd074f",
+		"/home/julien/Téléchargements/dans-s-cas-la-devoxx-master",
+		"/home/julien/work/perso/test-play-scala-25",
+		"/home/julien/work/projects/manager-api/scripts/sql",
+		"/home/julien/work/perso/scadashboard",
+		"/home/julien/work/perso/json-benchmark",
+		"/home/julien/work/projects/homework/tmepic3",
 		"/home/julien/work/projects/ovh-server",
+		"/home/julien/work/projects/tabmo-tools",
+		"/home/julien/work/projects/cockpit-api/doc",
+		"/home/julien/work/projects/manager-api/scripts",
+		"/home/julien/work/perso/benchmark-microservices/microservice-akkahttp",
+		"/home/julien/work/perso/benchmark-microservices/microservice-play24",
+		"/home/julien/work/perso/benchmark-microservices/microservice-play25",
+		"/home/julien/work/perso/benchmark-microservices/microservice-play25/app",
+		"/home/julien/work/perso/akka-http-microservice",
+		"/home/julien/work/perso/benchmark-microservices",
+		"/home/julien/work/projects/realtime-stats",
+		"/home/julien/work/projects/middleware-api",
+		"/home/julien/work/projects/media-upload-api",
+		"/home/julien/work/perso/play-iso",
+		"/home/julien/work/projects/slick",
+		"/home/julien/work/projects/play-microservice-common",
+		"/home/julien/work/projects/play-slick",
+		"/home/julien/work/projects/invoicing-api/doc",
+		"/home/julien/work/projects/tabmo-stream-reco",
+		"/home/julien/Téléchargements/enrich1.0.6",
+		"/home/julien/Téléchargements/enrichment-api-server-1.0.0-all",
+		"/home/julien/work/projects/invoice-api",
+		"/home/julien/work/projects/crm-api",
+		"/home/julien/work/projects/jawn",
+		"/home/julien/work/projects/jawn/benchmark",
+		"/home/julien/work/projects/json-benchmark/src",
+		"/home/julien/work/tests/actors",
+		"/home/julien/work/projects/manager-front",
+		"/home/julien/Téléchargements/auth0-angular-sample",
+		"/home/julien/work/perso/testiso/play-iso-example",
+		"/home/julien/work/projects/akka/test1",
+		"/home/julien/work/perso/zen/nanterre-mediatheque",
+		"/home/julien/work/perso/zen/rsu-nanterre",
+		"/home/julien/work/perso/zen/rsu-nanterre/rsu-core",
+		"/home/julien/work/perso/zen/rsu-nanterre/oauth-client",
+		"/home/julien/work/projects/benchmark-microservices",
 		"/home/julien/work/projects/ReactiveAerospike",
+		"/home/julien/Téléchargements/auth0-java-sample",
+		"/home/julien/work/projects/akka-sample-cluster-scala",
+		"/home/julien/work/projects/spark-parquet-example",
+		"/home/julien/work/projects",
+		"/home/julien/work/projects/bidder-rescue",
+		"/home/julien/work/perso/mocky",
+		"/home/julien/work/projects/adsquare-analyser",
+		"/home/julien/work/projects/aws-ssh-config",
+		"/home/julien/work/projects/aws-deploy/applications",
+		"/home/julien/work/projects/rubicon-daily-report",
+		"/home/julien/work/formations/tp-scala-json",
+		"/home/julien/work/formations/tp-scala",
+		"/home/julien/work/projects/test-kafka-realtime",
+		"/home/julien/work/projects/kafka-websocket",
+		"/home/julien/work/projects/mailer-api",
+		"/home/julien/work/perso/zen/nanterre-mediation-v2/app",
 		"/home/julien/work/projects/testlog/a",
 		"/home/julien/work/projects/weather-api/target/universal",
 		"/home/julien/work/perso/aerospikez",
 		"/home/julien/work/projects/weather-api",
-		"/home/julien/work/projects/benchmark-microservices",
 		"/home/julien/work/projects/dataprovider-weather-api",
 		"/home/julien/work/projects/benchmark-microservices/weather-api-spray",
 		"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4",
@@ -23,20 +101,15 @@
 		"/home/julien/work/projects/dataprovider-weather-api-play",
 		"/home/julien/work/projects/dataprovider-weather-api-finagle",
 		"/home/julien/work/projects/dataprovider-connector-api",
-		"/home/julien/work/formations/tp-scala",
 		"/home/julien/work/tests/testcompiledi",
 		"/home/julien/work/projects/tp-scala",
 		"/home/julien/work/scala-notebook",
 		"/home/julien/work/perso/spark-sample-project",
 		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.10.4-spark-1.4.0-hadoop-2.6.0",
 		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.11.2-spark-1.4.0-hadoop-2.7.0",
-		"/home/julien/work/projects/tabmo-tools",
 		"/home/julien/work/projects/server-manager-dev",
-		"/home/julien/work/perso/scadashboard",
-		"/home/julien/work/perso/zen/rsu-nanterre",
 		"/home/julien/work/perso/play-actor-realtime",
 		"/home/julien/work/perso/activator-akka-stream-scala",
-		"/home/julien/work/perso/zen/nanterre-mediatheque",
 		"/home/julien/work/projects/bidrequest-tester",
 		"/home/julien/work/perso/playframework",
 		"/home/julien/work/perso/rsu-nanterre",
@@ -55,40 +128,32 @@
 		"/home/julien/work/projects/manager-doc",
 		"/home/julien/exercism/scala/word-count",
 		"/home/julien/exercism/scala/word-count/src/main/scala",
-		"/home/julien/exercism/scala/hamming",
-		"/home/julien/exercism/scala/bob",
-		"/home/julien/work/projects/manager-doc/source",
-		"/home/julien/work/projects/manager-api/target/manager-api-1.0-SNAPSHOT",
-		"/home/julien/work/projects/manager-api/target",
-		"/home/julien/work/projects/manager-api/target/out/DEBIAN",
-		"/home/julien/work/projects/manager-api/target/docker/docker/stage",
-		"/home/julien/work/projects/db_manager",
-		"/home/julien/work/projects/manager-mock",
-		"/home/julien/work/perso/zen",
-		"/home/julien/work/perso",
-		"/home/julien/work/projects/angular-auth",
-		"/home/julien/work/perso/docker/chrome-beta",
-		"/home/julien/work/perso/docker",
-		"/home/julien/work/projects/manager-client",
-		"/home/julien/work/perso/dotfiles",
-		"/home/julien/work/projects/silhouette-rest-seed",
-		"/home/julien/Documents/Templates/magic-v1.4.1/magic",
-		"/home/julien/work/perso/box-java8-oracle-sbt",
-		"/home/julien/Documents/Templates/mtek",
-		"/home/julien/work/perso/play-hikaricp.edulify.com"
+		"/home/julien/exercism/scala/hamming"
 	],
-	"last_version": 3083,
-	"last_window_id": 223,
+	"last_version": 3103,
+	"last_window_id": 425,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 424.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"sca",
+						"scala_uri"
+					],
+					[
+						"log",
+						"logstash_logback"
+					],
+					[
+						"sites-",
+						"sites-enabled"
+					],
 					[
 						"adverti",
 						"advertiserOfDeal"
@@ -105,10 +170,26 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 332.0,
-				"last_filter": "prett",
+				"height": 392.0,
+				"last_filter": "in",
 				"selected_items":
 				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"j",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
 					[
 						"prett",
 						"Pretty JSON: Format (Pretty Print) JSON"
@@ -152,10 +233,6 @@
 					[
 						"pack",
 						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
 					],
 					[
 						"package ins",
@@ -202,7 +279,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 516.0
+				"width": 530.0
 			},
 			"console":
 			{
@@ -223,6 +300,55 @@
 			},
 			"file_history":
 			[
+				"/home/julien/work/projects/experiments-deviceid/src/main/scala/CountingBloomFilter.scala",
+				"/home/julien/Documents/nouvelle-plateforme.sh",
+				"/home/julien/Documents/bloomfilters-1.2M.txt",
+				"/home/julien/Documents/bloomfiters-10M.txt",
+				"/home/julien/work/meetup-bigdata-avito/src/main/scala/SparkExecutor.scala",
+				"/home/julien/work/formations/workshop-scala/workshop1-dna/src/main/scala/models/Base.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/UnitTest.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/TennisGameSpec.scala",
+				"/home/julien/Téléchargements/avito/out2.csv",
+				"/home/julien/Documents/adsquare.txt",
+				"/home/julien/.cache/.fr-qZ7cDp/VAST_2_0_1_Schema/vast_2.0.1.xsd",
+				"/home/julien/Documents/INSTALL_Anastasia_test_server.sh",
+				"/home/julien/Documents/analyse-build-jenkins/DEV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV",
+				"/home/julien/work/projects/tabmo-config/ovh-server/autodeploy/manager-front.sh",
+				"/home/julien/Documents/Devoxx/consul.txt",
+				"/home/julien/sg.html",
+				"/home/julien/work/perso/mocky/Procfile",
+				"/home/julien/Documents/retour-francois.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_dev.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/prod_to_dev.sql",
+				"/home/julien/Téléchargements/loc152csv/2015-2 SubdivisionCodes.csv",
+				"/home/julien/Téléchargements/loc152csv/2015-2 UNLOCODE CodeListPart2.csv",
+				"/home/julien/Téléchargements/GeoLiteCity_20160202/GeoLiteCity-Location.csv",
+				"/home/julien/work/projects/manager-front/src/conf/env.js",
+				"/home/julien/Documents/TODO-maj-new-platform.txt",
+				"/home/julien/work/projects/jawn/benchmark/build.sbt",
+				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala",
+				"/home/julien/Téléchargements/20160111164528_optimization.csv",
+				"/home/julien/work/projects/play-microservice-common/build.sbt",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/bindable/package.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/RateLimitAction.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/HalWriteable.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/Hal.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/QueryStringFilter.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/ApiErrorWritable.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/models/error/ApiError.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/filters/RequestIdFilter.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/AuditableAction.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/JsonRulesBodyParser.scala",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources/production/application.ec2.conf",
+				"/home/julien/work/perso/testrust1/Cargo.toml",
+				"/home/julien/work/perso/testrust1/helloworld.rs",
+				"/home/julien/work/projects/adsquare-analyser/f1.txt",
+				"/home/julien/work/projects/rubicon-daily-report/build.sbt",
+				"/home/julien/work/projects/manager-api/build.sbt",
 				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
 				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
 				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
@@ -301,66 +427,19 @@
 				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
 				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
 				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js"
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"",
+					"/home/julien/work/projects/aws-deploy",
 					"/home/julien/work/projects/middleware-api",
 					"/home/julien/work/projects/dataprovider-connector-api",
 					"",
@@ -379,11 +458,87 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"budget",
-					"total",
+					"dsp",
+					"Check false Positive",
+					"Check false positive >",
+					"Check false negative >",
+					"5e7327d9",
+					"2ea0298e",
+					"\\\"",
+					"VideoClicks",
+					"\\n",
+					"бассейн",
+					"() ",
+					"spark",
+					"VideoClicks",
+					"Wrapper",
+					"weather-api",
+					"BACKUP_DIRECTORY",
+					"dataflow",
+					"{ /* compiled code */ }",
+					"access_log",
+					"X-Forwarded-For",
+					"X-FORWARDED-FOR",
+					"exprod",
+					"\\n\\n\\n",
+					"\\n\\n\\n\\n\\n\\n\\n",
+					"\\n\\n\\n\\n",
+					"^--(.*)\\n",
+					"^--(.*)",
+					"$--(.*)",
+					"Aix",
+					"\"FR\"",
+					"\\n",
+					"\"\\n",
+					"ecd9bab0-169a-48ee-8ca4-7ef4750d3e83",
+					"05e8d824-73fa-4487-9727-1cf8b8007ab4",
+					"5f871222-dbb9-49bc-aed8-7bd6e9097c81",
+					"2016-01",
+					"(.*) (.*) (.*)",
+					"avgt    3 ",
+					"avgt    3  ",
+					"[info] ",
+					"([a-zA-z0-9]*): ([^,]*),",
+					"  ",
+					"([a-zA-z0-9]*): ([^,]*),",
+					"([a-zA-z0-9]*): ([^,.*]),",
+					"([a-zA-z0-9]*): ([^,]),",
+					"([a-zA-z0-9]*): (.*),",
+					"\\",
+					", ",
+					"Name: ",
+					"Code: ",
+					"Number Needed: ",
+					"   ",
+					"      ",
+					"R",
+					"\"1.1\"",
+					"\"0.10.0\"",
+					"remote",
+					"core.",
+					"NonEmptyList",
+					"mua",
+					"aerospi",
+					"d4351c9f-e376-4085-a24c-d7835a94cafb",
+					"2015",
+					"targetService",
+					"  $",
+					"getKafkaIps",
+					"APP_NA",
+					"OWNTER",
+					"href=",
+					"tags",
+					"usertag",
+					"\"",
+					"-H 'Origin: http://localhost:9000' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4' -H 'X-Organization-Id: b2440a98-1c0f-404c-b071-b69722c9e1e0' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36' -H 'Accept: application/json, text/plain, */*' -H 'Referer: http://localhost:9000/'",
+					"manager-api",
+					"\"(.*)\" -> \"(.*)\",",
+					"=>",
+					"\\\"",
+					"'",
 					"3ece4b0e",
 					"3e",
 					"jdbc:",
@@ -433,83 +588,7 @@
 					"console.log",
 					"creatives.updated",
 					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location."
+					"default-initials-img"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -517,6 +596,35 @@
 				"regex": false,
 				"replace_history":
 				[
+					"Check false positive",
+					"Check false negative >",
+					"Check false Positive >",
+					"\"",
+					"",
+					"{ }",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"",
+					"\",\"",
+					"2015-12",
+					"UPDATE users SET auth0_id = '$3' WHERE email = '$1';",
+					"",
+					"\"$1\",",
+					" ",
+					"\"$1\", ",
+					"",
+					";",
+					"",
+					"4ccf6690-a776-47ab-9c74-81fdeb9ccda1",
+					"",
+					"OWNER",
+					"\\\"",
+					"realtime-stats",
+					" -> (\"$2\", \"$1\")",
+					"\"$2\" -> \"$1\",",
+					"->",
+					"\"",
 					"",
 					"\"c\"",
 					"c",
@@ -551,7 +659,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -560,12 +668,12 @@
 			"menu_visible": true,
 			"output.find_results":
 			{
-				"height": 396.0
+				"height": 225.0
 			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -574,6 +682,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"apier",
+						"src/main/scala/models/error/ApiError.scala"
+					],
 					[
 						"directive",
 						"app/scripts/shared/Directives.js"
@@ -668,18 +780,18 @@
 			},
 			"select_symbol":
 			{
-				"height": 375.0,
+				"height": 392.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 378.0
+				"width": 392.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 261.0,
+			"side_bar_width": 321.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -695,6 +807,18 @@
 				"selected_items":
 				[
 					[
+						"sca",
+						"scala_uri"
+					],
+					[
+						"log",
+						"logstash_logback"
+					],
+					[
+						"sites-",
+						"sites-enabled"
+					],
+					[
 						"adverti",
 						"advertiserOfDeal"
 					],
@@ -707,20 +831,21 @@
 			"buffers":
 			[
 				{
-					"file": "/home/julien/work/projects/manager-api/build.sbt",
+					"contents": "d8771446606933859fd6de6cd1caf3dd\n\nhttp://www.apilayer.net/api/live?access_key=d8771446606933859fd6de6cd1caf3dd&date=2016-07-24&currencies=USD,GBP,EUR",
 					"settings":
 					{
-						"buffer_size": 5681,
-						"line_ending": "Unix"
+						"buffer_size": 149,
+						"line_ending": "Unix",
+						"name": "d8771446606933859fd6de6cd1caf3dd"
 					}
 				},
 				{
-					"contents": "14:00:33.614 DEBUG i.t.a.client.ReactiveAerospikeClient - PUT {test:unittest2:5} id:2010, name:henri, age:21\n14:00:33.637 DEBUG i.t.a.client.ReactiveAerospikeClient - PUT {test:unittest2:1} id:1000, name:julien, age:20\n14:00:33.658 DEBUG i.t.a.client.ReactiveAerospikeClient - PUT {test:unittest2:2} id:1000, name:thomas, age:18\n14:00:33.723 DEBUG i.t.a.client.ReactiveAerospikeClient - CREATE INDEX test:unittest2:id (NUMERIC)omas with method persons.filterByAge(19)\n14:00:33.313 DEBUG i.t.a.client.ReactiveAerospikeClient - QUERY RANGE test:unittest2 ON id BETWEEN 2000 and 2100 (id, name\n\n14:00:34.195 DEBUG i.t.a.client.ReactiveAerospikeClient - DROP INDEX test:unittest2 test_unittest2_id\n14:00:34.297 DEBUG i.t.a.client.ReactiveAerospikeClient - DELETE {test:unittest2:5}\n",
+					"contents": "Configuration Intellij\n\nEditor > Code Style > Scala (onglet Import)\n\nImport Layout\nscala\njava\n_____ blank line _____\nplay\ncom\nnet\norg\nakka\ncirce\nslick\nio.tabmo\njto\n____ blank line ____\nall other imports\nentities\n\nImports always marked as used\nplay.api.data.mapping.json.Rules._\nplay.api.data.mapping.json.Writes._\nplay.api.libs.concurrent.Execution.Implicits._\nplay.api.libs.concurrent.Execution.Implicits.defaultContext\n\nEditor > General > Auto Import\n\nExclude from Import and Completion\nakka.http.javadsl\ncom.fasterxml.jackson\njava.awt\ncom.sum\njava.util.UUID\njava.util.concurrent\njavax.swing\nplay.Application\nplay.Configuration\nplay.GLobalSettings\nplay.Logger\nplay.Plugin\nplay.Routes\nplay.cache\nplay.data\nplay.db\nplay.filters\nplay.i18n\nplay.libs\nplay.mvc\nplay.server\nplay.test\nscala.parallel.Future\nscala.slick.util.Logging\nscalaz.concurrent.Future\ntype\n\n",
 					"settings":
 					{
-						"buffer_size": 778,
+						"buffer_size": 857,
 						"line_ending": "Unix",
-						"name": "14:00:33.614 DEBUG i.t.a.client.ReactiveAerospikeC"
+						"name": "Configuration Intellij"
 					}
 				}
 			],
@@ -731,10 +856,26 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 332.0,
-				"last_filter": "prett",
+				"height": 392.0,
+				"last_filter": "in",
 				"selected_items":
 				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"j",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
 					[
 						"prett",
 						"Pretty JSON: Format (Pretty Print) JSON"
@@ -778,10 +919,6 @@
 					[
 						"pack",
 						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
 					],
 					[
 						"package ins",
@@ -828,7 +965,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 516.0
+				"width": 530.0
 			},
 			"console":
 			{
@@ -847,12 +984,57 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/manager-api"
-			],
 			"file_history":
 			[
+				"/home/julien/work/projects/experiments-deviceid/src/main/scala/CountingBloomFilter.scala",
+				"/home/julien/Documents/nouvelle-plateforme.sh",
+				"/home/julien/Documents/bloomfilters-1.2M.txt",
+				"/home/julien/Documents/bloomfiters-10M.txt",
+				"/home/julien/work/meetup-bigdata-avito/src/main/scala/SparkExecutor.scala",
+				"/home/julien/work/formations/workshop-scala/workshop1-dna/src/main/scala/models/Base.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/UnitTest.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/TennisGameSpec.scala",
+				"/home/julien/Téléchargements/avito/out2.csv",
+				"/home/julien/Documents/adsquare.txt",
+				"/home/julien/.cache/.fr-qZ7cDp/VAST_2_0_1_Schema/vast_2.0.1.xsd",
+				"/home/julien/Documents/INSTALL_Anastasia_test_server.sh",
+				"/home/julien/Documents/analyse-build-jenkins/DEV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV",
+				"/home/julien/work/projects/tabmo-config/ovh-server/autodeploy/manager-front.sh",
+				"/home/julien/Documents/Devoxx/consul.txt",
+				"/home/julien/sg.html",
+				"/home/julien/work/perso/mocky/Procfile",
+				"/home/julien/Documents/retour-francois.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_dev.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/prod_to_dev.sql",
+				"/home/julien/Téléchargements/loc152csv/2015-2 SubdivisionCodes.csv",
+				"/home/julien/Téléchargements/loc152csv/2015-2 UNLOCODE CodeListPart2.csv",
+				"/home/julien/Téléchargements/GeoLiteCity_20160202/GeoLiteCity-Location.csv",
+				"/home/julien/work/projects/manager-front/src/conf/env.js",
+				"/home/julien/Documents/TODO-maj-new-platform.txt",
+				"/home/julien/work/projects/jawn/benchmark/build.sbt",
+				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala",
+				"/home/julien/Téléchargements/20160111164528_optimization.csv",
+				"/home/julien/work/projects/play-microservice-common/build.sbt",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/bindable/package.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/RateLimitAction.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/HalWriteable.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/Hal.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/QueryStringFilter.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/ApiErrorWritable.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/models/error/ApiError.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/filters/RequestIdFilter.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/AuditableAction.scala",
+				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/JsonRulesBodyParser.scala",
+				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources/production/application.ec2.conf",
+				"/home/julien/work/perso/testrust1/Cargo.toml",
+				"/home/julien/work/perso/testrust1/helloworld.rs",
+				"/home/julien/work/projects/adsquare-analyser/f1.txt",
+				"/home/julien/work/projects/rubicon-daily-report/build.sbt",
+				"/home/julien/work/projects/manager-api/build.sbt",
 				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
 				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
 				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
@@ -931,66 +1113,19 @@
 				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
 				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
 				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js"
+				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
 				"height": 93.0,
 				"where_history":
 				[
+					"",
+					"/home/julien/work/projects/aws-deploy",
 					"/home/julien/work/projects/middleware-api",
 					"/home/julien/work/projects/dataprovider-connector-api",
 					"",
@@ -1009,9 +1144,87 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"dsp",
+					"Check false Positive",
+					"Check false positive >",
+					"Check false negative >",
+					"5e7327d9",
+					"2ea0298e",
+					"\\\"",
+					"VideoClicks",
+					"\\n",
+					"бассейн",
+					"() ",
+					"spark",
+					"VideoClicks",
+					"Wrapper",
+					"weather-api",
+					"BACKUP_DIRECTORY",
+					"dataflow",
+					"{ /* compiled code */ }",
+					"access_log",
+					"X-Forwarded-For",
+					"X-FORWARDED-FOR",
+					"exprod",
+					"\\n\\n\\n",
+					"\\n\\n\\n\\n\\n\\n\\n",
+					"\\n\\n\\n\\n",
+					"^--(.*)\\n",
+					"^--(.*)",
+					"$--(.*)",
+					"Aix",
+					"\"FR\"",
+					"\\n",
+					"\"\\n",
+					"ecd9bab0-169a-48ee-8ca4-7ef4750d3e83",
+					"05e8d824-73fa-4487-9727-1cf8b8007ab4",
+					"5f871222-dbb9-49bc-aed8-7bd6e9097c81",
+					"2016-01",
+					"(.*) (.*) (.*)",
+					"avgt    3 ",
+					"avgt    3  ",
+					"[info] ",
+					"([a-zA-z0-9]*): ([^,]*),",
+					"  ",
+					"([a-zA-z0-9]*): ([^,]*),",
+					"([a-zA-z0-9]*): ([^,.*]),",
+					"([a-zA-z0-9]*): ([^,]),",
+					"([a-zA-z0-9]*): (.*),",
+					"\\",
+					", ",
+					"Name: ",
+					"Code: ",
+					"Number Needed: ",
+					"   ",
+					"      ",
+					"R",
+					"\"1.1\"",
+					"\"0.10.0\"",
+					"remote",
+					"core.",
+					"NonEmptyList",
+					"mua",
+					"aerospi",
+					"d4351c9f-e376-4085-a24c-d7835a94cafb",
+					"2015",
+					"targetService",
+					"  $",
+					"getKafkaIps",
+					"APP_NA",
+					"OWNTER",
+					"href=",
+					"tags",
+					"usertag",
+					"\"",
+					"-H 'Origin: http://localhost:9000' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4' -H 'X-Organization-Id: b2440a98-1c0f-404c-b071-b69722c9e1e0' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36' -H 'Accept: application/json, text/plain, */*' -H 'Referer: http://localhost:9000/'",
+					"manager-api",
+					"\"(.*)\" -> \"(.*)\",",
+					"=>",
+					"\\\"",
+					"'",
 					"3ece4b0e",
 					"3e",
 					"jdbc:",
@@ -1061,85 +1274,7 @@
 					"console.log",
 					"creatives.updated",
 					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location.",
-					"hasGlobalErrors",
-					"ngModel"
+					"default-initials-img"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1147,6 +1282,35 @@
 				"regex": false,
 				"replace_history":
 				[
+					"Check false positive",
+					"Check false negative >",
+					"Check false Positive >",
+					"\"",
+					"",
+					"{ }",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"",
+					"\",\"",
+					"2015-12",
+					"UPDATE users SET auth0_id = '$3' WHERE email = '$1';",
+					"",
+					"\"$1\",",
+					" ",
+					"\"$1\", ",
+					"",
+					";",
+					"",
+					"4ccf6690-a776-47ab-9c74-81fdeb9ccda1",
+					"",
+					"OWNER",
+					"\\\"",
+					"realtime-stats",
+					" -> (\"$2\", \"$1\")",
+					"\"$2\" -> \"$1\",",
+					"->",
+					"\"",
 					"",
 					"\"c\"",
 					"c",
@@ -1179,12 +1343,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/home/julien/work/projects/manager-api"
-				}
-			],
 			"groups":
 			[
 				{
@@ -1193,85 +1351,98 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/julien/work/projects/manager-api/build.sbt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5681,
+								"buffer_size": 149,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										554,
-										554
+										34,
+										34
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"auto_name": "d8771446606933859fd6de6cd1caf3dd",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1285,2634 +1456,98 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 778,
+								"buffer_size": 857,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										427,
-										427
+										855,
+										855
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "14:00:33.614 DEBUG i.t.a.client.ReactiveAerospikeC",
-									"bh_regions":
+									"auto_name": "Configuration Intellij",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_square_content"
-									],
-									"default_dir": "/home/julien/work/projects/manager-api",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 396.0
-			},
-			"pinned_build_system": "",
-			"position": "0,1,1,0,0,65,532,705,1012,3840,1080",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"directive",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"direct",
-						"app/scripts/form/Directives.js"
-					],
-					[
-						"creative.view.",
-						"app/views/creatives/creatives.view.html"
-					],
-					[
-						"creative.v",
-						"app/scripts/creatives/creatives.view.js"
-					],
-					[
-						"direc",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"ourf",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"date",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"dat",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"daterangepicker",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"our",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"app",
-						"app/scripts/app.js"
-					],
-					[
-						"deal.ser",
-						"app/scripts/deals/deals.service.js"
-					],
-					[
-						"newor",
-						"modules/order/app/models/api/NewOrder.scala"
-					],
-					[
-						"orderser",
-						"modules/order/app/services/impl/OrderServiceImpl.scala"
-					],
-					[
-						"businessva",
-						"modules/core/src/main/scala/validation/BusinessValidation.scala"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 375.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 378.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 261.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 215,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"adverti",
-						"advertiserOfDeal"
-					],
-					[
-						"advert",
-						"advertiserIds"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/julien/work/projects/middleware-api/conf/logger.xml",
-					"settings":
-					{
-						"buffer_size": 2375,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 332.0,
-				"last_filter": "prett",
-				"selected_items":
-				[
-					[
-						"prett",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"json ",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"prevo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"prev",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"package ins",
-						"Package Control: Install Package"
-					],
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 516.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/middleware-api",
-				"/home/julien/work/projects/middleware-api/conf"
-			],
-			"file_history":
-			[
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/middleware-api",
-					"/home/julien/work/projects/dataprovider-connector-api",
-					"",
-					"/home/julien/work/projects/manager-front/app/",
-					"/home/julien/work/projects/manager-front/app/views",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-doc",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location.",
-					"hasGlobalErrors",
-					"ngModel"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"\"c\"",
-					"c",
-					"\"",
-					"",
-					"-O",
-					"deal",
-					"/",
-					"dataprovider-api",
-					"/v1/",
-					"v1/advertiser",
-					"/internal/v1",
-					"manager-api.dev.tabmo.net",
-					"",
-					"$URL",
-					" -> ",
-					"",
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/home/julien/work/projects/middleware-api"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/julien/work/projects/middleware-api/conf/logger.xml",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 2375,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										286,
-										286
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_square_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 396.0
-			},
-			"pinned_build_system": "",
-			"position": "0,1,1,0,0,1985,24,2625,504,3840,1080",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"directive",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"direct",
-						"app/scripts/form/Directives.js"
-					],
-					[
-						"creative.view.",
-						"app/views/creatives/creatives.view.html"
-					],
-					[
-						"creative.v",
-						"app/scripts/creatives/creatives.view.js"
-					],
-					[
-						"direc",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"ourf",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"date",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"dat",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"daterangepicker",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"our",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"app",
-						"app/scripts/app.js"
-					],
-					[
-						"deal.ser",
-						"app/scripts/deals/deals.service.js"
-					],
-					[
-						"newor",
-						"modules/order/app/models/api/NewOrder.scala"
-					],
-					[
-						"orderser",
-						"modules/order/app/services/impl/OrderServiceImpl.scala"
-					],
-					[
-						"businessva",
-						"modules/core/src/main/scala/validation/BusinessValidation.scala"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 375.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 378.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 261.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 216,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"adverti",
-						"advertiserOfDeal"
-					],
-					[
-						"advert",
-						"advertiserIds"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "#!/bin/sh\n\nAPP_NAME=\"tracker\"\nCURRENT_DIRECTORY=\"/usr/local/bin/aws-deploy/applications/tracker/\"\nAPP_DIRECTORY=\"/var/tracker\"\n\nlist=\"\"; for ip in $(/usr/local/bin/aws ec2 describe-instances --filters \"Name=tag:aws:autoscaling:groupName, Values=aerospike-asg-*\" \"Name=instance-state-name, Values=running\" --query \"Reservations[*].Instances[*].PrivateIpAddress\" --output text | sed \"s/\\s\\|\\t\\|\\n\\|\\r//g\"); do list=\"$list\\\"$ip:3000\\\",\"; done\n\nmkdir -p $APP_DIRECTORY\nif [ ! -d /mnt/log ] ; then mkdir /mnt/log && chmod 777 /mnt/log; fi\ncd $APP_DIRECTORY && /usr/local/bin/s3cmd get -r --force s3://tabmo-eng/applications/tracker/tabmo-tracker.jar .\ncp $CURRENT_DIRECTORY/resources/parameters.conf $APP_DIRECTORY\n\necho \"\naerospike {\n  hosts = [${list%?}]\n}\n\" > $APP_DIRECTORY/aerospike.parameters.conf\n\n# Kafka is not installed with ASG or AMI, so just set the IP manually for now\necho '\nkafka {\n  bootstrap.servers = \"172.31.41.247:9092\"\n}\n' > $APP_DIRECTORY/kafka.parameters.conf\n\ncp $CURRENT_DIRECTORY/resources/upstart.conf /etc/init/${APP_NAME}.conf\n\necho \"Deployed\"\n\n\n\n-Dlog4j.debug -Dlog4j.configuration=/var/tracker/log4j.properties",
-					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-					"file_size": 1069,
-					"file_write_time": 130832378114889265,
-					"settings":
-					{
-						"buffer_size": 1137,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 332.0,
-				"last_filter": "prett",
-				"selected_items":
-				[
-					[
-						"prett",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"json ",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"prevo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"prev",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"package ins",
-						"Package Control: Install Package"
-					],
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 516.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/aws-deploy",
-				"/home/julien/work/projects/aws-deploy/applications",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api",
-				"/home/julien/work/projects/aws-deploy/applications/tracker",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources"
-			],
-			"file_history":
-			[
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/middleware-api",
-					"/home/julien/work/projects/dataprovider-connector-api",
-					"",
-					"/home/julien/work/projects/manager-front/app/",
-					"/home/julien/work/projects/manager-front/app/views",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-doc",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location.",
-					"hasGlobalErrors",
-					"ngModel"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"\"c\"",
-					"c",
-					"\"",
-					"",
-					"-O",
-					"deal",
-					"/",
-					"dataprovider-api",
-					"/v1/",
-					"v1/advertiser",
-					"/internal/v1",
-					"manager-api.dev.tabmo.net",
-					"",
-					"$URL",
-					" -> ",
-					"",
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/home/julien/work/projects/aws-deploy"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1137,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1072,
-										1072
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 396.0
-			},
-			"pinned_build_system": "",
-			"position": "0,1,0,0,0,1985,24,2625,504,3840,1080",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"directive",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"direct",
-						"app/scripts/form/Directives.js"
-					],
-					[
-						"creative.view.",
-						"app/views/creatives/creatives.view.html"
-					],
-					[
-						"creative.v",
-						"app/scripts/creatives/creatives.view.js"
-					],
-					[
-						"direc",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"ourf",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"date",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"dat",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"daterangepicker",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"our",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"app",
-						"app/scripts/app.js"
-					],
-					[
-						"deal.ser",
-						"app/scripts/deals/deals.service.js"
-					],
-					[
-						"newor",
-						"modules/order/app/models/api/NewOrder.scala"
-					],
-					[
-						"orderser",
-						"modules/order/app/services/impl/OrderServiceImpl.scala"
-					],
-					[
-						"businessva",
-						"modules/core/src/main/scala/validation/BusinessValidation.scala"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 375.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 378.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 261.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 218,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"adverti",
-						"advertiserOfDeal"
-					],
-					[
-						"advert",
-						"advertiserIds"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/julien/work/projects/mailer-api/conf/logback.xml",
-					"settings":
-					{
-						"buffer_size": 2358,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/mailer-api/project/plugins.sbt",
-					"settings":
-					{
-						"buffer_size": 222,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "http://localhost:9000/#/order/3752e598-9751-497b-be76-eb7c7e4c34fc/line/5e36fd6d-2bfa-4a0c-96bc-3a08876aeb34\n\nhttp://localhost:9000/#/order/3752e598-9751-497b-be76-eb7c7e4c34fc/line/70f50de0-dddf-4395-97b7-5589e5eac810\n\nclicks: 36\nimpressions: 336\nprogressBudget: 67\nprogressTime: 0\nspent: 673.11\n",
-					"settings":
-					{
-						"buffer_size": 297,
-						"line_ending": "Unix",
-						"name": "http://localhost:9000/#/order/3752e598-9751-497b-b"
-					}
-				},
-				{
-					"contents": "{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5\"},\"order\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9\"},\"creative\":{\"href\":\"http://localhost:9100/api/v1/creatives/a4bba77b-6af8-4906-a47c-3aeb9de3f632\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5/targeting\"}},\"id\":\"efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5\",\"name\":\"dfsdfsdf\",\"budget\":123,\"orderId\":\"6496e33a-e548-41c8-80da-d198e5a021e9\",\"creativeId\":\"a4bba77b-6af8-4906-a47c-3aeb9de3f632\",\"buyingStrategy\":{\"id\":\"b8da0436-6b05-435e-99b8-2b1d2d774d60\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":100},\"schedule\":{\"id\":\"30eeb767-7dfc-4e6b-b915-cc779dd20b17\",\"start\":\"2015-08-11 10:00:00\",\"end\":\"2015-08-29 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-12 15:41:46\",\"updatedAt\":\"2015-08-12 15:41:46\"},\"targetService\":{\"clickCommand\":\"http://www.google.fr\"},\"state\":\"activated\",\"stats\":{\"progressTime\":93,\"progressBudget\":0,\"impressions\":0,\"clicks\":0,\"spent\":0},\"createdAt\":\"2015-08-12 15:41:46\",\"updatedAt\":\"2015-08-12 15:41:46\"}\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines\"}},\"total\":1,\"_embedded\":{\"lines\":[{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5\"},\"order\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9\"},\"creative\":{\"href\":\"http://localhost:9100/api/v1/creatives/a4bba77b-6af8-4906-a47c-3aeb9de3f632\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5/targeting\"}},\"id\":\"efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5\",\"name\":\"dfsdfsdf\",\"budget\":123,\"orderId\":\"6496e33a-e548-41c8-80da-d198e5a021e9\",\"creativeId\":\"a4bba77b-6af8-4906-a47c-3aeb9de3f632\",\"buyingStrategy\":{\"id\":\"b8da0436-6b05-435e-99b8-2b1d2d774d60\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":100},\"schedule\":{\"id\":\"30eeb767-7dfc-4e6b-b915-cc779dd20b17\",\"start\":\"2015-08-11 10:00:00\",\"end\":\"2015-08-29 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-12 15:41:46\",\"updatedAt\":\"2015-08-12 15:41:46\"},\"targetService\":{\"clickCommand\":\"http://www.google.fr\"},\"state\":\"activated\",\"stats\":{\"progressTime\":93,\"progressBudget\":0,\"impressions\":0,\"clicks\":0,\"spent\":0},\"createdAt\":\"2015-08-12 15:41:46\",\"updatedAt\":\"2015-08-12 15:41:46\"}]}}\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines\"}},\"total\":1,\"_embedded\":{\"lines\":[{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5\"},\"order\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9\"},\"creative\":{\"href\":\"http://localhost:9100/api/v1/creatives/a4bba77b-6af8-4906-a47c-3aeb9de3f632\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/6496e33a-e548-41c8-80da-d198e5a021e9/lines/efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5/targeting\"}},\"id\":\"efbfd39a-ff63-4b0c-bc70-6ab6267bb6b5\",\"name\":\"dfsdfsdf\",\"budget\":123,\"orderId\":\"6496e33a-e548-41c8-80da-d198e5a021e9\",\"creativeId\":\"a4bba77b-6af8-4906-a47c-3aeb9de3f632\",\"buyingStrategy\":{\"id\":\"b8da0436-6b05-435e-99b8-2b1d2d774d60\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":100},\"schedule\":{\"id\":\"30eeb767-7dfc-4e6b-b915-cc779dd20b17\",\"start\":\"2015-08-11 10:00:00\",\"end\":\"2015-08-29 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-12 15:41:46\",\"updatedAt\":\"2015-08-12 15:41:46\"},\"targetService\":{\"clickCommand\":\"http://www.google.fr\"},\"state\":\"activated\",\"stats\":{\"progressTime\":93,\"progressBudget\":0,\"impressions\":0,\"clicks\":0,\"spent\":0},\"createdAt\":\"2015-08-12 15:41:46\",\"updatedAt\":\"2015-08-12 15:41:46\"}]}}\n\n\n\n\n\n\n\n\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7\"},\"advertiser\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4\"},\"lines\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/lines\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/targeting\"}},\"id\":\"cef86de8-0b9a-4ff2-9061-8deac574d7e7\",\"organizationId\":\"953ec51f-854a-4a83-9fa5-8a2238663aaf\",\"name\":\"qsdqsd\",\"comment\":\"qsdqsd\",\"createdAt\":\"2015-08-12 15:53:41\",\"updatedAt\":\"2015-08-12 15:53:41\",\"advertiserId\":\"94459626-d72a-47c6-b027-5ff419c69ac4\",\"budgetTotal\":0,\"progression\":41,\"state\":\"draft\",\"buyingStrategy\":{\"id\":\"e4adde46-e7b4-4235-8adf-38fb51ef9948\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":1},\"schedule\":{\"id\":\"7c485abb-4045-4f99-97f9-ce0564db3f13\",\"start\":\"2015-08-11 10:00:00\",\"end\":\"2015-08-14 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-12 15:53:41\",\"updatedAt\":\"2015-08-12 15:53:41\"},\"stats\":{\"progressTime\":59,\"progressBudget\":0,\"impressions\":0,\"clicks\":0,\"spent\":0}}\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7\"},\"advertiser\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4\"},\"lines\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/lines\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/targeting\"}},\"id\":\"cef86de8-0b9a-4ff2-9061-8deac574d7e7\",\"organizationId\":\"953ec51f-854a-4a83-9fa5-8a2238663aaf\",\"name\":\"qsdqsd\",\"comment\":\"qsdqsd\",\"createdAt\":\"2015-08-12 15:53:41\",\"updatedAt\":\"2015-08-12 15:53:41\",\"advertiserId\":\"94459626-d72a-47c6-b027-5ff419c69ac4\",\"budgetTotal\":0,\"progression\":69,\"state\":\"draft\",\"buyingStrategy\":{\"id\":\"e4adde46-e7b4-4235-8adf-38fb51ef9948\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":1},\"schedule\":{\"id\":\"7c485abb-4045-4f99-97f9-ce0564db3f13\",\"start\":\"2015-08-11 10:00:00\",\"end\":\"2015-08-14 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-12 15:53:41\",\"updatedAt\":\"2015-08-12 15:53:41\"},\"stats\":{\"progressTime\":59,\"progressBudget\":0,\"impressions\":0,\"clicks\":0,\"spent\":0}}\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7\"},\"advertiser\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4\"},\"lines\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/lines\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/cef86de8-0b9a-4ff2-9061-8deac574d7e7/targeting\"}},\"id\":\"cef86de8-0b9a-4ff2-9061-8deac574d7e7\",\"organizationId\":\"953ec51f-854a-4a83-9fa5-8a2238663aaf\",\"name\":\"qsdqsd\",\"comment\":\"qsdqsd\",\"createdAt\":\"2015-08-12 15:53:41\",\"updatedAt\":\"2015-08-12 15:53:41\",\"advertiserId\":\"94459626-d72a-47c6-b027-5ff419c69ac4\",\"budgetTotal\":0,\"progression\":87,\"state\":\"draft\",\"buyingStrategy\":{\"id\":\"e4adde46-e7b4-4235-8adf-38fb51ef9948\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":1},\"schedule\":{\"id\":\"7c485abb-4045-4f99-97f9-ce0564db3f13\",\"start\":\"2015-08-11 10:00:00\",\"end\":\"2015-08-14 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-12 15:53:41\",\"updatedAt\":\"2015-08-12 15:53:41\"},\"stats\":{\"progressTime\":59,\"progressBudget\":0,\"impressions\":0,\"clicks\":0,\"spent\":0}}\n\n---\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4\"},\"creatives\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4/creatives\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4/deals\"}},\"id\":\"94459626-d72a-47c6-b027-5ff419c69ac4\",\"name\":\"Disney\",\"website\":\"http://www.disney.fr\",\"logoUrl\":\"http://vectorlogo.biz/wp-content/uploads/2012/11/DISNEY-VECTORLOGO-DOT-BIZ-128x128.png\",\"tld\":\"disney.fr\",\"status\":true,\"createdAt\":\"2015-07-28 11:45:51\",\"updatedAt\":\"2015-07-28 11:45:51\"}\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4\"},\"creatives\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4/creatives\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/advertisers/94459626-d72a-47c6-b027-5ff419c69ac4/deals\"}},\"id\":\"94459626-d72a-47c6-b027-5ff419c69ac4\",\"name\":\"Disney\",\"website\":\"http://www.disney.fr\",\"logoUrl\":\"http://vectorlogo.biz/wp-content/uploads/2012/11/DISNEY-VECTORLOGO-DOT-BIZ-128x128.png\",\"tld\":\"disney.fr\",\"status\":true,\"createdAt\":\"2015-07-28 11:45:51\",\"updatedAt\":\"2015-07-28 11:45:51\"}\n\n\n{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines\"}},\"total\":2,\"_embedded\":{\"lines\":[{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines/5e36fd6d-2bfa-4a0c-96bc-3a08876aeb34\"},\"order\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc\"},\"creative\":{\"href\":\"http://localhost:9100/api/v1/creatives/620736ed-580d-40f5-a4e5-2f9dd614eb66\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines/5e36fd6d-2bfa-4a0c-96bc-3a08876aeb34/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines/5e36fd6d-2bfa-4a0c-96bc-3a08876aeb34/targeting\"}},\"id\":\"5e36fd6d-2bfa-4a0c-96bc-3a08876aeb34\",\"name\":\"Updated line\",\"budget\":200000,\"orderId\":\"3752e598-9751-497b-be76-eb7c7e4c34fc\",\"creativeId\":\"620736ed-580d-40f5-a4e5-2f9dd614eb66\",\"buyingStrategy\":{\"id\":\"90e57b35-1bee-49ca-bf7d-c5b0e45bd112\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":10.55},\"schedule\":{\"id\":\"8067a982-eca0-4e92-baa3-f60fc28264e4\",\"start\":\"2015-09-14 16:20:52\",\"end\":\"2015-09-19 16:20:52\",\"timezoneId\":52,\"createdAt\":\"2015-07-28 11:45:52\",\"updatedAt\":\"2015-07-28 11:45:52\"},\"targetService\":{\"clickCommand\":\"http://www.google.fr\"},\"state\":\"activated\",\"stats\":{\"progressTime\":0,\"progressBudget\":0,\"impressions\":205,\"clicks\":15,\"spent\":410.53},\"createdAt\":\"2015-07-28 11:51:24\",\"updatedAt\":\"2015-08-07 16:42:22\"},{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines/70f50de0-dddf-4395-97b7-5589e5eac810\"},\"order\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc\"},\"creative\":{\"href\":\"http://localhost:9100/api/v1/creatives/ce77ebd8-b733-4ab3-b28c-d8d80693cd9d\"},\"deals\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines/70f50de0-dddf-4395-97b7-5589e5eac810/deals\"},\"targeting\":{\"href\":\"http://localhost:9100/api/v1/orders/3752e598-9751-497b-be76-eb7c7e4c34fc/lines/70f50de0-dddf-4395-97b7-5589e5eac810/targeting\"}},\"id\":\"70f50de0-dddf-4395-97b7-5589e5eac810\",\"name\":\"qsd\",\"budget\":500,\"orderId\":\"3752e598-9751-497b-be76-eb7c7e4c34fc\",\"creativeId\":\"ce77ebd8-b733-4ab3-b28c-d8d80693cd9d\",\"buyingStrategy\":{\"id\":\"90e57b35-1bee-49ca-bf7d-c5b0e45bd112\",\"directDealActivated\":false,\"thirdInventoryActivated\":true,\"thirdInventoryMode\":\"base\",\"thirdInventoryBaseCPM\":10.55},\"schedule\":{\"id\":\"a4140b8c-7eea-4f45-be64-ea27fbcf20a4\",\"start\":\"2015-08-01 10:00:00\",\"end\":\"2015-08-21 11:00:00\",\"timezoneId\":52,\"createdAt\":\"2015-08-11 16:01:49\",\"updatedAt\":\"2015-08-11 16:01:49\"},\"targetService\":{\"clickCommand\":\"http://www.google.fr\"},\"state\":\"activated\",\"stats\":{\"progressTime\":43,\"progressBudget\":52,\"impressions\":131,\"clicks\":21,\"spent\":262.58},\"createdAt\":\"2015-08-11 16:01:49\",\"updatedAt\":\"2015-08-11 16:01:49\"}]}}\n\n\n14:03:37 <%leak> rumour is that if you pick a random word and concat js you will find a library on google :p\n14:03:57 <%leak> lets see\n14:03:59 <%leak> car\n14:04:03 <~KingPin> lol\n14:04:05 <%leak> https://github.com/indianburger/carjs\n\n\n\njava -cp KafkaOffsetMonitor-assembly-0.2.1.jar \\\n     com.quantifind.kafka.offsetapp.OffsetGetterWeb \\\n     --zk 54.154.195.231 \\\n     --port 8080 \\\n     --refresh 10.seconds \\\n     --retain 2.days",
-					"settings":
-					{
-						"buffer_size": 13002,
-						"line_ending": "Unix",
-						"name": "{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/a"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 332.0,
-				"last_filter": "prett",
-				"selected_items":
-				[
-					[
-						"prett",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"json ",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"prevo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"prev",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"package ins",
-						"Package Control: Install Package"
-					],
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 516.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/mailer-api",
-				"/home/julien/work/projects/mailer-api/conf",
-				"/home/julien/work/projects/mailer-api/project"
-			],
-			"file_history":
-			[
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js"
-			],
-			"find":
-			{
-				"height": 37.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/middleware-api",
-					"/home/julien/work/projects/dataprovider-connector-api",
-					"",
-					"/home/julien/work/projects/manager-front/app/",
-					"/home/julien/work/projects/manager-front/app/views",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-doc",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"budget",
-					"total",
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location."
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"\"c\"",
-					"c",
-					"\"",
-					"",
-					"-O",
-					"deal",
-					"/",
-					"dataprovider-api",
-					"/v1/",
-					"v1/advertiser",
-					"/internal/v1",
-					"manager-api.dev.tabmo.net",
-					"",
-					"$URL",
-					" -> ",
-					"",
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/home/julien/work/projects/mailer-api"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 3,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/julien/work/projects/mailer-api/conf/logback.xml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2358,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										770,
-										770
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/julien/work/projects/mailer-api/project/plugins.sbt",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 222,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										222,
-										222
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_regex_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 297,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										297,
-										297
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "http://localhost:9000/#/order/3752e598-9751-497b-b",
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"default_dir": "/home/julien/work/projects/mailer-api",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13002,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										12805,
-										12805
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_name": "{\"_links\":{\"self\":{\"href\":\"http://localhost:9100/a",
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"default_dir": "/home/julien/work/projects/mailer-api",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 773.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -3923,7 +1558,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -3954,14 +1589,14 @@
 			"menu_visible": true,
 			"output.find_results":
 			{
-				"height": 396.0
+				"height": 225.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,2617,241,3257,721,3840,1080",
+			"position": "0,0,0,0,0,2719,211,3359,635,5760,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3970,6 +1605,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"apier",
+						"src/main/scala/models/error/ApiError.scala"
+					],
 					[
 						"directive",
 						"app/scripts/shared/Directives.js"
@@ -4064,12 +1703,12 @@
 			},
 			"select_symbol":
 			{
-				"height": 375.0,
+				"height": 392.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 378.0
+				"width": 392.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -4079,1619 +1718,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 261.0,
+			"side_bar_width": 321.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 219,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"adverti",
-						"advertiserOfDeal"
-					],
-					[
-						"advert",
-						"advertiserIds"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "",
-					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-					"file_size": 203,
-					"file_write_time": 130839440176670042,
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 332.0,
-				"last_filter": "prett",
-				"selected_items":
-				[
-					[
-						"prett",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"json ",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"prevo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"prev",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"package ins",
-						"Package Control: Install Package"
-					],
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 516.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/aws-deploy",
-				"/home/julien/work/projects/aws-deploy/applications",
-				"/home/julien/work/projects/aws-deploy/applications/tracker",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources"
-			],
-			"file_history":
-			[
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.service.js"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/middleware-api",
-					"/home/julien/work/projects/dataprovider-connector-api",
-					"",
-					"/home/julien/work/projects/manager-front/app/",
-					"/home/julien/work/projects/manager-front/app/views",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-doc",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"budget",
-					"total",
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location."
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"\"c\"",
-					"c",
-					"\"",
-					"",
-					"-O",
-					"deal",
-					"/",
-					"dataprovider-api",
-					"/v1/",
-					"v1/advertiser",
-					"/internal/v1",
-					"manager-api.dev.tabmo.net",
-					"",
-					"$URL",
-					" -> ",
-					"",
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/home/julien/work/projects/aws-deploy"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 396.0
-			},
-			"pinned_build_system": "",
-			"position": "0,1,0,0,0,1985,24,2625,504,3840,1080",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"directive",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"direct",
-						"app/scripts/form/Directives.js"
-					],
-					[
-						"creative.view.",
-						"app/views/creatives/creatives.view.html"
-					],
-					[
-						"creative.v",
-						"app/scripts/creatives/creatives.view.js"
-					],
-					[
-						"direc",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"ourf",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"date",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"dat",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"daterangepicker",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"our",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"app",
-						"app/scripts/app.js"
-					],
-					[
-						"deal.ser",
-						"app/scripts/deals/deals.service.js"
-					],
-					[
-						"newor",
-						"modules/order/app/models/api/NewOrder.scala"
-					],
-					[
-						"orderser",
-						"modules/order/app/services/impl/OrderServiceImpl.scala"
-					],
-					[
-						"businessva",
-						"modules/core/src/main/scala/validation/BusinessValidation.scala"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 375.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 378.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 261.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 222,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"adverti",
-						"advertiserOfDeal"
-					],
-					[
-						"advert",
-						"advertiserIds"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-					"settings":
-					{
-						"buffer_size": 275,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-					"settings":
-					{
-						"buffer_size": 1099,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 332.0,
-				"last_filter": "prett",
-				"selected_items":
-				[
-					[
-						"prett",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"json ",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"prevo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"prev",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"previe",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"markdow",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"package ins",
-						"Package Control: Install Package"
-					],
-					[
-						"angularjs",
-						"AngularJS: Rebuild Search Index"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"list pa",
-						"Package Control: List Packages"
-					],
-					[
-						"package con",
-						"Package Control: List Packages"
-					],
-					[
-						"markdo",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE INS",
-						"Package Control: Install Package"
-					],
-					[
-						"PACKAGE IN",
-						"Package Control: Install Package"
-					],
-					[
-						"package in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 516.0
-			},
-			"console":
-			{
-				"height": 139.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/julien/work/projects/aws-deploy",
-				"/home/julien/work/projects/aws-deploy/applications",
-				"/home/julien/work/projects/aws-deploy/applications/tracker",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources"
-			],
-			"file_history":
-			[
-				"/home/julien/work/projects/aws-deploy/init.sh",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Notifications.js",
-				"/home/julien/work/projects/manager-front/app/scripts/dashboard/dashboard.wip.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Components.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/FileUploads.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/ImageCrop.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/form/Validation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/gallery/Gallery.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Boxed.js",
-				"/home/julien/work/projects/manager-front/app/scripts/layout/Horizontal.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.user.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/calendar/Calendar.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Flot.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Inline.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/SVG.js",
-				"/home/julien/work/projects/manager-front/app/scripts/chart/Canvas.js",
-				"/home/julien/work/projects/manager-front/app/index.html",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Navigation.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Messages.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/Dashboard.js",
-				"/home/julien/work/projects/manager-front/app/scripts/controllers/ColorPicker.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/ourForm.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/optional.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/fieldErrors.directive.js",
-				"/home/julien/work/projects/manager-front/app/views/creatives/creatives.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/advertisers/advertisers.list.js",
-				"/home/julien/work/projects/manager-front/app/views/orders/order.view.html",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/shared.js",
-				"/home/julien/work/projects/manager-front/app/scripts/auth/auth.loginBar.directive.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.view.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service2.js",
-				"/home/julien/work/projects/manager-front/app/scripts/api/api.router.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/creatives/creatives.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.js",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/deals/deals.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.service.js",
-				"/home/julien/work/projects/manager-front/app/scripts/timezones/timezones.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/q.service.js"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/home/julien/work/projects/middleware-api",
-					"/home/julien/work/projects/dataprovider-connector-api",
-					"",
-					"/home/julien/work/projects/manager-front/app/",
-					"/home/julien/work/projects/manager-front/app/views",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-doc",
-					"/home/julien/work/projects/manager-front/",
-					"/home/julien/work/projects/manager-front/app",
-					"/home/julien/work/projects/manager-front/app/scripts",
-					"/home/julien/work/projects/manager-front/app/scripts/pages",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"budget",
-					"total",
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img",
-					"defaultInitialsImg",
-					"test",
-					">\n",
-					"timezone",
-					"daterangepicker",
-					"$",
-					"€",
-					"regex",
-					"$q",
-					"schedule",
-					"currentDeal",
-					"advertiser",
-					"listAdvertiser",
-					"webpackPipe",
-					"/v1/",
-					"manager-api",
-					"//v1/",
-					"api/v1/public/",
-					"v1advertiser",
-					"/api/v1/public/",
-					"txt",
-					"localhost",
-					"dev-manager-api",
-					"9100",
-					"9000",
-					"manager-api",
-					"dev-manager-api:9000",
-					"pending",
-					"cré",
-					"-d",
-					"timezones",
-					"OrderSpec",
-					"Congtent-",
-					"^## ",
-					"^# ",
-					"icon-exclamation-sign",
-					"warning",
-					"aside",
-					"$MANAGER_API",
-					"$examples-width",
-					"0",
-					"Monokai",
-					"pre",
-					"live",
-					"isNotBanner",
-					"isBanner",
-					"ng-disa",
-					"ng-if",
-					"codemi",
-					"switchStatus",
-					"editorOptions",
-					"icheck",
-					"select2RemoteOptions",
-					"select2TaggingOptions",
-					"ui-select2",
-					"ui-select2 ",
-					", ",
-					"'",
-					"'creativesize.",
-					", 'tablet'),",
-					", 'smartphone'),",
-					", 'mobile'),",
-					"    (uuid_generate_v1mc(), ",
-					"(uuid_generate_v1mc(), ",
-					"scriptS",
-					"UUID",
-					"creatives",
-					"lines",
-					"data",
-					";\n",
-					"<!",
-					"api",
-					"OrderViewController",
-					"progress",
-					"$state",
-					"$location."
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"\"c\"",
-					"c",
-					"\"",
-					"",
-					"-O",
-					"deal",
-					"/",
-					"dataprovider-api",
-					"/v1/",
-					"v1/advertiser",
-					"/internal/v1",
-					"manager-api.dev.tabmo.net",
-					"",
-					"$URL",
-					" -> ",
-					"",
-					"q",
-					"\"",
-					"uhli",
-					"login_infos",
-					"u",
-					"created_at",
-					"\\\"",
-					"SLACK_NOTIFY_CONFIGURABLE_"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": false,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/home/julien/work/projects/aws-deploy"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 275,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										267,
-										267
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 1099,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 396.0
-			},
-			"pinned_build_system": "",
-			"position": "0,1,0,0,0,2664,420,3304,900,3840,1080",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"directive",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"direct",
-						"app/scripts/form/Directives.js"
-					],
-					[
-						"creative.view.",
-						"app/views/creatives/creatives.view.html"
-					],
-					[
-						"creative.v",
-						"app/scripts/creatives/creatives.view.js"
-					],
-					[
-						"direc",
-						"app/scripts/shared/Directives.js"
-					],
-					[
-						"ourf",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"date",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"dat",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"daterangepicker",
-						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
-					],
-					[
-						"our",
-						"app/scripts/shared/ourForm.directive.js"
-					],
-					[
-						"app",
-						"app/scripts/app.js"
-					],
-					[
-						"deal.ser",
-						"app/scripts/deals/deals.service.js"
-					],
-					[
-						"newor",
-						"modules/order/app/models/api/NewOrder.scala"
-					],
-					[
-						"orderser",
-						"modules/order/app/services/impl/OrderServiceImpl.scala"
-					],
-					[
-						"businessva",
-						"modules/core/src/main/scala/validation/BusinessValidation.scala"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"templa",
-						"app/scripts/templates/templates.js"
-					],
-					[
-						"controller",
-						"app/scripts/pages/Controllers.js"
-					],
-					[
-						"bower",
-						"bower.json"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 375.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 378.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 261.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 223,
+			"window_id": 415,
 			"workspace_name": ""
 		}
 	],

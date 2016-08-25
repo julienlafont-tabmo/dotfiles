@@ -9,11 +9,12 @@
   split_horiz = <Primary><Shift>h
 [profiles]
   [[default]]
-    scrollback_lines = 50000
-    font = Ubuntu Mono derivative Powerline 12
-    use_system_font = False
-    show_titlebar = False
     background_image = None
+    scrollback_lines = 50000
+    use_system_font = False
+    scroll_on_output = False
+    show_titlebar = False
+    font = Ubuntu Mono derivative Powerline 14
 [layouts]
   [[default]]
     [[[child0]]]

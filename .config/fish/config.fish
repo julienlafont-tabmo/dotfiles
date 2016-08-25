@@ -17,12 +17,15 @@ Plugin "theme"
 Plugin "balias"
 Plugin "jump"
 
-set -x JAVA_OPTS "-Xms1024m -Xmx2048m  -Dfile.encoding=UTF-8" # -Djavax.net.debug=ssl
-set -x SBT_OPTS "-Xms1024m -Xmx3072m "
+eval (python -m virtualfish auto_activation compat_aliases)
+
+set -x JAVA_OPTS "-Xms1g -Xmx3g"
 
 set PATH $PATH /home/julien/bin
-set PATH $PATH /home/julien/bin/aws
+#set PATH $PATH /home/julien/bin/aws
 set PATH $PATH /home/julien/work/tools/nodejs/node-v0.12.0/bin
+set PATH $PATH /home/julien/work/projects/tabmo-tools
+set PATH $PATH /home/julien/work/tools/wkhtmltox/bin
 set PATH $PATH /home/julien/work/projects/tabmo-tools
 
 # Load custom aliases
@@ -37,4 +40,5 @@ synclient PalmDetect=1 TapButton1=0
 
 set -x TABMO_PROJECTS /home/julien/work/projects
 set -x EDITOR /usr/bin/nano
-set -X JAVA_HOME /usr/lib/jvm/java-8-oracle
+set -x JAVA_HOME /usr/lib/jvm/java-8-oracle
+set -x M2_HOME /usr/local/apache-maven-3.3.3

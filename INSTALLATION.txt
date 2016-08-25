@@ -148,4 +148,19 @@ sudo apt-cache show golang #2:1.4.2
 
 sudo apt-get install ack-grep
 
+# OpenVPN
+sudo apt-get install openvpn
+cd /etc/openvpn
 
+# MAJ IBUS (bug idea)
+# cf http://serverfault.com/a/753995
+
+# Serveur DNS Custom
+# cf https://doc.ubuntu-fr.org/dns#gerer_son_propre_serveur_dns
+sudo nano /etc/NetworkManager/NetworkManager.conf
+  #dns=dnsmasq
+sudo update-rc.d -f dnsmasq remove
+sudo service network-manager restart
+
+# Compiz-plugins pour replacer les fenêtres
+sudo apt-get install compizconfig-settings-manager compiz-plugins

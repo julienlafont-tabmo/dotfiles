@@ -20,6 +20,13 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
@@ -181,14 +188,31 @@
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/work/formations/tp-scala" value="1435925812053" />
+            <entry key="$USER_HOME$/work/formations/tp-scala-json" value="1440664355453" />
+            <entry key="$USER_HOME$/work/perso/akka-streams-demo" value="1454061358252" />
+            <entry key="$USER_HOME$/work/perso/mocky" value="1443812239975" />
             <entry key="$USER_HOME$/work/perso/playdash" value="1433079259175" />
             <entry key="$USER_HOME$/work/perso/scadashboard" value="1434140298474" />
+            <entry key="$USER_HOME$/work/projects/adsquare-analyser" value="1443022759352" />
+            <entry key="$USER_HOME$/work/projects/akka/test1" value="1451125707353" />
+            <entry key="$USER_HOME$/work/projects/atlas-api" value="1441876989219" />
             <entry key="$USER_HOME$/work/projects/benchmark-microservices/weather-api-spray" value="1427206862000" />
+            <entry key="$USER_HOME$/work/projects/bidder-rescue" value="1444032151280" />
+            <entry key="$USER_HOME$/work/projects/cockpit-api" value="1452871448070" />
             <entry key="$USER_HOME$/work/projects/dataprovider-weather-api" value="1436369901751" />
             <entry key="$USER_HOME$/work/projects/dataprovider-weather-api-finagle" value="1436452787909" />
+            <entry key="$USER_HOME$/work/projects/invoicing-api" value="1452779174989" />
+            <entry key="$USER_HOME$/work/projects/json-benchmark" value="1452376956944" />
             <entry key="$USER_HOME$/work/projects/mailer-api" value="1431674636366" />
+            <entry key="$USER_HOME$/work/projects/media-upload-api" value="1446028860118" />
+            <entry key="$USER_HOME$/work/projects/play-microservice-common" value="1450716997129" />
+            <entry key="$USER_HOME$/work/projects/realtime-stats" value="1440151032259" />
             <entry key="$USER_HOME$/work/projects/rubicon-daily-report" value="1439481311623" />
+            <entry key="$USER_HOME$/work/projects/spark-analytics" value="1445420312332" />
             <entry key="$USER_HOME$/work/projects/stats-request/analytics" value="1438778748059" />
+            <entry key="$USER_HOME$/work/projects/tabmo-stream-reco/budget-spark" value="1454865800583" />
+            <entry key="$USER_HOME$/work/projects/tabmo-stream-reco/stream-reco" value="1454689062580" />
+            <entry key="$USER_HOME$/work/projects/test-kafka-realtime" value="1439999194287" />
             <entry key="$USER_HOME$/work/projects/tracker" value="1438693071485" />
             <entry key="$USER_HOME$/work/projects/weather-api" value="1437055115818" />
           </map>

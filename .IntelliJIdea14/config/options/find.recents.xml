@@ -1,68 +1,68 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>toString</find>
-      <find>asInt</find>
-      <find>AerospikeBin</find>
-      <find>)(if (byHour) writePolicy45days else defaultWritePolicy)</find>
-      <find>Value</find>
-      <find>toLong</find>
-      <find>.getOrElse(0L)</find>
-      <find>iLocalMillis</find>
-      <find>iChronology</find>
-      <find>StatsAerospikeConfig</find>
-      <find>import stats.models.config.AerospikeConfigStats</find>
-      <find>budgetSpent</find>
-      <find>fullLineWithBudget</find>
-      <find>RoundingMode</find>
-      <find>getOptio</find>
-      <find>fo.</find>
-      <find>\ &quot;stats&quot;</find>
-      <find>l.line</find>
-      <find>config</find>
-      <find>advertiser_id</find>
-      <find>advertiser</find>
-      <find>advert</find>
-      <find>device</find>
-      <find>valueN</find>
-      <find>client.client</find>
-      <find>lineSeparator</find>
-      <find>\se.</find>
-      <find>private val</find>
-      <find>ofLocalizedDateTime</find>
-      <find>io.tabmo.dailyreport.</find>
+      <find>=</find>
+      <find>^url</find>
+      <find>endpoint</find>
+      <find>9999</find>
+      <find>Region</find>
+      <find>AppC</find>
+      <find>queryIsAdvertiserLinkedOrga</find>
+      <find>filterByDateRange</find>
+      <find>::</find>
+      <find>filterByVersion</find>
+      <find>ModuleShared</find>
+      <find>processCountersByDateRange</find>
+      <find>black</find>
+      <find>can-black</find>
+      <find>clicks</find>
+      <find>avg</find>
+      <find>WithApplication</find>
+      <find>new WithApplication(</find>
+      <find>apply</find>
+      <find>.next()</find>
+      <find>UUIDGen.parse(&quot;&quot;)</find>
+      <find>disabled</find>
+      <find>modul</find>
+      <find>OWNER TO tabmo</find>
+      <find>create type</find>
+      <find>trigger_order_calcul_total</find>
+      <find>was</find>
+      <find>sendMessageToKafka</find>
+      <find>freeMemory</find>
+      <find>usedMem</find>
     </findStrings>
     <replaceStrings>
-      <replace>client.</replace>
-      <replace>vd.getObject</replace>
-      <replace>(T1, T2)</replace>
-      <replace>NonFatal(err)</replace>
-      <replace>NonFatal(_)</replace>
-      <replace>(AerospikeKey[K], Boolean)</replace>
-      <replace>vn.getType</replace>
-      <replace>vd.getType</replace>
-      <replace>keys.head</replace>
-      <replace>5.seconds</replace>
-      <replace>/* Copyright 2014 UniCredit S.p.A.</replace>
-      <replace>io.tabmo.aerospike</replace>
-      <replace>demandée</replace>
-      <replace>coeffDay</replace>
-      <replace>detailed</replace>
-      <replace>dayDateAerospike</replace>
-      <replace>UpdateLineCtx</replace>
-      <replace>lineCurrentBSId</replace>
-      <replace>getLong</replace>
-      <replace>Bin</replace>
-      <replace>, if (byHour) Some(writePolicy45days) else None)</replace>
-      <replace>AerospikeConfigStats</replace>
-      <replace>shared.models.config.AerospikeConfigStats</replace>
-      <replace>import shared.models.config.AerospikeConfigStats</replace>
-      <replace>summaryStats</replace>
-      <replace>fullLineWithStats</replace>
-      <replace>line</replace>
-      <replace>client</replace>
-      <replace>envelope.</replace>
+      <replace>.withAdministrator()</replace>
+      <replace>extends CustomPlaySpecification with FakeApiRequest</replace>
+      <replace>with FakeApiRequest</replace>
+      <replace>val api</replace>
       <replace />
+      <replace>models</replace>
+      <replace />
+      <replace>readNullable[$1]</replace>
+      <replace>Decoder</replace>
+      <replace>field</replace>
+      <replace>downField(</replace>
+      <replace>c.get[$2]($1)</replace>
+      <replace>c.get[$2](&quot;$1&quot;)</replace>
+      <replace>jdecode(</replace>
+      <replace>jdecode1L</replace>
+      <replace>jdecode$1L</replace>
+      <replace>l</replace>
+      <replace>List[</replace>
+      <replace>List</replace>
+      <replace>jsonFormat$1($2)</replace>
+      <replace>Format</replace>
+      <replace>fields.get(&quot;$1&quot;).map(_.convertTo[$2])</replace>
+      <replace>None</replace>
+      <replace>Some(from)</replace>
+      <replace>MonthYear</replace>
+      <replace>&lt;br /&gt;</replace>
+      <replace>mergeOrderAndLineTargeting(order</replace>
+      <replace>endpoint</replace>
+      <replace>.parse(&quot;&quot;)</replace>
+      <replace>UUIDGen.zero</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/work/projects/manager-api/modules/core/src/main/scala/utils</dir>
@@ -82,6 +82,15 @@
       <dir>$USER_HOME$/work/projects/ReactiveAerospike</dir>
       <dir>$USER_HOME$/work/projects/manager-api/modules/stats/</dir>
       <dir>$USER_HOME$/work/projects/rubicon-daily-report/src/main/scala</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/scripts</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/stats/app/controllers</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/modules/user</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/test/api/shared</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/test/api/order</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/test/</dir>
+      <dir>$USER_HOME$/work/projects/json-benchmark/src/main/scala/models/bidrequest</dir>
+      <dir>$USER_HOME$/work/projects/json-benchmark/src/main/scala/models</dir>
+      <dir>$USER_HOME$/work/projects/manager-api/conf/evolutions/default</dir>
     </dirStrings>
   </component>
 </application>

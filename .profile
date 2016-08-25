@@ -20,3 +20,7 @@ fi
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
+
+
+PATH="$PATH:/home/julien/work/tools/nodejs/node-v0.12.0/bin"
+
