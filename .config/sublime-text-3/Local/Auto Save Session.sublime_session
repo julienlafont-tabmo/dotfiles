@@ -840,10 +840,10 @@
 					}
 				},
 				{
-					"contents": "Configuration Intellij\n\nEditor > Code Style > Scala (onglet Import)\n\nImport Layout\nscala\njava\n_____ blank line _____\nplay\ncom\nnet\norg\nakka\ncirce\nslick\nio.tabmo\njto\n____ blank line ____\nall other imports\nentities\n\nImports always marked as used\nplay.api.data.mapping.json.Rules._\nplay.api.data.mapping.json.Writes._\nplay.api.libs.concurrent.Execution.Implicits._\nplay.api.libs.concurrent.Execution.Implicits.defaultContext\n\nEditor > General > Auto Import\n\nExclude from Import and Completion\nakka.http.javadsl\ncom.fasterxml.jackson\njava.awt\ncom.sum\njava.util.UUID\njava.util.concurrent\njavax.swing\nplay.Application\nplay.Configuration\nplay.GLobalSettings\nplay.Logger\nplay.Plugin\nplay.Routes\nplay.cache\nplay.data\nplay.db\nplay.filters\nplay.i18n\nplay.libs\nplay.mvc\nplay.server\nplay.test\nscala.parallel.Future\nscala.slick.util.Logging\nscalaz.concurrent.Future\ntype\n\n",
+					"contents": "Configuration Intellij\n\nEditor > Code Style > Scala (onglet Import)\n\nImport Layout\nscala\njava\n_____ blank line _____\nplay\ncom\nnet\norg\nakka\ncirce\nslick\nio.tabmo\njto\n____ blank line ____\nall other imports\nentities\n\nImports always marked as used\nplay.api.data.mapping.json.Rules._\nplay.api.data.mapping.json.Writes._\nplay.api.libs.concurrent.Execution.Implicits._\nplay.api.libs.concurrent.Execution.Implicits.defaultContext\n\nEditor > General > Auto Import\n\nExclude from Import and Completion\nakka.http.javadsl\ncom.fasterxml.jackson\njava.awt\ncom.sum\njava.util.UUID\njava.util.concurrent\njavax.swing\nplay.Application\nplay.Configuration\nplay.GLobalSettings\nplay.Logger\nplay.Plugin\nplay.Routes\nplay.cache\nplay.data\nplay.db\nplay.filters\nplay.i18n\nplay.libs\nplay.mvc\nplay.server\nplay.test\nscala.parallel.Future\nscala.slick.util.Logging\nscalaz.concurrent.Future\ntypex.services.UUID\n\n",
 					"settings":
 					{
-						"buffer_size": 857,
+						"buffer_size": 872,
 						"line_ending": "Unix",
 						"name": "Configuration Intellij"
 					}
@@ -1456,15 +1456,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 857,
+								"buffer_size": 872,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										855,
-										855
+										0,
+										872
 									]
 								],
 								"settings":
@@ -1547,7 +1547,7 @@
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 773.0,
+								"translation.y": 89.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,

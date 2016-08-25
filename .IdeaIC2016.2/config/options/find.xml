@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.conf</mask>
+      <mask>*Slick.scala</mask>
+      <mask>*Spec.scala</mask>
+      <mask>*.md</mask>
+      <mask>*.scala</mask>
+    </recentFileMasks>
+  </component>
+</application>

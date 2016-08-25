@@ -1,0 +1,72 @@
+<application>
+  <component name="ExportableTemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="serr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="sout" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="souf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="soutm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="soutp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="soutv" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="plain" />
+          <option name="key" value="psf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="plain" />
+          <option name="key" value="psfi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="plain" />
+          <option name="key" value="psfs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="plain" />
+          <option name="key" value="thr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="main" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="opt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="itr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="itry" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="priv" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="scala" />
+          <option name="key" value="T" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
