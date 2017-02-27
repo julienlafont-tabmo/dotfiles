@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js cookie_used_true">
+
+<head>
+  <meta charset="UTF-8">
+  
+  <script type="text/javascript">
+    function redirectApi(self) {
+    var id = self.id.value;
+    var url = "https://api.tabmo.io/api/debug/" + id + "?token=" + getParameterByName("token");
+    window.location.href = url;
+    return false;
+  }
+
+  function redirectMiddleware(self) {
+    var id = self.id.value;
+    var url = "http://internal-middleware-internal-production-858688024.eu-west-1.elb.amazonaws.com/api/debug/" + id;
+    window.location.href = url;
+    return false;
+  }
+
+  function getParameterByName(name) {
+    var url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+      results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+  </script>
+</head>
+<body>
+
+<h1>
+Debug endpoints
+</h1>
+
+<form action="javascript:void(0);" onsubmit="return redirectApi(this);">
+  <h2>
+    Manager-API
+  </h2>
+  <input type="text" name="id" style="width: 400px" placeholder="Identifiant médiaplan, order, line, creative, advertiser" autocomplete="off" />
+  <input type="submit" />
+</form>
+
+<form action="javascript:void(0);" onsubmit="return redirectMiddleware(this);">
+  <h2>
+    Middleware
+  </h2>
+  <input type="text" name="id" style="width: 400px" placeholder="Identifiant mediaplan" autocomplete="off" />
+  <input type="submit" />
+</form>
+
+</body>
+</html>
