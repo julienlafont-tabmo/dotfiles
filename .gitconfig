@@ -9,7 +9,6 @@
     cim = commit -m
     br = branch
     co = checkout
-    rz = reset --hard HEAD
     #lol = log --graph --decorate --pretty=oneline --abbrev-commit
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
     ll = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --decorate --numstat
@@ -19,14 +18,14 @@
     d = diff
     dc = diff --cached
     up = !git pull --rebase --prune
-    undo = reset HEAD~1 --mixed
     amend = commit -a --amend
-    wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
     pr = "!f() { git fetch -fu ${2:-origin} refs/pull/$1/head:pr/$1 && git checkout pr/$1; }; f"
+    mr = !sh -c 'git fetch origin merge-requests/$1/head:mr-origin-$1 && git checkout mr-origin-$1' -
     pullr = pull --rebase
+    clean-branches = !git branch -d $(git branch --merged | grep -vw $(git rev-parse --abbrev-ref HEAD) | sed 's/^ *//')
 [color]
     branch = auto
-	diff = always
+    diff = always
     status = auto
     interactive = auto
 [push]

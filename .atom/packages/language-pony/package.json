@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+        "spec": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-117211-5021-1h0c7q7"
+    ]
+  ],
+  "_from": "../d-117211-5021-sxz6fu/package.tgz",
+  "_id": "language-pony@0.3.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-pony",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+    "spec": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117211-5021-sxz6fu/package.tgz",
+  "_shasum": "143079696cd7ce743b26c25def7e7c2126481633",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-117211-5021-sxz6fu/package.tgz",
+  "_where": "/tmp/apm-install-dir-117211-5021-1h0c7q7",
+  "activationCommands": {
+    "atom-text-editor": [
+      "language-pony:toggle"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/sylvanc/language-pony/issues"
+  },
+  "dependencies": {},
+  "description": "Language support for Pony in Atom.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/sylvanc/language-pony#readme",
+  "license": "MIT",
+  "main": "./lib/language-pony",
+  "name": "language-pony",
+  "optionalDependencies": {},
+  "readme": "# Language support for Pony in Atom.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvanc/language-pony.git"
+  },
+  "version": "0.3.8"
+}

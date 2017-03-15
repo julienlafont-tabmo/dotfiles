@@ -118,3 +118,4 @@ fi
 export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 
 export PATH="$PATH:/home/julien/work/tools/nodejs/node-v0.12.0/bin"
+

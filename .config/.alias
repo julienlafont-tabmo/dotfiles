@@ -1,33 +1,30 @@
 # GIT
-balias ga='git add'
-balias gd='git diff'
-balias gdc='git diff'
-balias gs='git status'
-balias gst='git status'
-balias got='git '
+alias ga='git add'
+alias gd='git diff'
+alias gdc='git diff'
+alias gs='git status'
+alias gst='git status'
+alias got='git '
 
 # SSH
-balias sshperso='ssh julien@pc.studio-dev.fr'
-balias sshferal='ssh yotseedbox@cottus.feralhosting.com'
-balias sshdev-manager-api='ssh vm@dev-manager-api'
-balias sshdev-manager-db='ssh postgresql@dev-manager-db'
-balias sshjenkins='echo "CaBuild+99"; ssh ubuntu@jenkins.dev.tabmo.net'
-balias sshaerospike1='ssh vm@151.80.187.214'
-balias sshaerospike2='ssh vm@151.80.187.215'
+alias sshperso='ssh julien@78.194.248.198 -p 2343'
 
 # Util
-balias alias-reload='source ~/.config/.alias'
-balias aws-regen='aws_ssh --tags Name --usertag asg-sshuser --userkey $TABMO_PROJECTS/aws-ssh-keys > ~/.ssh/config_aws ;and cat ~/.ssh/config_* > ~/.ssh/config'
+alias alias-reload='source ~/.config/.alias'
+alias list-branches='for ref in (git for-each-ref --sort=-committerdate --format="%(refname)" refs/heads/ refs/remotes ); git log -n1 $ref --pretty=format:"%Cgreen%cr%Creset %C(yellow)%d%Creset %C(bold blue)<%an>%Creset%n" | cat ; end | awk \'! a[$0]++\''
 
 # Docker
 #balias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'
 #balias dcker-clean='docker rm (docker ps -a -q)'
 
 # Touchpad
-balias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
-balias off='notify-send "Touchpad Désactivé"; synclient TouchpadOff=1'
-balias keyboardfix='ibus-daemon -rd'
+alias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
+alias off='notify-send "Touchpad Désactivé"; synclient TouchpadOff=1'
+alias keyboardfix='ibus-daemon -rd'
 
+# RDS
+alias rds-tail='~/.golang/bin/rdstail --instance "tabmo-db-production" --region "eu-west-1" watch --rate 1s'
+alias rds-db-pool='psql -h pg-production -U adminprod manager -c \'SELECT count(*), datname, usename, application_name, client_addr FROM pg_stat_activity GROUP BY datname, usename, application_name, client_addr ORDER BY client_addr, datname, count;\''
 
 # Blink
 #alias police="/bin/bash -c 'while [ 1 ]; do blink1-tool --red --blink 1 --delay 300; blink1-tool --blue --blink 1 --delay 300; done;'"
@@ -36,3 +33,13 @@ balias keyboardfix='ibus-daemon -rd'
 #alias arcenciel="blink1-tool --play 1"
 #alias police2="/bin/bash -c 'while [ 1 ]; do blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --red --blink 1 -m 100 -t 100; blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --off; sleep 0.7; done;'"
 
+
+alias pg-start="docker start mypostgres"
+alias pg-stop="docker stop mypostgres"
+alias pg-delete="docker rm -f mypostgres"
+alias pg-create="docker run -d --restart=always --name mypostgres --net host -v /home/julien/work/tools/.sqlmanager:/docker-entrypoint-initdb.d/init-user-db.sh postgres:9.6.2"
+
+function pg-reload
+	pg-delete;
+	pg-create;
+end

@@ -1,0 +1,28 @@
+"*":
+  core:
+    disabledPackages: [
+      "autocomplete-css"
+      "autocomplete-html"
+      "git-diff"
+    ]
+    telemetryConsent: "no"
+  editor:
+    invisibles:
+      eol: false
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "5c8b07d0-6d4f-40af-84a2-14c089869626"
+  "markdown-preview":
+    useGitHubStyle: true
+  minimap: {}
+  "spell-check": {}
+  "terminal-plus":
+    core: {}
+    style: {}
+    toggles:
+      autoClose: true
+  welcome:
+    showOnStartup: false

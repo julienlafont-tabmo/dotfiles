@@ -11,9 +11,10 @@ cp -R ~/.config/fish/config.fish .config/fish/config.fish
 
 cp -R ~/.config/sublime-text-3 .config/
 cp -R ~/.config/terminator .config/
+cp -R ~/.atom .
+cp -R ~/.config/Atom .config/
 
-mkdir -p .IdeaIC2016.2/config
-cp -R ~/.IdeaIC2016.2/config .IdeaIC2016.2
+cp -R ~/.config/pgcli .config/
 
 mkdir -p .ssh
 cp -R ~/.ssh/id_rsa.pub .ssh/id_rsa.pub
@@ -29,6 +30,8 @@ mkdir -p etc/resolvconf/resolv.conf.d
 sudo cp /etc/resolvconf/resolv.conf.d/* ./etc/resolvconf/resolv.conf.d
 
 sudo cp -R /etc/udev/hwdb.d/90-logitech-m-560.hwdb .
+
+cp /home/julien/work/tools/.sqlmanager .sqlmanager
 
 git add -A
 git commit -m "sync"

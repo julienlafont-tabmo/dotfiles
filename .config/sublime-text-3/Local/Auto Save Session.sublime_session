@@ -1,21 +1,45 @@
 {
 	"folder_history":
 	[
+		"/home/julien/work/projects/manager-api",
+		"/home/julien/work/projects/devices-storage-api",
+		"/home/julien/work/projects/tracker",
+		"/home/julien/work/projects/middleware-api",
+		"/home/julien/work/tests/sdf",
+		"/home/julien/work/formations/ctdi-play.g8",
+		"/home/julien/work/formations/scala-play.g8",
+		"/home/julien/work/formations/xebia/airport",
+		"/home/julien/work/projects/tracker/src/main/resources",
+		"/home/julien/work/projects/spark-analytics",
+		"/home/julien/work/formations/qsd",
+		"/home/julien/work/formations/tp-scala-basics",
+		"/home/julien/work/projects/experiments-deviceid",
+		"/home/julien/work/tests/grpc-experiments",
+		"/home/julien/work/projects/experiment-sharding/export-ids-redis",
+		"/home/julien/work/projects/experiment-sharding/backup-redis-1",
+		"/home/julien/work/projects/experiment-sharding",
+		"/home/julien/work/projects/ReactiveAerospike",
+		"/home/julien/work/perso/metrics-scala",
+		"/home/julien/work/projects/bidder-finagle",
+		"/home/julien/test",
+		"/home/julien/work/projects/media-upload-api",
+		"/home/julien/work/tests/grpc-scala-sample",
+		"/home/julien/work/tests/toto",
+		"/home/julien/work/projects/tabmo-salt",
+		"/home/julien/work/scalaio/reactive-system-master",
+		"/home/julien/work/scalaio/reactive-system-develop",
+		"/home/julien/work/projects/mailer-api",
+		"/home/julien/work/projects/cockpit-api",
 		"/home/julien/work/projects/aws-deploy",
 		"/home/julien/work/formations/pokemon-free-fight",
 		"/home/julien/work/projects/tabmo-stream-reco/events2druid",
-		"/home/julien/work/projects/manager-api",
 		"/home/julien/work/projects/manager-api/doc",
 		"/home/julien/work/perso/akka-http-json",
-		"/home/julien/work/projects/experiments-deviceid",
-		"/home/julien/work/projects/devices-storage-api",
 		"/home/julien/work/projects/data-science/winprice_forecast",
 		"/home/julien/work/formations/xebia/fp_in_scala_2",
 		"/home/julien/work/formations/xebia/introscala_xebia",
 		"/home/julien/work/formations/xebia/XKE_fp_1",
 		"/home/julien/work/projects/referential-connector",
-		"/home/julien/work/projects/cockpit-api",
-		"/home/julien/work/projects/tracker",
 		"/home/julien/work/formations/xebia",
 		"/home/julien/work/meetup-bigdata-avito",
 		"/home/julien/work/formations/workshop-scala",
@@ -48,8 +72,6 @@
 		"/home/julien/work/perso/akka-http-microservice",
 		"/home/julien/work/perso/benchmark-microservices",
 		"/home/julien/work/projects/realtime-stats",
-		"/home/julien/work/projects/middleware-api",
-		"/home/julien/work/projects/media-upload-api",
 		"/home/julien/work/perso/play-iso",
 		"/home/julien/work/projects/slick",
 		"/home/julien/work/projects/play-microservice-common",
@@ -73,7 +95,6 @@
 		"/home/julien/work/perso/zen/rsu-nanterre/rsu-core",
 		"/home/julien/work/perso/zen/rsu-nanterre/oauth-client",
 		"/home/julien/work/projects/benchmark-microservices",
-		"/home/julien/work/projects/ReactiveAerospike",
 		"/home/julien/Téléchargements/auth0-java-sample",
 		"/home/julien/work/projects/akka-sample-cluster-scala",
 		"/home/julien/work/projects/spark-parquet-example",
@@ -88,7 +109,6 @@
 		"/home/julien/work/formations/tp-scala",
 		"/home/julien/work/projects/test-kafka-realtime",
 		"/home/julien/work/projects/kafka-websocket",
-		"/home/julien/work/projects/mailer-api",
 		"/home/julien/work/perso/zen/nanterre-mediation-v2/app",
 		"/home/julien/work/projects/testlog/a",
 		"/home/julien/work/projects/weather-api/target/universal",
@@ -108,34 +128,14 @@
 		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.10.4-spark-1.4.0-hadoop-2.6.0",
 		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.11.2-spark-1.4.0-hadoop-2.7.0",
 		"/home/julien/work/projects/server-manager-dev",
-		"/home/julien/work/perso/play-actor-realtime",
-		"/home/julien/work/perso/activator-akka-stream-scala",
-		"/home/julien/work/projects/bidrequest-tester",
-		"/home/julien/work/perso/playframework",
-		"/home/julien/work/perso/rsu-nanterre",
-		"/home/julien/work/perso/validation",
-		"/home/julien/work/perso/scala-best-practices",
-		"/home/julien/work/projects/test-play24",
-		"/home/julien/work/projects/play2-skeleton",
-		"/home/julien/Téléchargements/init-1.4.0",
-		"/home/julien/work/projects/bidder",
-		"/home/julien/work/projects/dashboard/tabmo_dev_dashboard",
-		"/home/julien/work/projects/site-tabmo",
-		"/home/julien/bin/aws",
-		"/home/julien/work/projects/angular-hy-res",
-		"/home/julien/work/projects/scaerospike",
-		"/home/julien/Téléchargements/activator-1.3.2-minimal/helloword",
-		"/home/julien/work/projects/manager-doc",
-		"/home/julien/exercism/scala/word-count",
-		"/home/julien/exercism/scala/word-count/src/main/scala",
-		"/home/julien/exercism/scala/hamming"
+		"/home/julien/work/perso/play-actor-realtime"
 	],
 	"last_version": 3103,
-	"last_window_id": 425,
+	"last_window_id": 475,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 424.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -300,6 +300,40 @@
 			},
 			"file_history":
 			[
+				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
+				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
+				"/home/julien/Téléchargements/routes.csv",
+				"/home/julien/Bureau/line10-fe2",
+				"/home/julien/Bureau/pbm3.csv",
+				"/home/julien/Bureau/pbm2",
+				"/home/julien/Downloads/pfff.csv",
+				"/home/julien/Bureau/pbm1.csv",
+				"/home/julien/Bureau/line9.csv",
+				"/home/julien/Bureau/line8.csv",
+				"/home/julien/Bureau/line7.csv",
+				"/home/julien/Bureau/line6.csv",
+				"/home/julien/Bureau/line4.csv",
+				"/home/julien/Bureau/line3.csv",
+				"/home/julien/Bureau/line2",
+				"/home/julien/Bureau/line.csv",
+				"/home/julien/work/projects/druid-tooling/killalltask.sh",
+				"/home/julien/work/projects/druid-tooling/kill-task.sh",
+				"/home/julien/work/projects/druid-tooling/druid-env.sh",
+				"/home/julien/work/projects/druid-tooling/updateLookups.sh",
+				"/home/julien/work/projects/druid-tooling/toggle-middlemanager.sh",
+				"/home/julien/work/projects/druid-tooling/shutdown-task.sh",
+				"/home/julien/work/projects/druid-tooling/lookupsListKeys.sh",
+				"/home/julien/work/projects/druid-tooling/listenLookups.sh",
+				"/home/julien/work/projects/druid-tooling/list-tasks.sh",
+				"/home/julien/test/build.sbt",
+				"/home/julien/Téléchargements/GEODATASOURCE-CITIES-FREE.TXT/GEODATASOURCE-CITIES-FREE.TXT",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-10",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-09",
+				"/home/julien/work/perso/anonymisation-json/1000.1476614033052.anon.json",
+				"/home/julien/work/perso/anonymisation-json/1000.anon.json",
+				"/home/julien/work/perso/anonymisation-json/s",
+				"/home/julien/Documents/versions-os.txt",
+				"/home/julien/Documents/adsquare.txt",
 				"/home/julien/work/projects/experiments-deviceid/src/main/scala/CountingBloomFilter.scala",
 				"/home/julien/Documents/nouvelle-plateforme.sh",
 				"/home/julien/Documents/bloomfilters-1.2M.txt",
@@ -309,7 +343,6 @@
 				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/UnitTest.scala",
 				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/TennisGameSpec.scala",
 				"/home/julien/Téléchargements/avito/out2.csv",
-				"/home/julien/Documents/adsquare.txt",
 				"/home/julien/.cache/.fr-qZ7cDp/VAST_2_0_1_Schema/vast_2.0.1.xsd",
 				"/home/julien/Documents/INSTALL_Anastasia_test_server.sh",
 				"/home/julien/Documents/analyse-build-jenkins/DEV-light",
@@ -394,44 +427,11 @@
 				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
 				"/home/julien/work/projects/middleware-api/build.sbt",
 				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js"
+				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -458,9 +458,88 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
+					"genericPattern",
+					"exclude",
+					")))",
+					"protected ",
+					"spent",
+					"imp",
+					"spent",
+					"imp",
+					"\\)\\)\\),",
+					"))),",
+					"5",
+					" stats",
+					" order",
+					" /",
+					" order",
+					"order",
+					" /",
+					"        \n",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					" |",
+					"| ",
+					" | ",
+					",",
+					" |",
+					"| ",
+					" | ",
+					" ",
+					"|",
+					"Fukushima",
+					"Tōkyō",
+					"Khorāsān",
+					"RU",
+					"UR ",
+					"UR",
+					"RU",
+					"Wadi",
+					"Ryadh",
+					"Ryad",
+					"      ",
+					"media-upload-api",
+					"-:-",
+					"'",
+					" / ",
+					"/",
+					"Cannot reparse order json",
+					"Score! Hero",
+					"Tubify",
+					"Independent",
+					"include",
+					"ua",
+					"exchange",
+					"\"c1f43b9a-e328-4f49-ab29-c0f3ed9d9f4f\" | ",
+					"%s",
+					"logger.",
+					"&&",
+					"||",
+					"lat",
+					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
+					" /",
+					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
 					"dsp",
 					"Check false Positive",
 					"Check false positive >",
@@ -509,86 +588,7 @@
 					"([a-zA-z0-9]*): (.*),",
 					"\\",
 					", ",
-					"Name: ",
-					"Code: ",
-					"Number Needed: ",
-					"   ",
-					"      ",
-					"R",
-					"\"1.1\"",
-					"\"0.10.0\"",
-					"remote",
-					"core.",
-					"NonEmptyList",
-					"mua",
-					"aerospi",
-					"d4351c9f-e376-4085-a24c-d7835a94cafb",
-					"2015",
-					"targetService",
-					"  $",
-					"getKafkaIps",
-					"APP_NA",
-					"OWNTER",
-					"href=",
-					"tags",
-					"usertag",
-					"\"",
-					"-H 'Origin: http://localhost:9000' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4' -H 'X-Organization-Id: b2440a98-1c0f-404c-b071-b69722c9e1e0' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36' -H 'Accept: application/json, text/plain, */*' -H 'Referer: http://localhost:9000/'",
-					"manager-api",
-					"\"(.*)\" -> \"(.*)\",",
-					"=>",
-					"\\\"",
-					"'",
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img"
+					"Name: "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -596,6 +596,54 @@
 				"regex": false,
 				"replace_history":
 				[
+					"L)))",
+					"\"spent\"",
+					"\"imp\"",
+					"))),\\n",
+					";stats",
+					";order",
+					";/",
+					",order",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					";",
+					"",
+					",",
+					"",
+					",",
+					"\n",
+					"",
+					"\\n",
+					"mailer-api",
+					"invoicing-api",
+					"-%3A-",
+					"\\'",
+					"', '",
+					"",
+					"and",
+					"or",
+					"-H \"X-Auth-Token: $token\"",
 					"Check false positive",
 					"Check false negative >",
 					"Check false Positive >",
@@ -659,7 +707,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -673,7 +721,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -797,7 +845,7 @@
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -831,21 +879,68 @@
 			"buffers":
 			[
 				{
-					"contents": "d8771446606933859fd6de6cd1caf3dd\n\nhttp://www.apilayer.net/api/live?access_key=d8771446606933859fd6de6cd1caf3dd&date=2016-07-24&currencies=USD,GBP,EUR",
+					"contents": "il faudrait une config dynamique pour le \"max-open-requests\" par hote non ? quelque chose comme [nombre-requestes-serveurs-http ] / [nombre de routeurs]\n\n/usr/lib/java/bin/java -Xms3g -Xmx6g -Daccess-key=\"05cdab77-1b37-457a-b3ad-0a98e8f3402f\" -cp /home/ubuntu/enrichment-api-server-1.0.62-all.jar com.adsquare.enrichment.ApiServer\n\n\n/usr/lib/java/bin/java -Xms3g -Xmx6g -Daccess-key=\"05cdab77-1b37-457a-b3ad-0a98e8f3402f\" -cp /home/ubuntu/enrichment-api-server-1.0.62-all.jar com.adsquare.enrichment.ApiServer",
 					"settings":
 					{
-						"buffer_size": 149,
+						"buffer_size": 509,
 						"line_ending": "Unix",
-						"name": "d8771446606933859fd6de6cd1caf3dd"
+						"name": "il faudrait une config dynamique pour le \"max-open"
 					}
 				},
 				{
-					"contents": "Configuration Intellij\n\nEditor > Code Style > Scala (onglet Import)\n\nImport Layout\nscala\njava\n_____ blank line _____\nplay\ncom\nnet\norg\nakka\ncirce\nslick\nio.tabmo\njto\n____ blank line ____\nall other imports\nentities\n\nImports always marked as used\nplay.api.data.mapping.json.Rules._\nplay.api.data.mapping.json.Writes._\nplay.api.libs.concurrent.Execution.Implicits._\nplay.api.libs.concurrent.Execution.Implicits.defaultContext\n\nEditor > General > Auto Import\n\nExclude from Import and Completion\nakka.http.javadsl\ncom.fasterxml.jackson\njava.awt\ncom.sum\njava.util.UUID\njava.util.concurrent\njavax.swing\nplay.Application\nplay.Configuration\nplay.GLobalSettings\nplay.Logger\nplay.Plugin\nplay.Routes\nplay.cache\nplay.data\nplay.db\nplay.filters\nplay.i18n\nplay.libs\nplay.mvc\nplay.server\nplay.test\nscala.parallel.Future\nscala.slick.util.Logging\nscalaz.concurrent.Future\ntypex.services.UUID\n\n",
+					"file": "/home/julien/Documents/Tabmo/debug.html",
 					"settings":
 					{
-						"buffer_size": 872,
-						"line_ending": "Unix",
-						"name": "Configuration Intellij"
+						"buffer_size": 2679,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/Documents/Tabmo/adsquare.txt",
+					"settings":
+					{
+						"buffer_size": 9451,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/.config/.alias",
+					"settings":
+					{
+						"buffer_size": 2263,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nINSERT INTO creatives_sizes VALUES ('17aba06c-f2fd-44b1-b629-78955cd6cc50', 320, 100, 'creative.size.smartphone.large-banner', 'smartphone');",
+					"settings":
+					{
+						"buffer_size": 142,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/tools/.sqlmanager",
+					"settings":
+					{
+						"buffer_size": 432,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/Documents/INSTALLATION.txt~",
+					"settings":
+					{
+						"buffer_size": 3621,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/perso/dotfiles/sync.sh",
+					"settings":
+					{
+						"buffer_size": 865,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -986,6 +1081,40 @@
 			},
 			"file_history":
 			[
+				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
+				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
+				"/home/julien/Téléchargements/routes.csv",
+				"/home/julien/Bureau/line10-fe2",
+				"/home/julien/Bureau/pbm3.csv",
+				"/home/julien/Bureau/pbm2",
+				"/home/julien/Downloads/pfff.csv",
+				"/home/julien/Bureau/pbm1.csv",
+				"/home/julien/Bureau/line9.csv",
+				"/home/julien/Bureau/line8.csv",
+				"/home/julien/Bureau/line7.csv",
+				"/home/julien/Bureau/line6.csv",
+				"/home/julien/Bureau/line4.csv",
+				"/home/julien/Bureau/line3.csv",
+				"/home/julien/Bureau/line2",
+				"/home/julien/Bureau/line.csv",
+				"/home/julien/work/projects/druid-tooling/killalltask.sh",
+				"/home/julien/work/projects/druid-tooling/kill-task.sh",
+				"/home/julien/work/projects/druid-tooling/druid-env.sh",
+				"/home/julien/work/projects/druid-tooling/updateLookups.sh",
+				"/home/julien/work/projects/druid-tooling/toggle-middlemanager.sh",
+				"/home/julien/work/projects/druid-tooling/shutdown-task.sh",
+				"/home/julien/work/projects/druid-tooling/lookupsListKeys.sh",
+				"/home/julien/work/projects/druid-tooling/listenLookups.sh",
+				"/home/julien/work/projects/druid-tooling/list-tasks.sh",
+				"/home/julien/test/build.sbt",
+				"/home/julien/Téléchargements/GEODATASOURCE-CITIES-FREE.TXT/GEODATASOURCE-CITIES-FREE.TXT",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-10",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-09",
+				"/home/julien/work/perso/anonymisation-json/1000.1476614033052.anon.json",
+				"/home/julien/work/perso/anonymisation-json/1000.anon.json",
+				"/home/julien/work/perso/anonymisation-json/s",
+				"/home/julien/Documents/versions-os.txt",
+				"/home/julien/Documents/adsquare.txt",
 				"/home/julien/work/projects/experiments-deviceid/src/main/scala/CountingBloomFilter.scala",
 				"/home/julien/Documents/nouvelle-plateforme.sh",
 				"/home/julien/Documents/bloomfilters-1.2M.txt",
@@ -995,7 +1124,6 @@
 				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/UnitTest.scala",
 				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/TennisGameSpec.scala",
 				"/home/julien/Téléchargements/avito/out2.csv",
-				"/home/julien/Documents/adsquare.txt",
 				"/home/julien/.cache/.fr-qZ7cDp/VAST_2_0_1_Schema/vast_2.0.1.xsd",
 				"/home/julien/Documents/INSTALL_Anastasia_test_server.sh",
 				"/home/julien/Documents/analyse-build-jenkins/DEV-light",
@@ -1080,44 +1208,11 @@
 				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
 				"/home/julien/work/projects/middleware-api/build.sbt",
 				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala",
-				"/home/julien/Documents/scénario.txt",
-				"/home/julien/work/projects/manager-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/dataprovider-connector-api/doc/publish_doc.sh",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.states.js",
-				"/home/julien/work/projects/manager-front/app/scripts/pages/Controllers.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Directives.js",
-				"/home/julien/work/projects/manager-front/app/scripts/shared/Services.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/Editable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/table/ngGrid.js",
-				"/home/julien/work/projects/manager-front/app/scripts/task/Tasks.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/overrides.js",
-				"/home/julien/work/projects/manager-front/app/views/lines/line.new.html",
-				"/home/julien/work/projects/manager-front/app/scripts/lines/lines.new.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/GoogleMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/maps/VectorMaps.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.list.stats.js",
-				"/home/julien/work/projects/manager-front/app/scripts/orders/orders.new.js",
-				"/home/julien/Téléchargements/out.csv",
-				"/home/julien/work/projects/manager-front/Gruntfile.js",
-				"/home/julien/work/projects/manager-front/app/scripts/templates/templates.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Alerts.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Carousel.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Modals.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Nestable.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Paginations.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Progressbars.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Ratings.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Sliders.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tabs.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-components/Tiles.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Panels.js",
-				"/home/julien/work/projects/manager-front/app/scripts/ui-elements/Tables.js"
+				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -1144,9 +1239,88 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
+					"genericPattern",
+					"exclude",
+					")))",
+					"protected ",
+					"spent",
+					"imp",
+					"spent",
+					"imp",
+					"\\)\\)\\),",
+					"))),",
+					"5",
+					" stats",
+					" order",
+					" /",
+					" order",
+					"order",
+					" /",
+					"        \n",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					" |",
+					"| ",
+					" | ",
+					",",
+					" |",
+					"| ",
+					" | ",
+					" ",
+					"|",
+					"Fukushima",
+					"Tōkyō",
+					"Khorāsān",
+					"RU",
+					"UR ",
+					"UR",
+					"RU",
+					"Wadi",
+					"Ryadh",
+					"Ryad",
+					"      ",
+					"media-upload-api",
+					"-:-",
+					"'",
+					" / ",
+					"/",
+					"Cannot reparse order json",
+					"Score! Hero",
+					"Tubify",
+					"Independent",
+					"include",
+					"ua",
+					"exchange",
+					"\"c1f43b9a-e328-4f49-ab29-c0f3ed9d9f4f\" | ",
+					"%s",
+					"logger.",
+					"&&",
+					"||",
+					"lat",
+					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
+					" /",
+					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
 					"dsp",
 					"Check false Positive",
 					"Check false positive >",
@@ -1195,86 +1369,7 @@
 					"([a-zA-z0-9]*): (.*),",
 					"\\",
 					", ",
-					"Name: ",
-					"Code: ",
-					"Number Needed: ",
-					"   ",
-					"      ",
-					"R",
-					"\"1.1\"",
-					"\"0.10.0\"",
-					"remote",
-					"core.",
-					"NonEmptyList",
-					"mua",
-					"aerospi",
-					"d4351c9f-e376-4085-a24c-d7835a94cafb",
-					"2015",
-					"targetService",
-					"  $",
-					"getKafkaIps",
-					"APP_NA",
-					"OWNTER",
-					"href=",
-					"tags",
-					"usertag",
-					"\"",
-					"-H 'Origin: http://localhost:9000' -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4' -H 'X-Organization-Id: b2440a98-1c0f-404c-b071-b69722c9e1e0' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36' -H 'Accept: application/json, text/plain, */*' -H 'Referer: http://localhost:9000/'",
-					"manager-api",
-					"\"(.*)\" -> \"(.*)\",",
-					"=>",
-					"\\\"",
-					"'",
-					"3ece4b0e",
-					"3e",
-					"jdbc:",
-					"\n  /* ... new cell ... */\n",
-					"\"geo\"",
-					"city",
-					"com.ni",
-					"play-",
-					"profile",
-					"deps",
-					"\\\"",
-					"&quot;\"",
-					"\"3D&quot;",
-					"\\n",
-					"name",
-					"jumbotron",
-					"90",
-					"fromConfig",
-					"aws",
-					"zip",
-					"node",
-					"karma",
-					"-o",
-					"Chart.js",
-					"char",
-					"Chart.js",
-					"Chart",
-					"env",
-					"ugl",
-					"ugly",
-					"fontawesome-webfont.woff2",
-					"font",
-					"ugly",
-					"$scope.layoutHorizontal = newVal;",
-					"uglify",
-					"scripts",
-					"vendor",
-					"concat",
-					"map",
-					"$scope.layoutHorizontal = newVal",
-					"$scope.layoutHorizontal=newVal",
-					"dash",
-					"tabmo",
-					"concurrent",
-					"less",
-					"copy",
-					"console.log",
-					"creatives.updated",
-					"OrderViewController",
-					"default-initials-img"
+					"Name: "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1282,6 +1377,54 @@
 				"regex": false,
 				"replace_history":
 				[
+					"L)))",
+					"\"spent\"",
+					"\"imp\"",
+					"))),\\n",
+					";stats",
+					";order",
+					";/",
+					",order",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					";",
+					"",
+					",",
+					"",
+					",",
+					"\n",
+					"",
+					"\\n",
+					"mailer-api",
+					"invoicing-api",
+					"-%3A-",
+					"\\'",
+					"', '",
+					"",
+					"and",
+					"or",
+					"-H \"X-Auth-Token: $token\"",
 					"Check false positive",
 					"Check false negative >",
 					"Check false Positive >",
@@ -1346,7 +1489,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 7,
 					"sheets":
 					[
 						{
@@ -1354,20 +1497,20 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 149,
+								"buffer_size": 509,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										34,
-										34
+										509,
+										509
 									]
 								],
 								"settings":
 								{
-									"auto_name": "d8771446606933859fd6de6cd1caf3dd",
+									"auto_name": "il faudrait une config dynamique pour le \"max-open",
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -1386,61 +1529,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content"
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -1448,15 +1591,16 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/home/julien/Documents/Tabmo/debug.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 872,
+								"buffer_size": 2679,
 								"regions":
 								{
 								},
@@ -1464,12 +1608,130 @@
 								[
 									[
 										0,
-										872
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "Configuration Intellij",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												14,
+												15
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/angle_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/julien/Documents/Tabmo/adsquare.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9451,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6797,
+										6797
+									]
+								],
+								"settings":
+								{
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -1488,56 +1750,466 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3441.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/julien/.config/.alias",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2263,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2263,
+										2263
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 685.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 142,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/julien/work/tools/.sqlmanager",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 432,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11,
+										11
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/julien/Documents/INSTALLATION.txt~",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3621,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2943,
+										2943
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -1547,7 +2219,109 @@
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 89.0,
+								"translation.y": 1320.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/julien/work/perso/dotfiles/sync.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 865,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										358,
+										358
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1558,7 +2332,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1592,11 +2366,11 @@
 				"height": 225.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,2719,211,3359,635,5760,1080",
+			"position": "0,1,0,0,0,4186,265,4826,773,5760,1103",
 			"project": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1723,7 +2497,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 415,
+			"window_id": 471,
 			"workspace_name": ""
 		}
 	],
