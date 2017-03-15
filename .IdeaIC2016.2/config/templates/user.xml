@@ -1,5 +1,0 @@
-<templateSet group="user">
-  <template name="&lt;abbreviation&gt;" value="import play.api.libs.concurrent.play.api.libs.concurrent.Execution.play.api.libs.concurrent.Execution.Implicits._&#10;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-</templateSet>
