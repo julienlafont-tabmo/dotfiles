@@ -130,7 +130,7 @@
 		"/home/julien/work/projects/server-manager-dev",
 		"/home/julien/work/perso/play-actor-realtime"
 	],
-	"last_version": 3103,
+	"last_version": 3126,
 	"last_window_id": 475,
 	"log_indexing": false,
 	"settings":
@@ -300,6 +300,15 @@
 			},
 			"file_history":
 			[
+				"/home/julien/Documents/Tabmo/debug.html",
+				"/home/julien/Documents/Tabmo/adsquare.txt",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/tools/.sqlmanager",
+				"/home/julien/Documents/INSTALLATION.txt~",
+				"/home/julien/work/projects/manager-api/doc/README.md",
+				"/home/julien/.bashrc",
+				"/home/julien/.bash_profile",
+				"/home/julien/work/perso/dotfiles/sync.sh",
 				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
 				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
 				"/home/julien/Téléchargements/routes.csv",
@@ -418,16 +427,7 @@
 				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
 				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
 				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala"
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf"
 			],
 			"find":
 			{
@@ -1013,6 +1013,15 @@
 			},
 			"file_history":
 			[
+				"/home/julien/Documents/Tabmo/debug.html",
+				"/home/julien/Documents/Tabmo/adsquare.txt",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/tools/.sqlmanager",
+				"/home/julien/Documents/INSTALLATION.txt~",
+				"/home/julien/work/projects/manager-api/doc/README.md",
+				"/home/julien/.bashrc",
+				"/home/julien/.bash_profile",
+				"/home/julien/work/perso/dotfiles/sync.sh",
 				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
 				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
 				"/home/julien/Téléchargements/routes.csv",
@@ -1131,16 +1140,7 @@
 				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
 				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
 				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/parameters.conf",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/init_app.sh",
-				"/home/julien/work/projects/middleware-api/app/controllers/Application.scala",
-				"/home/julien/Documents/INSTALLATION.txt",
-				"/home/julien/work/projects/aws-deploy/applications/tracker/resources/upstart.conf",
-				"/home/julien/work/projects/middleware-api/build.sbt",
-				"/home/julien/work/projects/middleware-api/conf/application.prod.conf",
-				"/home/julien/work/projects/middleware-api/app/models/AerospikeAppConfig.scala"
+				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf"
 			],
 			"find":
 			{
@@ -1454,7 +1454,7 @@
 				"height": 225.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"position": "0,1,0,0,0,0,0,0,0,5760,1103",
 			"replace":
 			{
 				"height": 56.0

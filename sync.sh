@@ -1,13 +1,11 @@
 #!/bin/bash
 
 cp -R ~/.bashrc .
-cp -R ~/.profile .
 cp -R ~/.gitconfig .
 
-mkdir -p .config/fish
 cp -R ~/.config/.alias .config/.alias
 cp -R ~/.config/monitors.xml .config/monitors.xml
-cp -R ~/.config/fish/config.fish .config/fish/config.fish
+cp -R ~/.config/fish .config
 
 cp -R ~/.config/sublime-text-3 .config/
 cp -R ~/.config/terminator .config/
