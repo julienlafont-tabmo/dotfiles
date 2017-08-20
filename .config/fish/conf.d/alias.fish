@@ -1,0 +1,47 @@
+# GIT
+alias ga 'git add'
+alias gd 'git diff'
+alias gdc 'git diff'
+alias got x'git '
+
+# SSH
+alias sshperso='ssh julien@78.194.248.198 -p 2343'
+
+# Util
+alias alias-reload='source ~/.config/.alias'
+alias list-branches='for ref in (git for-each-ref --sort=-committerdate --format="%(refname)" refs/heads/ refs/remotes ); git log -n1 $ref --pretty=format:"%Cgreen%cr%Creset %C(yellow)%d%Creset %C(bold blue)<%an>%Creset%n" | cat ; end | awk \'! a[$0]++\''
+
+# Docker
+#balias dcker-clean-images='docker images | awk \'{print "docker rmi -f "$3}\' | tail -n+2 | sh'
+#balias dcker-clean='docker rm (docker ps -a -q)'
+
+# Touchpad
+alias on='notify-send "Touchpad Actif"; synclient TouchpadOff=0'
+alias off='notify-send "Touchpad Désactivé"; synclient TouchpadOff=1'
+alias keyboardfix='ibus-daemon -rd'
+
+# RDS
+alias rds-tail='~/.golang/bin/rdstail --instance "tabmo-db-production" --region "eu-west-1" watch --rate 1s'
+alias rds-db-pool='psql -h pg-production -U adminprod manager -c \'SELECT count(*), datname, usename, application_name, client_addr FROM pg_stat_activity GROUP BY datname, usename, application_name, client_addr ORDER BY client_addr, datname, count;\''
+
+# Blink
+#alias police="/bin/bash -c 'while [ 1 ]; do blink1-tool --red --blink 1 --delay 300; blink1-tool --blue --blink 1 --delay 300; done;'"
+#alias alerte="blink1-tool --delay 100 --millis 50 --rgb FF0000 --blink 5"
+#alias dualfade="/bin/bash -c 'while [ 1 ]; do blink1-tool -l 1 -m 1000 -t 1000 --cyan; blink1-tool -l 2 -m 1000 -t 1000 --blue; sleep 1; blink1-tool -l 1 -m 1000 -t 1000 --blue; blink1-tool -l 2 -m 1000 -t 1000 --cyan; sleep 1; done;'"
+#alias arcenciel="blink1-tool --play 1"
+#alias police2="/bin/bash -c 'while [ 1 ]; do blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --red --blink 1 -m 100 -t 100; blink1-tool --blue --blink 1 -m 100 -t 100; blink1-tool --off; sleep 0.7; done;'"
+
+# Screens
+alias switch-external="/home/julien/.screenlayout/external.sh"
+alias switch-laptop="/home/julien/.screenlayout/laptop.sh"
+
+# PG
+alias pg-start="docker start mypostgres"
+alias pg-stop="docker stop mypostgres"
+alias pg-delete="docker rm -f mypostgres"
+alias pg-create="docker run -d --restart=always --name mypostgres --net host -v /home/julien/work/tools/.sqlmanager:/docker-entrypoint-initdb.d/init-user-db.sh postgres:9.6.2"
+
+function pg-reload
+	pg-delete;
+	pg-create;
+end

@@ -1,7 +1,7 @@
 [user]
     name = Julien Lafont
-    email = julien.lafont@tabmo.io
-#    email = yotsumi.fx@gmail.com
+#    email = julien.lafont@tabmo.io
+    email = yotsumi.fx@gmail.com
 [alias]
     s = status
     st = status
@@ -23,6 +23,7 @@
     mr = !sh -c 'git fetch origin merge-requests/$1/head:mr-origin-$1 && git checkout mr-origin-$1' -
     pullr = pull --rebase
     clean-branches = !git branch -d $(git branch --merged | grep -vw $(git rev-parse --abbrev-ref HEAD) | sed 's/^ *//')
+    cp = cherry-pick
 [color]
     branch = auto
     diff = always

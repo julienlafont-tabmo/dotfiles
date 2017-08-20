@@ -1,2 +1,4 @@
-nameserver 80.245.57.1
-nameserver 80.245.57.2
+nameserver 10.19.3.69
+nameserver 10.19.43.150
+nameserver consul-dns.tabmo.org
+nameserver 10.33.0.254

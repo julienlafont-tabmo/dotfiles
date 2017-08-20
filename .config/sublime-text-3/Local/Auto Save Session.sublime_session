@@ -1,9 +1,40 @@
 {
 	"folder_history":
 	[
-		"/home/julien/work/projects/manager-api",
+		"/home/julien/work/projects/test-retargeting-storage/src/main/scala",
 		"/home/julien/work/projects/devices-storage-api",
+		"/home/julien/work/perso/protoless/modules/testing",
+		"/home/julien/work/perso/pachyderm-mleap-demo",
+		"/home/julien/work/perso/protoless2/protoless",
+		"/home/julien/work/perso/sbt-microsites",
+		"/home/julien/work/projects/public-reporting-api",
+		"/home/julien/work/projects/Aeroless",
+		"/home/julien/work/projects/adx-connector",
+		"/home/julien/work/formations/tp-scala-basics",
+		"/home/julien/work/perso/protoless",
+		"/home/julien/work/projects/druid-scala-client",
+		"/home/julien/work/projects/bidder-rescue-neo",
+		"/home/julien/Téléchargements/project_RXp4KIHaToiUj8e3X8tV3g",
 		"/home/julien/work/projects/tracker",
+		"/home/julien/work/projects/tabmo-salt",
+		"/home/julien/work/projects/test-retargeting-storage",
+		"/home/julien/work/projects/experiments-deviceid",
+		"/home/julien/work/projects/geocoding-api",
+		"/home/julien/work/projects/manager-api",
+		"/home/julien/work/projects/prebid-augmenter",
+		"/home/julien/work/projects/bidder-doubleclick",
+		"/home/julien/work/projects/manager-front",
+		"/home/julien/work/projects/segment-api",
+		"/home/julien/work/formations/tech.io/scala-test-1/project1",
+		"/home/julien/work/projects/forecasting-api",
+		"/home/julien/work/projects/forecasting-api-old",
+		"/home/julien/work/projects/creative-api",
+		"/home/julien/work/projects/play-microservice-common",
+		"/home/julien/work/perso/slickless",
+		"/home/julien/work/perso/validation",
+		"/home/julien/work/projects/cockpit-api",
+		"/home/julien/work/hackday/quantum-chaos",
+		"/home/julien/work/projects/homework-candidates/Bookstore/server",
 		"/home/julien/work/projects/middleware-api",
 		"/home/julien/work/tests/sdf",
 		"/home/julien/work/formations/ctdi-play.g8",
@@ -12,8 +43,6 @@
 		"/home/julien/work/projects/tracker/src/main/resources",
 		"/home/julien/work/projects/spark-analytics",
 		"/home/julien/work/formations/qsd",
-		"/home/julien/work/formations/tp-scala-basics",
-		"/home/julien/work/projects/experiments-deviceid",
 		"/home/julien/work/tests/grpc-experiments",
 		"/home/julien/work/projects/experiment-sharding/export-ids-redis",
 		"/home/julien/work/projects/experiment-sharding/backup-redis-1",
@@ -25,11 +54,9 @@
 		"/home/julien/work/projects/media-upload-api",
 		"/home/julien/work/tests/grpc-scala-sample",
 		"/home/julien/work/tests/toto",
-		"/home/julien/work/projects/tabmo-salt",
 		"/home/julien/work/scalaio/reactive-system-master",
 		"/home/julien/work/scalaio/reactive-system-develop",
 		"/home/julien/work/projects/mailer-api",
-		"/home/julien/work/projects/cockpit-api",
 		"/home/julien/work/projects/aws-deploy",
 		"/home/julien/work/formations/pokemon-free-fight",
 		"/home/julien/work/projects/tabmo-stream-reco/events2druid",
@@ -74,7 +101,6 @@
 		"/home/julien/work/projects/realtime-stats",
 		"/home/julien/work/perso/play-iso",
 		"/home/julien/work/projects/slick",
-		"/home/julien/work/projects/play-microservice-common",
 		"/home/julien/work/projects/play-slick",
 		"/home/julien/work/projects/invoicing-api/doc",
 		"/home/julien/work/projects/tabmo-stream-reco",
@@ -86,7 +112,6 @@
 		"/home/julien/work/projects/jawn/benchmark",
 		"/home/julien/work/projects/json-benchmark/src",
 		"/home/julien/work/tests/actors",
-		"/home/julien/work/projects/manager-front",
 		"/home/julien/Téléchargements/auth0-angular-sample",
 		"/home/julien/work/perso/testiso/play-iso-example",
 		"/home/julien/work/projects/akka/test1",
@@ -103,39 +128,14 @@
 		"/home/julien/work/perso/mocky",
 		"/home/julien/work/projects/adsquare-analyser",
 		"/home/julien/work/projects/aws-ssh-config",
-		"/home/julien/work/projects/aws-deploy/applications",
-		"/home/julien/work/projects/rubicon-daily-report",
-		"/home/julien/work/formations/tp-scala-json",
-		"/home/julien/work/formations/tp-scala",
-		"/home/julien/work/projects/test-kafka-realtime",
-		"/home/julien/work/projects/kafka-websocket",
-		"/home/julien/work/perso/zen/nanterre-mediation-v2/app",
-		"/home/julien/work/projects/testlog/a",
-		"/home/julien/work/projects/weather-api/target/universal",
-		"/home/julien/work/perso/aerospikez",
-		"/home/julien/work/projects/weather-api",
-		"/home/julien/work/projects/dataprovider-weather-api",
-		"/home/julien/work/projects/benchmark-microservices/weather-api-spray",
-		"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4",
-		"/home/julien/work/projects/dataprovider-weather-api-akka",
-		"/home/julien/work/projects/dataprovider-weather-api-play",
-		"/home/julien/work/projects/dataprovider-weather-api-finagle",
-		"/home/julien/work/projects/dataprovider-connector-api",
-		"/home/julien/work/tests/testcompiledi",
-		"/home/julien/work/projects/tp-scala",
-		"/home/julien/work/scala-notebook",
-		"/home/julien/work/perso/spark-sample-project",
-		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.10.4-spark-1.4.0-hadoop-2.6.0",
-		"/home/julien/work/tools/spark-notebook-0.5.2-scala-2.11.2-spark-1.4.0-hadoop-2.7.0",
-		"/home/julien/work/projects/server-manager-dev",
-		"/home/julien/work/perso/play-actor-realtime"
+		"/home/julien/work/projects/aws-deploy/applications"
 	],
 	"last_version": 3126,
-	"last_window_id": 475,
+	"last_window_id": 538,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 508.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -170,10 +170,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "in",
+				"height": 332.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"in",
 						"Package Control: Install Package"
@@ -243,10 +251,6 @@
 						"AngularJS: Rebuild Search Index"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"list pa",
 						"Package Control: List Packages"
 					],
@@ -300,14 +304,71 @@
 			},
 			"file_history":
 			[
-				"/home/julien/Documents/Tabmo/debug.html",
+				"/home/julien/work/perso/protoless/build.sbt",
+				"/home/julien/work/perso/protoless/project/plugins.sbt",
+				"/home/julien/test.html",
+				"/home/julien/work/projects/manager-api/export_play_evolutions_local.sql",
+				"/home/julien/Téléchargements/test-druid/analyse-requetage-druid.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_backup_db_to_local.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_local.sh",
+				"/home/julien/Téléchargements/lidl (1) (autre copie).csv",
+				"/home/julien/Téléchargements/lidl (1).csv",
+				"/home/julien/Téléchargements/Dockerfile",
+				"/home/julien/Téléchargements/Lidl.txt",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/commons/java.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/prod.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/update-win-prediction.sh",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/tracker/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/creative-api/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/prod.sls",
+				"/home/julien/query.json",
+				"/home/julien/Téléchargements/export-referentials-as/appSiteListNameExchange.csv",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/logback.xml",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/application.conf",
+				"/home/julien/work/projects/prebid-augmenter/src/main/scala/io/tabmo/config/AppConfig.scala",
+				"/home/julien/work/projects/manager-api/1.sql",
+				"/home/julien/work/projects/manager-api/schema.sql",
+				"/home/julien/work/projects/manager-api/db.sql",
+				"/home/julien/query2.json",
+				"/home/julien/work/projects/manager-api/data",
+				"/home/julien/Téléchargements/test-size.txt",
+				"/home/julien/work/hackday/world-map-live/nodemcu-src/draft.txt",
+				"/home/julien/work/projects/druid-scala-client/src/test/scala/com/tapad/druid/client/NotExample.scala",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/cockpit-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/creative-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/Documents/error-pg-leak",
 				"/home/julien/Documents/Tabmo/adsquare.txt",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-10",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-12",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-10",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/DnaToolsSpec.scala",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/UnitTest.scala",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service-autoConfig.ts",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service.ts",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/build.sbt",
+				"/home/julien/.config/fish/conf.d/alias.fish",
+				"/home/julien/work/hackday/quantum-chaos/mqtt-alert-mock/main.go",
+				"/home/julien/.config/fish/config.fish",
+				"/home/julien/.profile",
+				"/home/julien/.bashrc",
+				"/home/julien/.bash_profile",
+				"/home/julien/Documents/Tabmo/Analyse Laboxy.txt",
+				"/home/julien/Bureau/comics.json",
+				"/home/julien/Documents/Tabmo/debug.html",
 				"/home/julien/.config/.alias",
 				"/home/julien/work/tools/.sqlmanager",
 				"/home/julien/Documents/INSTALLATION.txt~",
 				"/home/julien/work/projects/manager-api/doc/README.md",
-				"/home/julien/.bashrc",
-				"/home/julien/.bash_profile",
 				"/home/julien/work/perso/dotfiles/sync.sh",
 				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
 				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
@@ -370,68 +431,11 @@
 				"/home/julien/work/projects/manager-front/src/conf/env.js",
 				"/home/julien/Documents/TODO-maj-new-platform.txt",
 				"/home/julien/work/projects/jawn/benchmark/build.sbt",
-				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala",
-				"/home/julien/Téléchargements/20160111164528_optimization.csv",
-				"/home/julien/work/projects/play-microservice-common/build.sbt",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/bindable/package.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/RateLimitAction.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/HalWriteable.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/Hal.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/QueryStringFilter.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/ApiErrorWritable.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/models/error/ApiError.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/filters/RequestIdFilter.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/AuditableAction.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/JsonRulesBodyParser.scala",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources/production/application.ec2.conf",
-				"/home/julien/work/perso/testrust1/Cargo.toml",
-				"/home/julien/work/perso/testrust1/helloworld.rs",
-				"/home/julien/work/projects/adsquare-analyser/f1.txt",
-				"/home/julien/work/projects/rubicon-daily-report/build.sbt",
-				"/home/julien/work/projects/manager-api/build.sbt",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf"
+				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -461,6 +465,67 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"restric",
+					"res",
+					"restric",
+					"jifhq",
+					"restric",
+					"acat",
+					"ftClick_2631443",
+					"ftClick",
+					"https://events.tabmo.io/track/event?ev=click",
+					"\\n",
+					".::[",
+					"arra",
+					"|",
+					"| ",
+					"|",
+					"' ",
+					"| ",
+					"joloki",
+					"drilldown",
+					"AA",
+					",",
+					"\"",
+					"play_",
+					"IFA",
+					"f97f3e25-9183-479f-ac3b-98a77f2c05f3",
+					"iMusic",
+					"rubicon",
+					"lock",
+					"3f",
+					"EU",
+					"auctid",
+					"time",
+					"}",
+					"{",
+					"10386",
+					"10282",
+					"os",
+					"bundle",
+					"nativ",
+					"play_evolutions",
+					"play_evo",
+					"FROM play_evo",
+					",",
+					"in",
+					"settings",
+					"scalacVersion",
+					"aggregate",
+					"bintrayRepository",
+					"sonar",
+					"sona",
+					"son",
+					"license",
+					"lice",
+					"scalac",
+					"scalacVersion",
+					"2.12",
+					"play-json",
+					"2.6.0-m3",
+					"play-json",
+					"print",
+					"FROM",
 					"genericPattern",
 					"exclude",
 					")))",
@@ -527,75 +592,23 @@
 					"Cannot reparse order json",
 					"Score! Hero",
 					"Tubify",
-					"Independent",
-					"include",
-					"ua",
-					"exchange",
-					"\"c1f43b9a-e328-4f49-ab29-c0f3ed9d9f4f\" | ",
-					"%s",
-					"logger.",
-					"&&",
-					"||",
-					"lat",
-					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
-					" /",
-					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
-					"dsp",
-					"Check false Positive",
-					"Check false positive >",
-					"Check false negative >",
-					"5e7327d9",
-					"2ea0298e",
-					"\\\"",
-					"VideoClicks",
-					"\\n",
-					"бассейн",
-					"() ",
-					"spark",
-					"VideoClicks",
-					"Wrapper",
-					"weather-api",
-					"BACKUP_DIRECTORY",
-					"dataflow",
-					"{ /* compiled code */ }",
-					"access_log",
-					"X-Forwarded-For",
-					"X-FORWARDED-FOR",
-					"exprod",
-					"\\n\\n\\n",
-					"\\n\\n\\n\\n\\n\\n\\n",
-					"\\n\\n\\n\\n",
-					"^--(.*)\\n",
-					"^--(.*)",
-					"$--(.*)",
-					"Aix",
-					"\"FR\"",
-					"\\n",
-					"\"\\n",
-					"ecd9bab0-169a-48ee-8ca4-7ef4750d3e83",
-					"05e8d824-73fa-4487-9727-1cf8b8007ab4",
-					"5f871222-dbb9-49bc-aed8-7bd6e9097c81",
-					"2016-01",
-					"(.*) (.*) (.*)",
-					"avgt    3 ",
-					"avgt    3  ",
-					"[info] ",
-					"([a-zA-z0-9]*): ([^,]*),",
-					"  ",
-					"([a-zA-z0-9]*): ([^,]*),",
-					"([a-zA-z0-9]*): ([^,.*]),",
-					"([a-zA-z0-9]*): ([^,]),",
-					"([a-zA-z0-9]*): (.*),",
-					"\\",
-					", ",
-					"Name: "
+					"Independent"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"\n",
+					".::[slick.lifted.Rep[",
+					"",
+					" ';",
+					" ",
+					"",
+					"]",
+					"[",
+					"print_debug",
 					"L)))",
 					"\"spent\"",
 					"\"imp\"",
@@ -707,7 +720,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -721,7 +734,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -730,6 +743,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"java.sls",
+						"base/salt/tabmo/commons/java.sls"
+					],
+					[
+						"appcon",
+						"src/main/scala/io/tabmo/config/AppConfig.scala"
+					],
+					[
+						"ssp",
+						"modules/lists/app/lists/models/SSP.scala"
+					],
+					[
+						"schemas",
+						"modules/lib/entities/src/main/scala/entities/schemas/Schemas.scala"
+					],
+					[
+						"sche",
+						"modules/order-modules/order-impl/app/order/daos/ScheduleDAO.scala"
+					],
 					[
 						"apier",
 						"src/main/scala/models/error/ApiError.scala"
@@ -839,13 +872,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 321.0,
+			"side_bar_width": 436.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -879,58 +912,11 @@
 			"buffers":
 			[
 				{
-					"file": "/home/julien/.bashrc",
-					"settings":
-					{
-						"buffer_size": 3225,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"contents": "",
-					"file": "/home/julien/.bash_profile",
-					"file_size": 0,
-					"file_write_time": 131340537038242405,
 					"settings":
 					{
 						"buffer_size": 0,
-						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "# ~/.profile: executed by the command interpreter for login shells.\n# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login\n# exists.\n# see /usr/share/doc/bash/examples/startup-files for examples.\n# the files are located in the bash-doc package.\n\n# the default umask is set in /etc/profile; for setting the umask\n# for ssh logins, install and configure the libpam-umask package.\n#umask 022\n\n# if running bash\nif [ -n \"$BASH_VERSION\" ]; then\n    # include .bashrc if it exists\n    if [ -f \"$HOME/.bashrc\" ]; then\n\t. \"$HOME/.bashrc\"\n    fi\nfi\n\n# set PATH so it includes user's private bin if it exists\nif [ -d \"$HOME/bin\" ] ; then\n    PATH=\"$HOME/bin:$PATH\"\nfi\n\n\nPATH=\"$PATH:/home/julien/work/tools/nodejs/node-v0.12.0/bin\"\n\n\n# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.\nexport PATH=\"$PATH:$HOME/.rvm/bin\"\n\n[[ -s \"$HOME/.rvm/scripts/rvm\" ]] && source \"$HOME/.rvm/scripts/rvm\" # Load RVM into a shell session *as a function*\n",
-					"file": "/home/julien/.profile",
-					"file_size": 975,
-					"file_write_time": 131340536444004298,
-					"settings":
-					{
-						"buffer_size": 975,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "\n# Path to your oh-my-fish.\nset fish_path $HOME/.oh-my-fish\n\n# Path to your custom folder (default path is ~/.oh-my-fish/custom)\n#set fish_custom $HOME/dotfiles/oh-my-fish\n\n# Load oh-my-fish configuration.\n. $fish_path/oh-my-fish.fish\n\n# Theme\nTheme \"robbyrussell\"\n\n# Which plugins would you like to load? (plugins can be found in ~/.oh-my-fish/plugins/*)\n# Custom plugins may be added to ~/.oh-my-fish/custom/plugins/\nPlugin \"pbcopy\"\nPlugin \"theme\"\nPlugin \"balias\"\nPlugin \"jump\"\n\neval (python -m virtualfish auto_activation compat_aliases)\n\nset -x JAVA_OPTS \"-Xms1g -Xmx3g\"\n\nset PATH $PATH /home/julien/bin\n#set PATH $PATH /home/julien/bin/aws\nset PATH $PATH /home/julien/work/tools/nodejs/node-v0.12.0/bin\nset PATH $PATH /home/julien/work/projects/tabmo-tools\nset PATH $PATH /home/julien/work/tools/wkhtmltox/bin\nset PATH $PATH /home/julien/work/projects/tabmo-tools\n\n# Load custom aliases\nsource ~/.config/.alias\n\n# Configure touchpad\nsynclient PalmDetect=1 TapButton1=0\n\n# GO\n#set GOROOT /home/julien/work/tools/golang/current\n#set PATH $PATH $GOROOT/bin\n\nset -x TABMO_PROJECTS /home/julien/work/projects\nset -x EDITOR /usr/bin/nano\nset -x JAVA_HOME /usr/lib/jvm/java-8-oracle\nset -x M2_HOME /usr/local/apache-maven-3.3.3\n",
-					"file": "/home/julien/.config/fish/config.fish",
-					"file_size": 1226,
-					"file_write_time": 131340536418244381,
-					"settings":
-					{
-						"buffer_size": 1226,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/julien/Bureau/comics.json",
-					"settings":
-					{
-						"buffer_size": 309648,
-						"encoding": "UTF-8",
-						"line_ending": "Unix",
-						"name": "{\"code\":200,\"status\":\"Ok\",\"copyright\":\"© 2017 MARV"
 					}
 				}
 			],
@@ -941,10 +927,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "in",
+				"height": 332.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"in",
 						"Package Control: Install Package"
@@ -1014,10 +1008,6 @@
 						"AngularJS: Rebuild Search Index"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"list pa",
 						"Package Control: List Packages"
 					],
@@ -1071,14 +1061,71 @@
 			},
 			"file_history":
 			[
-				"/home/julien/Documents/Tabmo/debug.html",
+				"/home/julien/work/perso/protoless/build.sbt",
+				"/home/julien/work/perso/protoless/project/plugins.sbt",
+				"/home/julien/test.html",
+				"/home/julien/work/projects/manager-api/export_play_evolutions_local.sql",
+				"/home/julien/Téléchargements/test-druid/analyse-requetage-druid.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_backup_db_to_local.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_local.sh",
+				"/home/julien/Téléchargements/lidl (1) (autre copie).csv",
+				"/home/julien/Téléchargements/lidl (1).csv",
+				"/home/julien/Téléchargements/Dockerfile",
+				"/home/julien/Téléchargements/Lidl.txt",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/commons/java.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/prod.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/update-win-prediction.sh",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/tracker/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/creative-api/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/prod.sls",
+				"/home/julien/query.json",
+				"/home/julien/Téléchargements/export-referentials-as/appSiteListNameExchange.csv",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/logback.xml",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/application.conf",
+				"/home/julien/work/projects/prebid-augmenter/src/main/scala/io/tabmo/config/AppConfig.scala",
+				"/home/julien/work/projects/manager-api/1.sql",
+				"/home/julien/work/projects/manager-api/schema.sql",
+				"/home/julien/work/projects/manager-api/db.sql",
+				"/home/julien/query2.json",
+				"/home/julien/work/projects/manager-api/data",
+				"/home/julien/Téléchargements/test-size.txt",
+				"/home/julien/work/hackday/world-map-live/nodemcu-src/draft.txt",
+				"/home/julien/work/projects/druid-scala-client/src/test/scala/com/tapad/druid/client/NotExample.scala",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/cockpit-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/creative-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/Documents/error-pg-leak",
 				"/home/julien/Documents/Tabmo/adsquare.txt",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-10",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-12",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-10",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/DnaToolsSpec.scala",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/UnitTest.scala",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service-autoConfig.ts",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service.ts",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/build.sbt",
+				"/home/julien/.config/fish/conf.d/alias.fish",
+				"/home/julien/work/hackday/quantum-chaos/mqtt-alert-mock/main.go",
+				"/home/julien/.config/fish/config.fish",
+				"/home/julien/.profile",
+				"/home/julien/.bashrc",
+				"/home/julien/.bash_profile",
+				"/home/julien/Documents/Tabmo/Analyse Laboxy.txt",
+				"/home/julien/Bureau/comics.json",
+				"/home/julien/Documents/Tabmo/debug.html",
 				"/home/julien/.config/.alias",
 				"/home/julien/work/tools/.sqlmanager",
 				"/home/julien/Documents/INSTALLATION.txt~",
 				"/home/julien/work/projects/manager-api/doc/README.md",
-				"/home/julien/.bashrc",
-				"/home/julien/.bash_profile",
 				"/home/julien/work/perso/dotfiles/sync.sh",
 				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
 				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
@@ -1141,68 +1188,11 @@
 				"/home/julien/work/projects/manager-front/src/conf/env.js",
 				"/home/julien/Documents/TODO-maj-new-platform.txt",
 				"/home/julien/work/projects/jawn/benchmark/build.sbt",
-				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala",
-				"/home/julien/Téléchargements/20160111164528_optimization.csv",
-				"/home/julien/work/projects/play-microservice-common/build.sbt",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/bindable/package.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/RateLimitAction.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/HalWriteable.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/http/hal/Hal.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/QueryStringFilter.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/ApiErrorWritable.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/utils/IP",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/models/error/ApiError.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/filters/RequestIdFilter.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/AuditableAction.scala",
-				"/home/julien/work/projects/play-microservice-common/src/main/scala/controllers/core/JsonRulesBodyParser.scala",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/resources/production/application.ec2.conf",
-				"/home/julien/work/perso/testrust1/Cargo.toml",
-				"/home/julien/work/perso/testrust1/helloworld.rs",
-				"/home/julien/work/projects/adsquare-analyser/f1.txt",
-				"/home/julien/work/projects/rubicon-daily-report/build.sbt",
-				"/home/julien/work/projects/manager-api/build.sbt",
-				"/home/julien/work/projects/aws-deploy/applications/middleware-api/resources/logger.xml",
-				"/home/julien/work/projects/ovh-server/autodeploy/manager-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/mailing.dev.tabmo.net",
-				"/home/julien/work/projects/mailer-api/build.sbt",
-				"/home/julien/work/projects/ovh-server/autodeploy/mailer-api.sh",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/sirius.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/nginx/sites-available/weather-api.tabmo.net",
-				"/home/julien/work/projects/ovh-server/etc/init/manager-api.conf",
-				"/home/julien/work/projects/manager-front/bower.json",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/build.sbt",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-akkahttp/src/main/scala/AkkaHttpMicroservice.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-finagle/src/main/scala/dataprovider/service/WeatherService.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-spray/src/main/scala/com/example/Boot.scala",
-				"/home/julien/work/projects/benchmark-microservices/weather-api-play2.4/app/controllers/Application.scala",
-				"/home/julien/work/projects/benchmark-microservices/README.md",
-				"/home/julien/work/projects/mailer-api/project/Dependencies.scala",
-				"/home/julien/work/perso/spark-sample-project/conf/log4j.properties",
-				"/home/julien/work/perso/spark-sample-project/src/main/scala/Example.scala",
-				"/home/julien/work/perso/spark-sample-project/src/main/resources/log4j.properties",
-				"/home/julien/Téléchargements/Untitled1.snb",
-				"/home/julien/Bureau/neworder.json",
-				"/home/julien/work/projects/tabmo-tools/aws_ssh",
-				"/home/julien/work/projects/ovh-server/etc/init/mailer-api.conf",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/nginx/sites-available/doc-manager-api.dev.tabmo.net",
-				"/home/julien/work/projects/ovh-server/new-app.sh",
-				"/home/julien/Documents/Installation propre.txt",
-				"/home/julien/Documents/new-app.sh",
-				"/home/julien/work/perso/scadashboard/README.md",
-				"/home/julien/work/projects/manager-front/app/conf/env.js",
-				"/home/julien/work/projects/aws-deploy/applications/manager/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/manager/resources/sirius.tabmo.io",
-				"/home/julien/work/projects/aws-deploy/applications/manager-api/init_app.sh",
-				"/home/julien/work/projects/aws-deploy/applications/mailer-api/resources/upstart.conf"
+				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -1232,6 +1222,67 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"restric",
+					"res",
+					"restric",
+					"jifhq",
+					"restric",
+					"acat",
+					"ftClick_2631443",
+					"ftClick",
+					"https://events.tabmo.io/track/event?ev=click",
+					"\\n",
+					".::[",
+					"arra",
+					"|",
+					"| ",
+					"|",
+					"' ",
+					"| ",
+					"joloki",
+					"drilldown",
+					"AA",
+					",",
+					"\"",
+					"play_",
+					"IFA",
+					"f97f3e25-9183-479f-ac3b-98a77f2c05f3",
+					"iMusic",
+					"rubicon",
+					"lock",
+					"3f",
+					"EU",
+					"auctid",
+					"time",
+					"}",
+					"{",
+					"10386",
+					"10282",
+					"os",
+					"bundle",
+					"nativ",
+					"play_evolutions",
+					"play_evo",
+					"FROM play_evo",
+					",",
+					"in",
+					"settings",
+					"scalacVersion",
+					"aggregate",
+					"bintrayRepository",
+					"sonar",
+					"sona",
+					"son",
+					"license",
+					"lice",
+					"scalac",
+					"scalacVersion",
+					"2.12",
+					"play-json",
+					"2.6.0-m3",
+					"play-json",
+					"print",
+					"FROM",
 					"genericPattern",
 					"exclude",
 					")))",
@@ -1298,75 +1349,23 @@
 					"Cannot reparse order json",
 					"Score! Hero",
 					"Tubify",
-					"Independent",
-					"include",
-					"ua",
-					"exchange",
-					"\"c1f43b9a-e328-4f49-ab29-c0f3ed9d9f4f\" | ",
-					"%s",
-					"logger.",
-					"&&",
-					"||",
-					"lat",
-					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
-					" /",
-					"-H 'X-Auth-Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3RhYm1vLmV1LmF1dGgwLmNvbS8iLCJzdWIiOiJhdXRoMHw1NjhhOGEyNDJkM2E5MDJhNGVkNjk4ZDciLCJhdWQiOiJGUDdhbFUzS2lYbE5jSlpvUnhjbHJaTVJ0NHg2MU96UyIsImV4cCI6MTQ3MjE1Mjc3MCwiaWF0IjoxNDcyMTE2NzcwfQ.YT0IcylbL9C9UYtG9-2TOBZE1Lsk-7LcXJCg5FDwYG4'",
-					"dsp",
-					"Check false Positive",
-					"Check false positive >",
-					"Check false negative >",
-					"5e7327d9",
-					"2ea0298e",
-					"\\\"",
-					"VideoClicks",
-					"\\n",
-					"бассейн",
-					"() ",
-					"spark",
-					"VideoClicks",
-					"Wrapper",
-					"weather-api",
-					"BACKUP_DIRECTORY",
-					"dataflow",
-					"{ /* compiled code */ }",
-					"access_log",
-					"X-Forwarded-For",
-					"X-FORWARDED-FOR",
-					"exprod",
-					"\\n\\n\\n",
-					"\\n\\n\\n\\n\\n\\n\\n",
-					"\\n\\n\\n\\n",
-					"^--(.*)\\n",
-					"^--(.*)",
-					"$--(.*)",
-					"Aix",
-					"\"FR\"",
-					"\\n",
-					"\"\\n",
-					"ecd9bab0-169a-48ee-8ca4-7ef4750d3e83",
-					"05e8d824-73fa-4487-9727-1cf8b8007ab4",
-					"5f871222-dbb9-49bc-aed8-7bd6e9097c81",
-					"2016-01",
-					"(.*) (.*) (.*)",
-					"avgt    3 ",
-					"avgt    3  ",
-					"[info] ",
-					"([a-zA-z0-9]*): ([^,]*),",
-					"  ",
-					"([a-zA-z0-9]*): ([^,]*),",
-					"([a-zA-z0-9]*): ([^,.*]),",
-					"([a-zA-z0-9]*): ([^,]),",
-					"([a-zA-z0-9]*): (.*),",
-					"\\",
-					", ",
-					"Name: "
+					"Independent"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"\n",
+					".::[slick.lifted.Rep[",
+					"",
+					" ';",
+					" ",
+					"",
+					"]",
+					"[",
+					"print_debug",
 					"L)))",
 					"\"spent\"",
 					"\"imp\"",
@@ -1479,40 +1478,11 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/julien/.bashrc",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3225,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2668,
-										2668
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/julien/.bash_profile",
 							"semi_transient": false,
 							"settings":
 							{
@@ -1529,92 +1499,82 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/julien/.profile",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 975,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"auto_name": "",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										93,
-										93
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/julien/.config/fish/config.fish",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1226,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
 									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/julien/Bureau/comics.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 309648,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										309648,
-										309648
-									]
-								],
-								"settings":
-								{
-									"auto_name": "{\"code\":200,\"status\":\"Ok\",\"copyright\":\"© 2017 MARV",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1628,7 +1588,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1662,11 +1622,11 @@
 				"height": 225.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,5760,1103",
+			"position": "0,0,1,0,0,3150,443,3151,444,1920,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1675,6 +1635,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"java.sls",
+						"base/salt/tabmo/commons/java.sls"
+					],
+					[
+						"appcon",
+						"src/main/scala/io/tabmo/config/AppConfig.scala"
+					],
+					[
+						"ssp",
+						"modules/lists/app/lists/models/SSP.scala"
+					],
+					[
+						"schemas",
+						"modules/lib/entities/src/main/scala/entities/schemas/Schemas.scala"
+					],
+					[
+						"sche",
+						"modules/order-modules/order-impl/app/order/daos/ScheduleDAO.scala"
+					],
 					[
 						"apier",
 						"src/main/scala/models/error/ApiError.scala"
@@ -1788,12 +1768,2057 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 321.0,
+			"side_bar_width": 436.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 471,
+			"window_id": 534,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sca",
+						"scala_uri"
+					],
+					[
+						"log",
+						"logstash_logback"
+					],
+					[
+						"sites-",
+						"sites-enabled"
+					],
+					[
+						"adverti",
+						"advertiserOfDeal"
+					],
+					[
+						"advert",
+						"advertiserIds"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "akka {\n  loglevel = DEBUG\n  log-config-on-start = off\n  loggers = [\"akka.event.slf4j.Slf4jLogger\"]\n  logging-filter = \"akka.event.slf4j.Slf4jLoggingFilter\"\n\n  # Enable metrics extension in akka-cluster-metrics.\n  extensions=[\"akka.cluster.metrics.ClusterMetricsExtension\"]\n\n  actor {\n    provider = \"akka.cluster.ClusterActorRefProvider\"\n\n    serializers {\n      proto = \"akka.remote.serialization.ProtobufSerializer\"\n    }\n\n    serialization-bindings {\n      \"com.trueaccord.scalapb.GeneratedMessage\" = proto\n      \"com.google.protobuf.Message\" = proto\n    }\n\n    warn-about-java-serializer-usage = on\n    akka.actor.allow-java-serialization = off\n  }\n\n  remote {\n\n    artery {\n      enabled = on\n      canonical {\n        hostname = \"127.0.0.1\"\n        port = 0\n      }\n    }\n\n    # Sets the log granularity level at which Akka logs remoting events. This setting\n    # can take the values OFF, ERROR, WARNING, INFO, DEBUG, or ON. For compatibility\n    # reasons the setting \"on\" will default to \"debug\" level. Please note that the effective\n    # logging level is still determined by the global logging level of the actor system:\n    # for example debug level remoting events will be only logged if the system\n    # is running with debug level logging.\n    # Failures to deserialize received messages also fall under this flag.\n    log-remote-lifecycle-events = off\n\n    # If this is \"on\", Akka will log all inbound messages at DEBUG level,\n    # if off then they are not logged\n    log-received-messages = off\n\n    # If this is \"on\", Akka will log all outbound messages at DEBUG level,\n    # if off then they are not logged\n    log-sent-messages = off\n  }\n\n  cluster {\n\n    # Initial contact points of the cluster.\n    # The nodes to join automatically at startup.\n    # Comma separated full URIs defined by a string on the form of\n    # \"akka.tcp://system@hostname:port\"\n    # Leave as empty if the node is supposed to be joined manually.\n    seed-nodes = [\n      \"akka://ClusterSystem@127.0.0.1:2550\"\n    ]\n\n    # Should the 'leader' in the cluster be allowed to automatically mark\n    # unreachable nodes as DOWN after a configured time of unreachability?\n    # Using auto-down implies that two separate clusters will automatically be\n    # formed in case of network partition.\n    #\n    # Don't enable this in production, see 'Auto-downing (DO NOT USE)' section\n    # of Akka Cluster documentation.\n    #\n    # Disable with \"off\" or specify a duration to enable auto-down.\n    # If a downing-provider-class is configured this setting is ignored.\n    auto-down-unreachable-after = 10s\n\n    # Enable or disable JMX MBeans for management of the cluster\n    jmx.enabled = on\n\n    metrics.enabled = off # Disable legacy metrics in akka-cluster.\n\n    sharding {\n\n      # Use distributed data to store the sharding status\n      state-store-mode = ddata\n\n      # When this is set to 'on' the active entity actors will automatically be restarted\n      # upon Shard restart. i.e. if the Shard is started on a different ShardRegion\n      # due to rebalance or crash.\n      remember-entities = off\n\n      # Setting for the default shard allocation strategy\n      least-shard-allocation-strategy {\n        # Threshold of how large the difference between most and least number of\n        # allocated shards must be to begin the rebalancing.\n        rebalance-threshold = 10\n\n        # The number of ongoing rebalancing processes is limited to this number.\n        max-simultaneous-rebalance = 5\n      }\n\n    }\n  }\n\n\n}\n\napp {\n\n  apis {\n    http {\n      interface = \"0.0.0.0\"\n      port = 9000\n    }\n\n    kafka {\n      groupId = \"device-storage-api-mtp6\"\n      brokerList = \"127.0.0.1:9092\" # prod: 10.19.43.75\n      topic = \"avro-capping\"\n      maxInFlight = 2\n      startFrom = \"latest\"\n    }\n\n    grpc {\n      port = 9990\n    }\n\n  }\n\n  buckets {\n    day {\n      size = 200000\n      precision = 0.01\n      ttl = 1day\n    }\n    all {\n      size = 5000000\n      precision = 0.02\n      ttl = 7days\n    }\n  }\n\n  cluster {\n    shards = 200 # must be the same number for all members of the cluster!\n    port = 2550\n  }\n\n  features {\n    kafkaIngestion = true # require at least a zookeeper service\n  }\n\n}\n\n\n\n",
+					"file": "/home/julien/work/projects/devices-storage-api/src/main/resources/application.conf",
+					"file_size": 4167,
+					"file_write_time": 131475457337076121,
+					"settings":
+					{
+						"buffer_size": 4195,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "def foa: F[Option[A]]\ndef a2fb(a: A): F[B]\ndef fc: F[C]\ndef b2fc(b: B): F[C]\n\nval result: F[C] = (for {\n  a <- \n\n})\n\nval result: F[C] = for {\n  optA <- foa\n  c <- optA match {\n    case Some(a) => a2fb(a).flatMap(b2fc)\n    case None => fc\n  }\n} yield c",
+					"settings":
+					{
+						"buffer_size": 251,
+						"line_ending": "Unix",
+						"name": "def foa: F[Option[A]]"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 332.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"j",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json ",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prevo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"angularjs",
+						"AngularJS: Rebuild Search Index"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package con",
+						"Package Control: List Packages"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/projects/devices-storage-api",
+				"/home/julien/work/projects/devices-storage-api/src",
+				"/home/julien/work/projects/devices-storage-api/src/main",
+				"/home/julien/work/projects/devices-storage-api/src/main/resources"
+			],
+			"file_history":
+			[
+				"/home/julien/work/perso/protoless/build.sbt",
+				"/home/julien/work/perso/protoless/project/plugins.sbt",
+				"/home/julien/test.html",
+				"/home/julien/work/projects/manager-api/export_play_evolutions_local.sql",
+				"/home/julien/Téléchargements/test-druid/analyse-requetage-druid.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_backup_db_to_local.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_local.sh",
+				"/home/julien/Téléchargements/lidl (1) (autre copie).csv",
+				"/home/julien/Téléchargements/lidl (1).csv",
+				"/home/julien/Téléchargements/Dockerfile",
+				"/home/julien/Téléchargements/Lidl.txt",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/commons/java.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/prod.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/update-win-prediction.sh",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/tracker/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/creative-api/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/prod.sls",
+				"/home/julien/query.json",
+				"/home/julien/Téléchargements/export-referentials-as/appSiteListNameExchange.csv",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/logback.xml",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/application.conf",
+				"/home/julien/work/projects/prebid-augmenter/src/main/scala/io/tabmo/config/AppConfig.scala",
+				"/home/julien/work/projects/manager-api/1.sql",
+				"/home/julien/work/projects/manager-api/schema.sql",
+				"/home/julien/work/projects/manager-api/db.sql",
+				"/home/julien/query2.json",
+				"/home/julien/work/projects/manager-api/data",
+				"/home/julien/Téléchargements/test-size.txt",
+				"/home/julien/work/hackday/world-map-live/nodemcu-src/draft.txt",
+				"/home/julien/work/projects/druid-scala-client/src/test/scala/com/tapad/druid/client/NotExample.scala",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/cockpit-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/creative-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/Documents/error-pg-leak",
+				"/home/julien/Documents/Tabmo/adsquare.txt",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-10",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-12",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-10",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/DnaToolsSpec.scala",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/UnitTest.scala",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service-autoConfig.ts",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service.ts",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/build.sbt",
+				"/home/julien/.config/fish/conf.d/alias.fish",
+				"/home/julien/work/hackday/quantum-chaos/mqtt-alert-mock/main.go",
+				"/home/julien/.config/fish/config.fish",
+				"/home/julien/.profile",
+				"/home/julien/.bashrc",
+				"/home/julien/.bash_profile",
+				"/home/julien/Documents/Tabmo/Analyse Laboxy.txt",
+				"/home/julien/Bureau/comics.json",
+				"/home/julien/Documents/Tabmo/debug.html",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/tools/.sqlmanager",
+				"/home/julien/Documents/INSTALLATION.txt~",
+				"/home/julien/work/projects/manager-api/doc/README.md",
+				"/home/julien/work/perso/dotfiles/sync.sh",
+				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
+				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
+				"/home/julien/Téléchargements/routes.csv",
+				"/home/julien/Bureau/line10-fe2",
+				"/home/julien/Bureau/pbm3.csv",
+				"/home/julien/Bureau/pbm2",
+				"/home/julien/Downloads/pfff.csv",
+				"/home/julien/Bureau/pbm1.csv",
+				"/home/julien/Bureau/line9.csv",
+				"/home/julien/Bureau/line8.csv",
+				"/home/julien/Bureau/line7.csv",
+				"/home/julien/Bureau/line6.csv",
+				"/home/julien/Bureau/line4.csv",
+				"/home/julien/Bureau/line3.csv",
+				"/home/julien/Bureau/line2",
+				"/home/julien/Bureau/line.csv",
+				"/home/julien/work/projects/druid-tooling/killalltask.sh",
+				"/home/julien/work/projects/druid-tooling/kill-task.sh",
+				"/home/julien/work/projects/druid-tooling/druid-env.sh",
+				"/home/julien/work/projects/druid-tooling/updateLookups.sh",
+				"/home/julien/work/projects/druid-tooling/toggle-middlemanager.sh",
+				"/home/julien/work/projects/druid-tooling/shutdown-task.sh",
+				"/home/julien/work/projects/druid-tooling/lookupsListKeys.sh",
+				"/home/julien/work/projects/druid-tooling/listenLookups.sh",
+				"/home/julien/work/projects/druid-tooling/list-tasks.sh",
+				"/home/julien/test/build.sbt",
+				"/home/julien/Téléchargements/GEODATASOURCE-CITIES-FREE.TXT/GEODATASOURCE-CITIES-FREE.TXT",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-10",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-09",
+				"/home/julien/work/perso/anonymisation-json/1000.1476614033052.anon.json",
+				"/home/julien/work/perso/anonymisation-json/1000.anon.json",
+				"/home/julien/work/perso/anonymisation-json/s",
+				"/home/julien/Documents/versions-os.txt",
+				"/home/julien/Documents/adsquare.txt",
+				"/home/julien/work/projects/experiments-deviceid/src/main/scala/CountingBloomFilter.scala",
+				"/home/julien/Documents/nouvelle-plateforme.sh",
+				"/home/julien/Documents/bloomfilters-1.2M.txt",
+				"/home/julien/Documents/bloomfiters-10M.txt",
+				"/home/julien/work/meetup-bigdata-avito/src/main/scala/SparkExecutor.scala",
+				"/home/julien/work/formations/workshop-scala/workshop1-dna/src/main/scala/models/Base.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/UnitTest.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/TennisGameSpec.scala",
+				"/home/julien/Téléchargements/avito/out2.csv",
+				"/home/julien/.cache/.fr-qZ7cDp/VAST_2_0_1_Schema/vast_2.0.1.xsd",
+				"/home/julien/Documents/INSTALL_Anastasia_test_server.sh",
+				"/home/julien/Documents/analyse-build-jenkins/DEV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV",
+				"/home/julien/work/projects/tabmo-config/ovh-server/autodeploy/manager-front.sh",
+				"/home/julien/Documents/Devoxx/consul.txt",
+				"/home/julien/sg.html",
+				"/home/julien/work/perso/mocky/Procfile",
+				"/home/julien/Documents/retour-francois.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_dev.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/prod_to_dev.sql",
+				"/home/julien/Téléchargements/loc152csv/2015-2 SubdivisionCodes.csv",
+				"/home/julien/Téléchargements/loc152csv/2015-2 UNLOCODE CodeListPart2.csv",
+				"/home/julien/Téléchargements/GeoLiteCity_20160202/GeoLiteCity-Location.csv",
+				"/home/julien/work/projects/manager-front/src/conf/env.js",
+				"/home/julien/Documents/TODO-maj-new-platform.txt",
+				"/home/julien/work/projects/jawn/benchmark/build.sbt",
+				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"/home/julien/work/projects/aws-deploy",
+					"/home/julien/work/projects/middleware-api",
+					"/home/julien/work/projects/dataprovider-connector-api",
+					"",
+					"/home/julien/work/projects/manager-front/app/",
+					"/home/julien/work/projects/manager-front/app/views",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-doc",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/app/scripts/pages",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"restric",
+					"res",
+					"restric",
+					"jifhq",
+					"restric",
+					"acat",
+					"ftClick_2631443",
+					"ftClick",
+					"https://events.tabmo.io/track/event?ev=click",
+					"\\n",
+					".::[",
+					"arra",
+					"|",
+					"| ",
+					"|",
+					"' ",
+					"| ",
+					"joloki",
+					"drilldown",
+					"AA",
+					",",
+					"\"",
+					"play_",
+					"IFA",
+					"f97f3e25-9183-479f-ac3b-98a77f2c05f3",
+					"iMusic",
+					"rubicon",
+					"lock",
+					"3f",
+					"EU",
+					"auctid",
+					"time",
+					"}",
+					"{",
+					"10386",
+					"10282",
+					"os",
+					"bundle",
+					"nativ",
+					"play_evolutions",
+					"play_evo",
+					"FROM play_evo",
+					",",
+					"in",
+					"settings",
+					"scalacVersion",
+					"aggregate",
+					"bintrayRepository",
+					"sonar",
+					"sona",
+					"son",
+					"license",
+					"lice",
+					"scalac",
+					"scalacVersion",
+					"2.12",
+					"play-json",
+					"2.6.0-m3",
+					"play-json",
+					"print",
+					"FROM",
+					"genericPattern",
+					"exclude",
+					")))",
+					"protected ",
+					"spent",
+					"imp",
+					"spent",
+					"imp",
+					"\\)\\)\\),",
+					"))),",
+					"5",
+					" stats",
+					" order",
+					" /",
+					" order",
+					"order",
+					" /",
+					"        \n",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					" |",
+					"| ",
+					" | ",
+					",",
+					" |",
+					"| ",
+					" | ",
+					" ",
+					"|",
+					"Fukushima",
+					"Tōkyō",
+					"Khorāsān",
+					"RU",
+					"UR ",
+					"UR",
+					"RU",
+					"Wadi",
+					"Ryadh",
+					"Ryad",
+					"      ",
+					"media-upload-api",
+					"-:-",
+					"'",
+					" / ",
+					"/",
+					"Cannot reparse order json",
+					"Score! Hero",
+					"Tubify",
+					"Independent"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\n",
+					".::[slick.lifted.Rep[",
+					"",
+					" ';",
+					" ",
+					"",
+					"]",
+					"[",
+					"print_debug",
+					"L)))",
+					"\"spent\"",
+					"\"imp\"",
+					"))),\\n",
+					";stats",
+					";order",
+					";/",
+					",order",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					";",
+					"",
+					",",
+					"",
+					",",
+					"\n",
+					"",
+					"\\n",
+					"mailer-api",
+					"invoicing-api",
+					"-%3A-",
+					"\\'",
+					"', '",
+					"",
+					"and",
+					"or",
+					"-H \"X-Auth-Token: $token\"",
+					"Check false positive",
+					"Check false negative >",
+					"Check false Positive >",
+					"\"",
+					"",
+					"{ }",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"",
+					"\",\"",
+					"2015-12",
+					"UPDATE users SET auth0_id = '$3' WHERE email = '$1';",
+					"",
+					"\"$1\",",
+					" ",
+					"\"$1\", ",
+					"",
+					";",
+					"",
+					"4ccf6690-a776-47ab-9c74-81fdeb9ccda1",
+					"",
+					"OWNER",
+					"\\\"",
+					"realtime-stats",
+					" -> (\"$2\", \"$1\")",
+					"\"$2\" -> \"$1\",",
+					"->",
+					"\"",
+					"",
+					"\"c\"",
+					"c",
+					"\"",
+					"",
+					"-O",
+					"deal",
+					"/",
+					"dataprovider-api",
+					"/v1/",
+					"v1/advertiser",
+					"/internal/v1",
+					"manager-api.dev.tabmo.net",
+					"",
+					"$URL",
+					" -> ",
+					"",
+					"q",
+					"\"",
+					"uhli",
+					"login_infos",
+					"u",
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/julien/work/projects/devices-storage-api"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/julien/work/projects/devices-storage-api/src/main/resources/application.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4195,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2853,
+										2853
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1458.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 251,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										111,
+										111
+									]
+								],
+								"settings":
+								{
+									"auto_name": "def foa: F[Option[A]]",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"default_dir": "/home/julien/work/projects/devices-storage-api",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 225.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,1,0,0,1994,275,2634,783,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"java.sls",
+						"base/salt/tabmo/commons/java.sls"
+					],
+					[
+						"appcon",
+						"src/main/scala/io/tabmo/config/AppConfig.scala"
+					],
+					[
+						"ssp",
+						"modules/lists/app/lists/models/SSP.scala"
+					],
+					[
+						"schemas",
+						"modules/lib/entities/src/main/scala/entities/schemas/Schemas.scala"
+					],
+					[
+						"sche",
+						"modules/order-modules/order-impl/app/order/daos/ScheduleDAO.scala"
+					],
+					[
+						"apier",
+						"src/main/scala/models/error/ApiError.scala"
+					],
+					[
+						"directive",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"direct",
+						"app/scripts/form/Directives.js"
+					],
+					[
+						"creative.view.",
+						"app/views/creatives/creatives.view.html"
+					],
+					[
+						"creative.v",
+						"app/scripts/creatives/creatives.view.js"
+					],
+					[
+						"direc",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"ourf",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"date",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"dat",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"daterangepicker",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"our",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"deal.ser",
+						"app/scripts/deals/deals.service.js"
+					],
+					[
+						"newor",
+						"modules/order/app/models/api/NewOrder.scala"
+					],
+					[
+						"orderser",
+						"modules/order/app/services/impl/OrderServiceImpl.scala"
+					],
+					[
+						"businessva",
+						"modules/core/src/main/scala/validation/BusinessValidation.scala"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"templa",
+						"app/scripts/templates/templates.js"
+					],
+					[
+						"controller",
+						"app/scripts/pages/Controllers.js"
+					],
+					[
+						"bower",
+						"bower.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 436.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 537,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sca",
+						"scala_uri"
+					],
+					[
+						"log",
+						"logstash_logback"
+					],
+					[
+						"sites-",
+						"sites-enabled"
+					],
+					[
+						"adverti",
+						"advertiserOfDeal"
+					],
+					[
+						"advert",
+						"advertiserIds"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/julien/work/projects/test-retargeting-storage/src/main/scala/Main.scala",
+					"settings":
+					{
+						"buffer_size": 5545,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "def nextPowerOfTwo(y: Long): Long = {\n    if (y == 0) return 1;\n    var x = y;\n    x = x - 1;\n    x |= x >> 1;\n    x |= x >> 2;\n    x |= x >> 4;\n    x |= x >> 8;\n    x |= x >> 16;\n    return (x | x >> 32) + 1;\n  }",
+					"settings":
+					{
+						"buffer_size": 213,
+						"line_ending": "Unix",
+						"name": "def nextPowerOfTwo(y: Long): Long = {"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 332.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"j",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pretty",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"json ",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"prevo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"prev",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"angularjs",
+						"AngularJS: Rebuild Search Index"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"package con",
+						"Package Control: List Packages"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE INS",
+						"Package Control: Install Package"
+					],
+					[
+						"PACKAGE IN",
+						"Package Control: Install Package"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/projects/test-retargeting-storage/src/main/scala",
+				"/home/julien/work/projects/test-retargeting-storage/src/main/scala/util",
+				"/home/julien/work/projects/test-retargeting-storage/src/main/scala/util/hash"
+			],
+			"file_history":
+			[
+				"/home/julien/work/perso/protoless/build.sbt",
+				"/home/julien/work/perso/protoless/project/plugins.sbt",
+				"/home/julien/test.html",
+				"/home/julien/work/projects/manager-api/export_play_evolutions_local.sql",
+				"/home/julien/Téléchargements/test-druid/analyse-requetage-druid.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_backup_db_to_local.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_local.sh",
+				"/home/julien/Téléchargements/lidl (1) (autre copie).csv",
+				"/home/julien/Téléchargements/lidl (1).csv",
+				"/home/julien/Téléchargements/Dockerfile",
+				"/home/julien/Téléchargements/Lidl.txt",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/commons/java.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/bidder-finagle/prod.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/bidder/files/update-win-prediction.sh",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/tracker/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/salt/tabmo/app/creative-api/init.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/dev.sls",
+				"/home/julien/work/projects/tabmo-salt/base/pillar/tabmo/app/creative-api/prod.sls",
+				"/home/julien/query.json",
+				"/home/julien/Téléchargements/export-referentials-as/appSiteListNameExchange.csv",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/logback.xml",
+				"/home/julien/work/projects/prebid-augmenter/src/main/resources/application.conf",
+				"/home/julien/work/projects/prebid-augmenter/src/main/scala/io/tabmo/config/AppConfig.scala",
+				"/home/julien/work/projects/manager-api/1.sql",
+				"/home/julien/work/projects/manager-api/schema.sql",
+				"/home/julien/work/projects/manager-api/db.sql",
+				"/home/julien/query2.json",
+				"/home/julien/work/projects/manager-api/data",
+				"/home/julien/Téléchargements/test-size.txt",
+				"/home/julien/work/hackday/world-map-live/nodemcu-src/draft.txt",
+				"/home/julien/work/projects/druid-scala-client/src/test/scala/com/tapad/druid/client/NotExample.scala",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/cockpit-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/creative-api/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-finagle/files/upstart.conf",
+				"/home/julien/work/projects/tabmo-salt/migration/salt/tabmo/app/bidder-doubleclick/files/upstart.conf",
+				"/home/julien/Documents/error-pg-leak",
+				"/home/julien/Documents/Tabmo/adsquare.txt",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-10",
+				"/home/julien/Téléchargements/pglog/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-11",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-12",
+				"/home/julien/Téléchargements/postgresql.log.2017-04-28-10",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/DnaToolsSpec.scala",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/workshop1-dna/src/test/scala/UnitTest.scala",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service-autoConfig.ts",
+				"/home/julien/work/hackday/quantum-chaos/chaos-client/src/providers/mqtt-service.ts",
+				"/home/julien/work/formations/tech.io/scala-test-1/project1/build.sbt",
+				"/home/julien/.config/fish/conf.d/alias.fish",
+				"/home/julien/work/hackday/quantum-chaos/mqtt-alert-mock/main.go",
+				"/home/julien/.config/fish/config.fish",
+				"/home/julien/.profile",
+				"/home/julien/.bashrc",
+				"/home/julien/.bash_profile",
+				"/home/julien/Documents/Tabmo/Analyse Laboxy.txt",
+				"/home/julien/Bureau/comics.json",
+				"/home/julien/Documents/Tabmo/debug.html",
+				"/home/julien/.config/.alias",
+				"/home/julien/work/tools/.sqlmanager",
+				"/home/julien/Documents/INSTALLATION.txt~",
+				"/home/julien/work/projects/manager-api/doc/README.md",
+				"/home/julien/work/perso/dotfiles/sync.sh",
+				"/home/julien/work/projects/tracker/src/main/scala/io/tabmo/tracker/service/ConversionService.scala",
+				"/home/julien/work/projects/devices-storage-api/remplir-buckets.sh",
+				"/home/julien/Téléchargements/routes.csv",
+				"/home/julien/Bureau/line10-fe2",
+				"/home/julien/Bureau/pbm3.csv",
+				"/home/julien/Bureau/pbm2",
+				"/home/julien/Downloads/pfff.csv",
+				"/home/julien/Bureau/pbm1.csv",
+				"/home/julien/Bureau/line9.csv",
+				"/home/julien/Bureau/line8.csv",
+				"/home/julien/Bureau/line7.csv",
+				"/home/julien/Bureau/line6.csv",
+				"/home/julien/Bureau/line4.csv",
+				"/home/julien/Bureau/line3.csv",
+				"/home/julien/Bureau/line2",
+				"/home/julien/Bureau/line.csv",
+				"/home/julien/work/projects/druid-tooling/killalltask.sh",
+				"/home/julien/work/projects/druid-tooling/kill-task.sh",
+				"/home/julien/work/projects/druid-tooling/druid-env.sh",
+				"/home/julien/work/projects/druid-tooling/updateLookups.sh",
+				"/home/julien/work/projects/druid-tooling/toggle-middlemanager.sh",
+				"/home/julien/work/projects/druid-tooling/shutdown-task.sh",
+				"/home/julien/work/projects/druid-tooling/lookupsListKeys.sh",
+				"/home/julien/work/projects/druid-tooling/listenLookups.sh",
+				"/home/julien/work/projects/druid-tooling/list-tasks.sh",
+				"/home/julien/test/build.sbt",
+				"/home/julien/Téléchargements/GEODATASOURCE-CITIES-FREE.TXT/GEODATASOURCE-CITIES-FREE.TXT",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-10",
+				"/home/julien/Téléchargements/postgresql.log.2016-11-03-09",
+				"/home/julien/work/perso/anonymisation-json/1000.1476614033052.anon.json",
+				"/home/julien/work/perso/anonymisation-json/1000.anon.json",
+				"/home/julien/work/perso/anonymisation-json/s",
+				"/home/julien/Documents/versions-os.txt",
+				"/home/julien/Documents/adsquare.txt",
+				"/home/julien/work/projects/experiments-deviceid/src/main/scala/CountingBloomFilter.scala",
+				"/home/julien/Documents/nouvelle-plateforme.sh",
+				"/home/julien/Documents/bloomfilters-1.2M.txt",
+				"/home/julien/Documents/bloomfiters-10M.txt",
+				"/home/julien/work/meetup-bigdata-avito/src/main/scala/SparkExecutor.scala",
+				"/home/julien/work/formations/workshop-scala/workshop1-dna/src/main/scala/models/Base.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/UnitTest.scala",
+				"/home/julien/work/formations/workshop-scala/workshop3-kata-tennis/src/test/scala/TennisGameSpec.scala",
+				"/home/julien/Téléchargements/avito/out2.csv",
+				"/home/julien/.cache/.fr-qZ7cDp/VAST_2_0_1_Schema/vast_2.0.1.xsd",
+				"/home/julien/Documents/INSTALL_Anastasia_test_server.sh",
+				"/home/julien/Documents/analyse-build-jenkins/DEV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV-light",
+				"/home/julien/Documents/analyse-build-jenkins/PRIV",
+				"/home/julien/work/projects/tabmo-config/ovh-server/autodeploy/manager-front.sh",
+				"/home/julien/Documents/Devoxx/consul.txt",
+				"/home/julien/sg.html",
+				"/home/julien/work/perso/mocky/Procfile",
+				"/home/julien/Documents/retour-francois.txt",
+				"/home/julien/work/projects/manager-api/scripts/sql/migrate_prod_db_to_dev.sh",
+				"/home/julien/work/projects/manager-api/scripts/sql/prod_to_dev.sql",
+				"/home/julien/Téléchargements/loc152csv/2015-2 SubdivisionCodes.csv",
+				"/home/julien/Téléchargements/loc152csv/2015-2 UNLOCODE CodeListPart2.csv",
+				"/home/julien/Téléchargements/GeoLiteCity_20160202/GeoLiteCity-Location.csv",
+				"/home/julien/work/projects/manager-front/src/conf/env.js",
+				"/home/julien/Documents/TODO-maj-new-platform.txt",
+				"/home/julien/work/projects/jawn/benchmark/build.sbt",
+				"/home/julien/work/projects/jawn/benchmark/src/main/scala/jawn/JmhBenchmarks.scala"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"/home/julien/work/projects/aws-deploy",
+					"/home/julien/work/projects/middleware-api",
+					"/home/julien/work/projects/dataprovider-connector-api",
+					"",
+					"/home/julien/work/projects/manager-front/app/",
+					"/home/julien/work/projects/manager-front/app/views",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-doc",
+					"/home/julien/work/projects/manager-front/",
+					"/home/julien/work/projects/manager-front/app",
+					"/home/julien/work/projects/manager-front/app/scripts",
+					"/home/julien/work/projects/manager-front/app/scripts/pages",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"restric",
+					"res",
+					"restric",
+					"jifhq",
+					"restric",
+					"acat",
+					"ftClick_2631443",
+					"ftClick",
+					"https://events.tabmo.io/track/event?ev=click",
+					"\\n",
+					".::[",
+					"arra",
+					"|",
+					"| ",
+					"|",
+					"' ",
+					"| ",
+					"joloki",
+					"drilldown",
+					"AA",
+					",",
+					"\"",
+					"play_",
+					"IFA",
+					"f97f3e25-9183-479f-ac3b-98a77f2c05f3",
+					"iMusic",
+					"rubicon",
+					"lock",
+					"3f",
+					"EU",
+					"auctid",
+					"time",
+					"}",
+					"{",
+					"10386",
+					"10282",
+					"os",
+					"bundle",
+					"nativ",
+					"play_evolutions",
+					"play_evo",
+					"FROM play_evo",
+					",",
+					"in",
+					"settings",
+					"scalacVersion",
+					"aggregate",
+					"bintrayRepository",
+					"sonar",
+					"sona",
+					"son",
+					"license",
+					"lice",
+					"scalac",
+					"scalacVersion",
+					"2.12",
+					"play-json",
+					"2.6.0-m3",
+					"play-json",
+					"print",
+					"FROM",
+					"genericPattern",
+					"exclude",
+					")))",
+					"protected ",
+					"spent",
+					"imp",
+					"spent",
+					"imp",
+					"\\)\\)\\),",
+					"))),",
+					"5",
+					" stats",
+					" order",
+					" /",
+					" order",
+					"order",
+					" /",
+					"        \n",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					"|",
+					" | ",
+					" |",
+					"| ",
+					" | ",
+					",",
+					" |",
+					"| ",
+					" | ",
+					" ",
+					"|",
+					"Fukushima",
+					"Tōkyō",
+					"Khorāsān",
+					"RU",
+					"UR ",
+					"UR",
+					"RU",
+					"Wadi",
+					"Ryadh",
+					"Ryad",
+					"      ",
+					"media-upload-api",
+					"-:-",
+					"'",
+					" / ",
+					"/",
+					"Cannot reparse order json",
+					"Score! Hero",
+					"Tubify",
+					"Independent"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\n",
+					".::[slick.lifted.Rep[",
+					"",
+					" ';",
+					" ",
+					"",
+					"]",
+					"[",
+					"print_debug",
+					"L)))",
+					"\"spent\"",
+					"\"imp\"",
+					"))),\\n",
+					";stats",
+					";order",
+					";/",
+					",order",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					"",
+					",",
+					";",
+					"",
+					",",
+					"",
+					",",
+					"\n",
+					"",
+					"\\n",
+					"mailer-api",
+					"invoicing-api",
+					"-%3A-",
+					"\\'",
+					"', '",
+					"",
+					"and",
+					"or",
+					"-H \"X-Auth-Token: $token\"",
+					"Check false positive",
+					"Check false negative >",
+					"Check false Positive >",
+					"\"",
+					"",
+					"{ }",
+					"\\n",
+					"\\n\\n",
+					"\\n",
+					"",
+					"\",\"",
+					"2015-12",
+					"UPDATE users SET auth0_id = '$3' WHERE email = '$1';",
+					"",
+					"\"$1\",",
+					" ",
+					"\"$1\", ",
+					"",
+					";",
+					"",
+					"4ccf6690-a776-47ab-9c74-81fdeb9ccda1",
+					"",
+					"OWNER",
+					"\\\"",
+					"realtime-stats",
+					" -> (\"$2\", \"$1\")",
+					"\"$2\" -> \"$1\",",
+					"->",
+					"\"",
+					"",
+					"\"c\"",
+					"c",
+					"\"",
+					"",
+					"-O",
+					"deal",
+					"/",
+					"dataprovider-api",
+					"/v1/",
+					"v1/advertiser",
+					"/internal/v1",
+					"manager-api.dev.tabmo.net",
+					"",
+					"$URL",
+					" -> ",
+					"",
+					"q",
+					"\"",
+					"uhli",
+					"login_infos",
+					"u",
+					"created_at",
+					"\\\"",
+					"SLACK_NOTIFY_CONFIGURABLE_"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/julien/work/projects/test-retargeting-storage/src/main/scala"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/julien/work/projects/test-retargeting-storage/src/main/scala/Main.scala",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5545,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/Scala/Scala.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 213,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "def nextPowerOfTwo(y: Long): Long = {",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"default_dir": "/home/julien/work/projects/test-retargeting-storage/src/main/scala",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 225.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,797,24,1437,560,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"java.sls",
+						"base/salt/tabmo/commons/java.sls"
+					],
+					[
+						"appcon",
+						"src/main/scala/io/tabmo/config/AppConfig.scala"
+					],
+					[
+						"ssp",
+						"modules/lists/app/lists/models/SSP.scala"
+					],
+					[
+						"schemas",
+						"modules/lib/entities/src/main/scala/entities/schemas/Schemas.scala"
+					],
+					[
+						"sche",
+						"modules/order-modules/order-impl/app/order/daos/ScheduleDAO.scala"
+					],
+					[
+						"apier",
+						"src/main/scala/models/error/ApiError.scala"
+					],
+					[
+						"directive",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"direct",
+						"app/scripts/form/Directives.js"
+					],
+					[
+						"creative.view.",
+						"app/views/creatives/creatives.view.html"
+					],
+					[
+						"creative.v",
+						"app/scripts/creatives/creatives.view.js"
+					],
+					[
+						"direc",
+						"app/scripts/shared/Directives.js"
+					],
+					[
+						"ourf",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"date",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"dat",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"daterangepicker",
+						"app/assets/plugins/form-daterangepicker/daterangepicker.js"
+					],
+					[
+						"our",
+						"app/scripts/shared/ourForm.directive.js"
+					],
+					[
+						"app",
+						"app/scripts/app.js"
+					],
+					[
+						"deal.ser",
+						"app/scripts/deals/deals.service.js"
+					],
+					[
+						"newor",
+						"modules/order/app/models/api/NewOrder.scala"
+					],
+					[
+						"orderser",
+						"modules/order/app/services/impl/OrderServiceImpl.scala"
+					],
+					[
+						"businessva",
+						"modules/core/src/main/scala/validation/BusinessValidation.scala"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"templa",
+						"app/scripts/templates/templates.js"
+					],
+					[
+						"controller",
+						"app/scripts/pages/Controllers.js"
+					],
+					[
+						"bower",
+						"bower.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 436.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 538,
 			"workspace_name": ""
 		}
 	],

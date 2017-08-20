@@ -17,306 +17,18 @@
       </output>
       <output name="DP1">
       </output>
-      <output name="HDMI1">
-          <vendor>SAM</vendor>
-          <product>0x0b3f</product>
-          <serial>0x30305a4c</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
       <output name="DP2">
-          <vendor>SAM</vendor>
-          <product>0x0b3e</product>
-          <serial>0x30305a4c</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>3840</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
       </output>
-      <output name="HDMI2">
+      <output name="DP2-1">
       </output>
-      <output name="VIRTUAL1">
+      <output name="DP2-2">
       </output>
-  </configuration>
-  <configuration>
-      <clone>no</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
-      </output>
-      <output name="HDMI1">
-      </output>
-      <output name="DP2">
-          <vendor>SAM</vendor>
-          <product>0x0b3f</product>
-          <serial>0x30305a4c</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>55</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="HDMI2">
-      </output>
-      <output name="VIRTUAL1">
-      </output>
-  </configuration>
-  <configuration>
-      <clone>no</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
-      </output>
-      <output name="HDMI1">
-      </output>
-      <output name="DP2">
+      <output name="DP2-3">
           <vendor>SAM</vendor>
           <product>0x0b3e</product>
           <serial>0x5a5a3848</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>55</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="HDMI2">
-      </output>
-      <output name="VIRTUAL1">
-      </output>
-  </configuration>
-  <configuration>
-      <clone>yes</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
       </output>
       <output name="HDMI1">
-          <vendor>SAM</vendor>
-          <product>0x03bc</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="DP2">
-      </output>
-      <output name="HDMI2">
-      </output>
-      <output name="VIRTUAL1">
-      </output>
-  </configuration>
-  <configuration>
-      <clone>no</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
-      </output>
-      <output name="HDMI1">
-      </output>
-      <output name="DP2">
-          <vendor>ACI</vendor>
-          <product>0x27e4</product>
-          <serial>0x00006a74</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>0</rate>
-          <x>1920</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="HDMI2">
-      </output>
-      <output name="VIRTUAL1">
-      </output>
-  </configuration>
-  <configuration>
-      <clone>yes</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
-      </output>
-      <output name="HDMI1">
-          <vendor>SNY</vendor>
-          <product>0x5c01</product>
-          <serial>0x01010101</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="DP2">
-      </output>
-      <output name="HDMI2">
-      </output>
-      <output name="VIRTUAL1">
-      </output>
-  </configuration>
-  <configuration>
-      <clone>no</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
-      </output>
-      <output name="HDMI1">
-          <vendor>SAM</vendor>
-          <product>0x0b3f</product>
-          <serial>0x30305a4c</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>1920</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="DP2">
-          <vendor>SAM</vendor>
-          <product>0x0b3e</product>
-          <serial>0x5a5a3848</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>3840</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>no</primary>
-      </output>
-      <output name="HDMI2">
-      </output>
-      <output name="VIRTUAL1">
-      </output>
-  </configuration>
-  <configuration>
-      <clone>no</clone>
-      <output name="eDP1">
-          <vendor>LGD</vendor>
-          <product>0x040a</product>
-          <serial>0x00000000</serial>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-          <x>0</x>
-          <y>0</y>
-          <rotation>normal</rotation>
-          <reflect_x>no</reflect_x>
-          <reflect_y>no</reflect_y>
-          <primary>yes</primary>
-      </output>
-      <output name="DP1">
-      </output>
-      <output name="HDMI1">
-      </output>
-      <output name="DP2">
       </output>
       <output name="HDMI2">
       </output>
@@ -348,18 +60,42 @@
       <output name="DP2-2">
       </output>
       <output name="DP2-3">
+      </output>
+      <output name="HDMI1">
+      </output>
+      <output name="HDMI2">
+      </output>
+      <output name="VIRTUAL1">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP1">
+          <vendor>LGD</vendor>
+          <product>0x040a</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="DP1">
+      </output>
+      <output name="DP2">
+      </output>
+      <output name="DP2-1">
+      </output>
+      <output name="DP2-2">
+      </output>
+      <output name="DP2-3">
           <vendor>SAM</vendor>
           <product>0x0b3e</product>
           <serial>0x5a5a3848</serial>
           <width>1920</width>
           <height>1080</height>
-          <rate>0</rate>
-          <x>3840</x>
-          <y>23</y>
+          <rate>60</rate>
+          <x>1920</x>
+          <y>0</y>
           <rotation>normal</rotation>
           <reflect_x>no</reflect_x>
           <reflect_y>no</reflect_y>
-          <primary>no</primary>
+          <primary>yes</primary>
       </output>
       <output name="HDMI1">
           <vendor>SAM</vendor>
@@ -368,7 +104,7 @@
           <width>1920</width>
           <height>1080</height>
           <rate>60</rate>
-          <x>1920</x>
+          <x>0</x>
           <y>0</y>
           <rotation>normal</rotation>
           <reflect_x>no</reflect_x>

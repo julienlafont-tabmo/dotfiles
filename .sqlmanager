@@ -6,6 +6,7 @@ psql -v ON_ERROR_STOP=1 --username "$POSTGRES_USER" <<-EOSQL
     CREATE USER tabmo SUPERUSER ENCRYPTED PASSWORD 'tabmo';
 
     CREATE DATABASE "manager-test" WITH OWNER tabmo;
+    CREATE DATABASE "segment-test" WITH OWNER tabmo;
     CREATE DATABASE "manager" WITH OWNER tabmo;
     CREATE DATABASE "media-upload" WITH OWNER tabmo;
     CREATE DATABASE "mailer" WITH OWNER tabmo;
